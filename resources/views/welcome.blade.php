@@ -10,7 +10,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center">
-                <h1 class="title"><span class="fa fa-home"></span> MyHub.id </h1>
+                <h1 class="title">Remote <span class="fa fa-home"></span> MyHub.id </h1>
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <a href="#" class="btn btn-default btn-radius btn-outline white-border white-text fill-white">Pekerjaan</a>&nbsp;&nbsp; <a href="#" class="btn btn-default animated btn-radius theme-bg white-text">Anggota <i class="fa fa-cart-arrow-down" aria-hidden="true"></i></a> 
             </div>
