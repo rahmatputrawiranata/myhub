@@ -17,6 +17,12 @@ Route::get('/', function () {
 
 // About Pages 
 
+Route::get('project', function () {return view('guest.project');});
+
+Route::get('member', function () {return view('guest.member');});
+
+Route::get('myhub', function () {return view('guest.myhub');});
+
 Route::get('about-company', function () {return view('pages.about.about-company');});
 
 Route::get('about-me', function () {return view('pages.about.about-me');});
@@ -84,15 +90,12 @@ Route::get('element-blog', function () {return view('pages.element.element-blog'
 
 Route::get('element-button', function () {return view('pages.element.element-button');});
 
-Route::get('element-client', function () {return view('pages.element.element-client');});
 
 Route::get('element-columns', function () {return view('pages.element.element-columns');});
 
 Route::get('element-counter', function () {return view('pages.element.element-counter');});
 
 Route::get('element-dropcap', function () {return view('pages.element.element-dropcap');});
-
-Route::get('element-feature-box', function () {return view('pages.element.element-feature-box');});
 
 Route::get('element-form', function () {return view('pages.element.element-form');});
 
@@ -111,8 +114,6 @@ Route::get('element-social', function () {return view('pages.element.element-soc
 Route::get('element-step-feature', function () {return view('pages.element.element-step-feature');});
 
 Route::get('element-tab', function () {return view('pages.element.element-tab');});
-
-Route::get('element-team', function () {return view('pages.element.element-team');});
 
 Route::get('element-testimonials', function () {return view('pages.element.element-testimonials');});
 

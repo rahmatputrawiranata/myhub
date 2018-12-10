@@ -3,9 +3,16 @@
     {{-- @include('templates.kkr021.megamenu.menu.home') --}}
     <li class="active dropdown">
       <a href="{{ url('/')}}">Home</a>
-
     </li>
-    
+    <li class="active dropdown">
+      <a href="project">Project</a>
+    </li>
+    <li class="active dropdown">
+      <a href="myhub">Channel</a>
+    </li>
+    <li class="active dropdown">
+      <a href="member">Member</a>
+    </li>
     
   </ul>
 </div>
