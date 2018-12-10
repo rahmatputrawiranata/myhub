@@ -16,9 +16,10 @@
                 <!-- Profile Image -->
                 <div class="box box-primary">
                   <div class="box-body box-profile">
-                    <img class="profile-user-img img-responsive img-circle" src="img/user4-128x128.jpg" alt="User profile picture">
+                    <img class="profile-user-img img-responsive img-circle" src="img/ths.jpeg" alt="User profile picture">
                     
-                    <h3 class="profile-username text-center">Nina Mcintire</h3>
+                    <h3 class="profile-username text-center">Tonny Soerojo S.H.</h3>
+                    <p class="text-muted text-center">THSoerojo SH. & Rekan</p>
                     
                     <p class="text-muted text-center">Software Engineer</p>
                     

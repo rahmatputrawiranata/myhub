@@ -91,6 +91,8 @@ Route::get('element-blog', function () {return view('pages.element.element-blog'
 Route::get('element-button', function () {return view('pages.element.element-button');});
 
 
+
+
 Route::get('element-columns', function () {return view('pages.element.element-columns');});
 
 Route::get('element-counter', function () {return view('pages.element.element-counter');});
@@ -222,6 +224,5 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+Route::get('admin/userprofile', 'UserController@profile');
