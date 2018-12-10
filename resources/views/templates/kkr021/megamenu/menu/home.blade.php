@@ -1,13 +1,12 @@
 <li class="active dropdown">
-  <a href="{{ url('/')}}" class="dropdown-toggle" data-toggle="dropdown">Home</a>
+  <a href="{{ url('/')}}" class="dropdown-toggle" data-toggle="dropdown">How to?</a>
   <ul class="dropdown-menu">
-    <li><a href="{{ url('/')}}">Default</a></li>
-    <li><a href="corporate">Corporate</a></li>
-    <li><a href="consultant">Consultant</a></li>
-    <li><a href="construction">Construction</a></li>
-    <li><a href="medical">Medical</a></li>
-    <li><a href="gym">Fitness</a></li>
-    <li><a href="mobile-app">App</a></li>
-    <li><a href="personal">Personal</a></li>
+    <li><a href="#">What We Do</a></li>
+    <li><a href="#">What You Get</a></li>
+    <hr>
+    <li><a href="login">JOIN NOW</a></li>
+    <li><a href="register">REGISTER</a></li>
+    <hr>
+    <li><a href="{{ url('/')}}">HOME</a></li>
   </ul>
 </li>
