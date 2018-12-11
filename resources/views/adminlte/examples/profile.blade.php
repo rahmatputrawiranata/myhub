@@ -8,20 +8,6 @@
 
 @section('content')
 
-  <!-- Content Wrapper. Contains page content -->
-  <div class="content-wrapper">
-    <!-- Content Header (Page header) -->
-    <section class="content-header">
-      <h1>
-        User Profile
-      </h1>
-      <ol class="breadcrumb">
-        <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
-        <li><a href="#">Examples</a></li>
-        <li class="active">User profile</li>
-      </ol>
-    </section>
-
     <!-- Main content -->
     <section class="content">
 
@@ -31,7 +17,7 @@
           <!-- Profile Image -->
           <div class="box box-primary">
             <div class="box-body box-profile">
-              <img class="profile-user-img img-responsive img-circle" src="/img/user4-128x128.jpg" alt="User profile picture">
+              <img class="profile-user-img img-responsive img-circle" src="{{ asset('/img/user4-128x128.jpg')}}" alt="User profile picture">
 
               <h3 class="profile-username text-center">Nina Mcintire</h3>
 
@@ -109,7 +95,7 @@
                 <!-- Post -->
                 <div class="post">
                   <div class="user-block">
-                    <img class="img-circle img-bordered-sm" src="/img/user1-128x128.jpg" alt="user image">
+                    <img class="img-circle img-bordered-sm" src="{{ asset('/img/user1-128x128.jpg')}}" alt="user image">
                         <span class="username">
                           <a href="#">Jonathan Burke Jr.</a>
                           <a href="#" class="pull-right btn-box-tool"><i class="fa fa-times"></i></a>
@@ -140,7 +126,7 @@
                 <!-- Post -->
                 <div class="post clearfix">
                   <div class="user-block">
-                    <img class="img-circle img-bordered-sm" src="/img/user7-128x128.jpg" alt="User Image">
+                    <img class="img-circle img-bordered-sm" src="{{ asset('/img/user7-128x128.jpg')}}" alt="User Image">
                         <span class="username">
                           <a href="#">Sarah Ross</a>
                           <a href="#" class="pull-right btn-box-tool"><i class="fa fa-times"></i></a>
@@ -172,7 +158,7 @@
                 <!-- Post -->
                 <div class="post">
                   <div class="user-block">
-                    <img class="img-circle img-bordered-sm" src="/img/user6-128x128.jpg" alt="User Image">
+                    <img class="img-circle img-bordered-sm" src="{{ asset('/img/user6-128x128.jpg')}}" alt="User Image">
                         <span class="username">
                           <a href="#">Adam Jones</a>
                           <a href="#" class="pull-right btn-box-tool"><i class="fa fa-times"></i></a>
@@ -182,21 +168,21 @@
                   <!-- /.user-block -->
                   <div class="row margin-bottom">
                     <div class="col-sm-6">
-                      <img class="img-responsive" src="/img/photo1.png" alt="Photo">
+                      <img class="img-responsive" src="{{ asset('/img/photo1.png')}}" alt="Photo">
                     </div>
                     <!-- /.col -->
                     <div class="col-sm-6">
                       <div class="row">
                         <div class="col-sm-6">
-                          <img class="img-responsive" src="/img/photo2.png" alt="Photo">
+                          <img class="img-responsive" src="{{ asset('/img/photo2.png')}}" alt="Photo">
                           <br>
-                          <img class="img-responsive" src="/img/photo3.jpg" alt="Photo">
+                          <img class="img-responsive" src="{{ asset('/img/photo3.jpg')}}" alt="Photo">
                         </div>
                         <!-- /.col -->
                         <div class="col-sm-6">
-                          <img class="img-responsive" src="/img/photo4.jpg" alt="Photo">
+                          <img class="img-responsive" src="{{ asset('/img/photo4.jpg')}}" alt="Photo">
                           <br>
-                          <img class="img-responsive" src="/img/photo1.png" alt="Photo">
+                          <img class="img-responsive" src="{{ asset('/img/photo1.png')}}" alt="Photo">
                         </div>
                         <!-- /.col -->
                       </div>
@@ -381,6 +367,5 @@
 
     </section>
     <!-- /.content -->
-  </div>
-  <!-- /.content-wrapper -->
+
  @stop

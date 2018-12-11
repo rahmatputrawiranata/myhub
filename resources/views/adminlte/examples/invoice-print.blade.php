@@ -127,10 +127,10 @@
       <!-- accepted payments column -->
       <div class="col-xs-6">
         <p class="lead">Payment Methods:</p>
-        <img src="/img/credit/visa.png" alt="Visa">
-        <img src="/img/credit/mastercard.png" alt="Mastercard">
-        <img src="/img/credit/american-express.png" alt="American Express">
-        <img src="/img/credit/paypal2.png" alt="Paypal">
+        <img src="{{ asset('/img/credit/visa.png')}}" alt="Visa">
+        <img src="{{ asset('/img/credit/mastercard.png')}}" alt="Mastercard">
+        <img src="{{ asset('/img/credit/american-express.png')}}" alt="American Express">
+        <img src="{{ asset('/img/credit/paypal2.png')}}" alt="Paypal">
 
         <p class="text-muted well well-sm no-shadow" style="margin-top: 10px;">
           Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles, weebly ning heekya handango imeem plugg dopplr

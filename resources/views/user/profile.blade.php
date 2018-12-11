@@ -66,7 +66,7 @@
     <!-- /.box-header -->
     <div class="box-body">
       <div class="attachment-block clearfix">
-        <img class="attachment-img" src="http://localhost/myhub/public/img/photo1.png" alt="Attachment Image">
+        <img class="attachment-img" src="http://localhost/myhub/public/img/photo1.png')}}" alt="Attachment Image">
         
         <div class="attachment-pushed">
           <h4 class="attachment-heading"><a href="http://www.lipsum.com/">Lorem ipsum text generator</a></h4>
@@ -80,7 +80,7 @@
         <!-- /.attachment-pushed -->
       </div>
       <div class="attachment-block clearfix">
-        <img class="attachment-img" src="http://localhost/myhub/public/img/photo1.png" alt="Attachment Image">
+        <img class="attachment-img" src="http://localhost/myhub/public/img/photo1.png')}}" alt="Attachment Image">
         
         <div class="attachment-pushed">
           <h4 class="attachment-heading"><a href="http://www.lipsum.com/">Lorem ipsum text generator</a></h4>
@@ -94,7 +94,7 @@
         <!-- /.attachment-pushed -->
       </div>
       <div class="attachment-block clearfix">
-        <img class="attachment-img" src="http://localhost/myhub/public/img/photo1.png" alt="Attachment Image">
+        <img class="attachment-img" src="http://localhost/myhub/public/img/photo1.png')}}" alt="Attachment Image">
         
         <div class="attachment-pushed">
           <h4 class="attachment-heading"><a href="http://www.lipsum.com/">Lorem ipsum text generator</a></h4>
@@ -108,7 +108,7 @@
         <!-- /.attachment-pushed -->
       </div>
       <div class="attachment-block clearfix">
-        <img class="attachment-img" src="http://localhost/myhub/public/img/photo1.png" alt="Attachment Image">
+        <img class="attachment-img" src="http://localhost/myhub/public/img/photo1.png')}}" alt="Attachment Image">
         
         <div class="attachment-pushed">
           <h4 class="attachment-heading"><a href="http://www.lipsum.com/">Lorem ipsum text generator</a></h4>
@@ -122,7 +122,7 @@
         <!-- /.attachment-pushed -->
       </div>
       <div class="attachment-block clearfix">
-        <img class="attachment-img" src="http://localhost/myhub/public/img/photo1.png" alt="Attachment Image">
+        <img class="attachment-img" src="http://localhost/myhub/public/img/photo1.png')}}" alt="Attachment Image">
         
         <div class="attachment-pushed">
           <h4 class="attachment-heading"><a href="http://www.lipsum.com/">Lorem ipsum text generator</a></h4>
@@ -136,7 +136,7 @@
         <!-- /.attachment-pushed -->
       </div>
       <div class="attachment-block clearfix">
-        <img class="attachment-img" src="http://localhost/myhub/public/img/photo1.png" alt="Attachment Image">
+        <img class="attachment-img" src="http://localhost/myhub/public/img/photo1.png')}}" alt="Attachment Image">
         
         <div class="attachment-pushed">
           <h4 class="attachment-heading"><a href="http://www.lipsum.com/">Lorem ipsum text generator</a></h4>
