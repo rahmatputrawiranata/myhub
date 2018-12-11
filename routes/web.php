@@ -39,7 +39,7 @@ Route::get('sample/widgets', 'AdminlteController@widgets');
 
 Route::get('sample/icons', 'AdminlteController@icons');
 
-Route::get('sample/icons', 'AdminlteController@icons');
+Route::get('sample/buttons', 'AdminlteController@buttons');
 
 Route::get('sample/profile', 'AdminlteController@profile');
 

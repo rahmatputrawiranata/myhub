@@ -13,11 +13,11 @@ return [
     |
     */
     
-    'title' => 'MyHub.id',
+    'title' => 'RemoteHub.id',
     
     'title_prefix' => '',
     
-    'title_postfix' => '',
+    'title_postfix' => '| RemoteHub.id',
     
     /*
     |--------------------------------------------------------------------------
@@ -30,7 +30,7 @@ return [
     |
     */
     
-    'logo' => 'Remote.My<b>Hub</b>',
+    'logo' => 'Remote<b>Hub</b>',
     
     'logo_mini' => '<b>HUB</b>',
     
@@ -45,7 +45,7 @@ return [
         |
         */
         
-        'skin' => 'blue',
+        'skin' => 'blue-light',
         
         /*
         |--------------------------------------------------------------------------
@@ -58,7 +58,7 @@ return [
             |
             */
             
-            'layout' => top-nav,
+            'layout' => fixed,
             
             /*
             |--------------------------------------------------------------------------
@@ -71,7 +71,7 @@ return [
             |
             */
             
-            'collapse_sidebar' => true,
+            'collapse_sidebar' => false,
             
             /*
             |--------------------------------------------------------------------------
@@ -108,7 +108,7 @@ return [
             */
             
             'menu' => [
-                'MAIN NAVIGATION',
+                '',
                 [
                     'text' => 'Blog',
                     'url'  => 'admin/blog',
@@ -121,18 +121,17 @@ return [
                     // 'label'       => 4,
                     // 'label_color' => 'success',
                 ],
-                'ACCOUNT SETTINGS',
-                
+                'MAIN NAVIGATION',
                 [
                     'text'    => 'Project Hub',
                     'icon'    => 'briefcase',
                     'submenu' => [
                         [
-                            'text' => 'Level One',
+                            'text' => 'kosong',
                             'url'  => '#',
                         ],
                         [
-                            'text'    => 'Level One',
+                            'text'    => 'kosong',
                             'url'     => '#',
                             'submenu' => [
                                 [
@@ -156,7 +155,7 @@ return [
                             ],
                         ],
                         [
-                            'text' => 'Level One',
+                            'text' => 'kosong',
                             'url'  => '#',
                         ],
                     ],
@@ -166,11 +165,11 @@ return [
                     'icon'    => 'users',
                     'submenu' => [
                         [
-                            'text' => 'Level One',
+                            'text' => 'kosong',
                             'url'  => '#',
                         ],
                         [
-                            'text'    => 'Level One',
+                            'text'    => 'kosong',
                             'url'     => '#',
                             'submenu' => [
                                 [
@@ -194,7 +193,7 @@ return [
                             ],
                         ],
                         [
-                            'text' => 'Level One',
+                            'text' => 'kosong',
                             'url'  => '#',
                         ],
                     ],
@@ -204,11 +203,11 @@ return [
                     'icon'    => 'eye',
                     'submenu' => [
                         [
-                            'text' => 'Level One',
+                            'text' => 'kosong',
                             'url'  => '#',
                         ],
                         [
-                            'text'    => 'Level One',
+                            'text'    => 'kosong',
                             'url'     => '#',
                             'submenu' => [
                                 [
@@ -232,12 +231,12 @@ return [
                             ],
                         ],
                         [
-                            'text' => 'Level One',
+                            'text' => 'kosong',
                             'url'  => '#',
                         ],
                     ],
                 ],
-                'LABELS',
+                'ACCOUNT SETTINGS',
                 [
                     'text'       => 'Notification',
                     'icon'       => 'bell-o',
@@ -279,17 +278,281 @@ return [
                             ],
                         ],
                     ],
+                    'CONTOH UI/UX',
                     [
-                        'text' => 'Documentation',
-                        'url'  => '#',
-                        'icon' => 'book',
-                        'submenu' => [
-                            [
-                                'text' => 'Widgets',
-                                'url'  => 'sample/widgets',
+                    'text'    => 'Widget',
+                    'icon'    => 'th',
+                    'url'     => 'sample/widgets'
+                ],
+                [
+                    'text'    => 'Chart',
+                    'icon'    => 'pie-chart',
+                    'submenu' => [
+                        [
+                            'text' => 'kosong',
+                            'url'  => '#',
+                        ],
+                        [
+                            'text'    => 'kosong',
+                            'url'     => '#',
+                            'submenu' => [
+                                [
+                                    'text' => 'Level Two',
+                                    'url'  => '#',
+                                ],
+                                [
+                                    'text'    => 'Level Two',
+                                    'url'     => '#',
+                                    'submenu' => [
+                                        [
+                                            'text' => 'Level Three',
+                                            'url'  => '#',
+                                        ],
+                                        [
+                                            'text' => 'Level Three',
+                                            'url'  => '#',
+                                        ],
+                                    ],
+                                ],
                             ],
                         ],
+                        [
+                            'text' => 'kosong',
+                            'url'  => '#',
+                        ],
                     ],
+                ],
+                [
+                    'text'    => 'UI Elements',
+                    'icon'    => 'laptop',
+                    'label'   => '2 new',
+                    'submenu' => [
+                        [
+                            'text' => 'Icons',
+                            'url'  => 'sample/icons',
+                        ],
+                        [
+                            'text' => 'Buttons',
+                            'url'  => 'sample/buttons',
+                        ],
+                        [
+                            'text'    => 'kosong',
+                            'url'     => '#',
+                            'submenu' => [
+                                [
+                                    'text' => 'Level Two',
+                                    'url'  => '#',
+                                ],
+                                [
+                                    'text'    => 'Level Two',
+                                    'url'     => '#',
+                                    'submenu' => [
+                                        [
+                                            'text' => 'Level Three',
+                                            'url'  => '#',
+                                        ],
+                                        [
+                                            'text' => 'Level Three',
+                                            'url'  => '#',
+                                        ],
+                                    ],
+                                ],
+                            ],
+                        ],
+                        
+                    ],
+                ],
+                [
+                    'text'    => 'Calendar',
+                    'icon'    => 'calendar',
+                    'submenu' => [
+                        [
+                            'text' => 'kosong',
+                            'url'  => '#',
+                        ],
+                        [
+                            'text'    => 'kosong',
+                            'url'     => '#',
+                            'submenu' => [
+                                [
+                                    'text' => 'Level Two',
+                                    'url'  => '#',
+                                ],
+                                [
+                                    'text'    => 'Level Two',
+                                    'url'     => '#',
+                                    'submenu' => [
+                                        [
+                                            'text' => 'Level Three',
+                                            'url'  => '#',
+                                        ],
+                                        [
+                                            'text' => 'Level Three',
+                                            'url'  => '#',
+                                        ],
+                                    ],
+                                ],
+                            ],
+                        ],
+                        [
+                            'text' => 'kosong',
+                            'url'  => '#',
+                        ],
+                    ],
+                ],
+                [
+                    'text'    => 'Forms',
+                    'icon'    => 'edit',
+                    'submenu' => [
+                        [
+                            'text' => 'kosong',
+                            'url'  => '#',
+                        ],
+                        [
+                            'text'    => 'kosong',
+                            'url'     => '#',
+                            'submenu' => [
+                                [
+                                    'text' => 'Level Two',
+                                    'url'  => '#',
+                                ],
+                                [
+                                    'text'    => 'Level Two',
+                                    'url'     => '#',
+                                    'submenu' => [
+                                        [
+                                            'text' => 'Level Three',
+                                            'url'  => '#',
+                                        ],
+                                        [
+                                            'text' => 'Level Three',
+                                            'url'  => '#',
+                                        ],
+                                    ],
+                                ],
+                            ],
+                        ],
+                        [
+                            'text' => 'kosong',
+                            'url'  => '#',
+                        ],
+                    ],
+                ],
+                [
+                    'text'    => 'Tables',
+                    'icon'    => 'table',
+                    'submenu' => [
+                        [
+                            'text' => 'kosong',
+                            'url'  => '#',
+                        ],
+                        [
+                            'text'    => 'kosong',
+                            'url'     => '#',
+                            'submenu' => [
+                                [
+                                    'text' => 'Level Two',
+                                    'url'  => '#',
+                                ],
+                                [
+                                    'text'    => 'Level Two',
+                                    'url'     => '#',
+                                    'submenu' => [
+                                        [
+                                            'text' => 'Level Three',
+                                            'url'  => '#',
+                                        ],
+                                        [
+                                            'text' => 'Level Three',
+                                            'url'  => '#',
+                                        ],
+                                    ],
+                                ],
+                            ],
+                        ],
+                        [
+                            'text' => 'kosong',
+                            'url'  => '#',
+                        ],
+                    ],
+                ],
+                [
+                    'text'    => 'Mailbox',
+                    'icon'    => 'envelope',
+                    'submenu' => [
+                        [
+                            'text' => 'kosong',
+                            'url'  => '#',
+                        ],
+                        [
+                            'text'    => 'kosong',
+                            'url'     => '#',
+                            'submenu' => [
+                                [
+                                    'text' => 'Level Two',
+                                    'url'  => '#',
+                                ],
+                                [
+                                    'text'    => 'Level Two',
+                                    'url'     => '#',
+                                    'submenu' => [
+                                        [
+                                            'text' => 'Level Three',
+                                            'url'  => '#',
+                                        ],
+                                        [
+                                            'text' => 'Level Three',
+                                            'url'  => '#',
+                                        ],
+                                    ],
+                                ],
+                            ],
+                        ],
+                        [
+                            'text' => 'kosong',
+                            'url'  => '#',
+                        ],
+                    ],
+                ],
+                [
+                    'text'    => 'Pages',
+                    'icon'    => 'newspaper-o',
+                    'label'   => '1 new',
+                    'submenu' => [
+                        [
+                            'text' => 'Profile',
+                            'url'  => 'sample/profile',
+                        ],
+                        [
+                            'text'    => 'kosong',
+                            'url'     => '#',
+                            'submenu' => [
+                                [
+                                    'text' => 'Level Two',
+                                    'url'  => '#',
+                                ],
+                                [
+                                    'text'    => 'Level Two',
+                                    'url'     => '#',
+                                    'submenu' => [
+                                        [
+                                            'text' => 'Level Three',
+                                            'url'  => '#',
+                                        ],
+                                        [
+                                            'text' => 'Level Three',
+                                            'url'  => '#',
+                                        ],
+                                    ],
+                                ],
+                            ],
+                        ],
+                        [
+                            'text' => 'kosong',
+                            'url'  => '#',
+                        ],
+                    ],
+                ],
                 ],
                 
                 /*

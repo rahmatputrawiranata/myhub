@@ -11,20 +11,20 @@ class AdminlteController extends Controller
     {
         return view('adminlte.widgets');
     }
-
-   public function buttons()
-    {
-        return view('adminlte.UI.buttons');
-    }
-
+    
     public function icons()
     {
         return view('adminlte.UI.icons');
     }
-
+    
+    public function buttons()
+    {
+        return view('adminlte.UI.buttons');
+    }
+    
     public function profile()
     {
         return view('adminlte.examples.profile');
     }
-
+    
 }
