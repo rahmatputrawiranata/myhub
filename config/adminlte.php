@@ -201,7 +201,7 @@ return [
                 ],
                 [
                     'text'    => 'Learning Hub',
-                    'icon'    => 'book',
+                    'icon'    => 'eye',
                     'submenu' => [
                         [
                             'text' => 'Level One',
@@ -265,7 +265,7 @@ return [
                         'submenu' => [
                             [
                                 'text' => 'Profile',
-                                'url'  => 'admin/settings',
+                                'url'  => 'setting/profile',
                                 'icon' => 'user',
                             ],
                             [
@@ -276,6 +276,17 @@ return [
                             [
                                 'text' => 'Level Three',
                                 'url'  => '#',
+                            ],
+                        ],
+                    ],
+                    [
+                        'text' => 'Documentation',
+                        'url'  => '#',
+                        'icon' => 'book',
+                        'submenu' => [
+                            [
+                                'text' => 'Widgets',
+                                'url'  => 'sample/widgets',
                             ],
                         ],
                     ],
