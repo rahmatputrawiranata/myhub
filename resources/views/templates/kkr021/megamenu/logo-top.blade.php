@@ -6,7 +6,7 @@
                 <i class="fa fa-bars"></i>
             </button>
             <a class="navbar-brand" href="{{ url('/')}}">
-                <img src="{{ asset('templates/kkr021/images/brand/logo-black.png')}}" class="logo logo-scrolled" alt="">
+                <img src="{{ asset('img/logo-dark.png')}}" class="logo logo-scrolled" alt="">
             </a>
         </div>
         <!-- End Header Navigation -->

@@ -12,7 +12,7 @@
         <!-- Start Header Navigation -->
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu"> <i class="fa fa-bars"></i> </button>
-            <a class="navbar-brand mb-7" href="{{ url('/')}}"><img src="{{ asset('templates/kkr021/images/brand/logo-black.png')}}" class="logo logo-scrolled" alt=""> </a> 
+            <a class="navbar-brand mb-7" href="{{ url('/')}}"><img src="{{ asset('img/logo-dark.png')}}" class="logo logo-scrolled" alt=""> </a> 
         </div>
         <!-- End Header Navigation -->
         <!-- Megamenu -->

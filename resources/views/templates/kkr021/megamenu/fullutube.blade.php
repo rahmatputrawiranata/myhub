@@ -22,8 +22,8 @@
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu"> <i class="fa fa-bars"></i> </button>
             <a class="navbar-brand" href="{{ url('/')}}">
-                <img src="{{ asset('templates/kkr021/images/brand/logo-white.png')}}" class="logo logo-display" alt="">
-                <img src="{{ asset('templates/kkr021/images/brand/logo-black.png')}}" class="logo logo-scrolled" alt=""> </a> 
+                <img src="{{ asset('img/logo-white.png')}}" class="logo logo-display" alt="">
+                <img src="{{ asset('img/logo-dark.png')}}" class="logo logo-scrolled" alt=""> </a> 
             </div>
             <!-- End Header Navigation -->
             <!-- Megamenu -->
@@ -34,7 +34,7 @@
         <div class="side dark-bg">
             <a href="#" class="close-side"><i class="fa fa-times"></i></a>
             <div class="widget">
-                <p class="text-center text-white"> <a href="{{ url('/') }}"><img src="{{ asset('templates/kkr021/images/logo-white.png')}}" class="logo" alt="" /><br>My<b>Hub</b>  <small>.id</small></a></p>
+                <p class="text-center text-white"> <a href="{{ url('/') }}"><img src="{{ asset('img/logo-dark.png')}}" class="logo" alt="" /><br>My<b>Hub</b>  <small>.id</small></a></p>
                 <div class="login-logo">
                     
                 </div>

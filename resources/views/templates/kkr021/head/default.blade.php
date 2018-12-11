@@ -39,6 +39,12 @@
     <link rel="stylesheet" href="{{ asset('templates/kkr021/css/responsive.css')}}" type="text/css" />
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ asset('favicon.ico')}}"/>
+    <style>
+        nav.navbar .navbar-brand img.logo {
+            width: 180px;
+        }
+        
+    </style>
     
     @yield('stylesheets')
 </head>
