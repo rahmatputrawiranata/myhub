@@ -10,7 +10,7 @@
             <div class="container">
                <div class="row intro-title">
                   <div class="col-sm-12 text-left">
-                     <h1 class="title text-white">Remote <span class="fa fa-home"></span> MyHub.id</h1>
+                     <h1 class="title text-white"><span class="fa fa-exchange"></span> Remote<strong class="text-primary">Hub</strong>.id</h1>
                   </div>
                   <div class="col-sm-12">
                      <div class="row">
@@ -34,7 +34,7 @@
                <div class="row">
                   <div class="col-sm-12">
                      <div class="heading-block text-center">
-                        <h4 class="text-uppercase ">Creative Hub</h4>
+                        <h4 class="text-uppercase ">Creative <strong class="text-primary">Hub</strong></h4>
                         <div class="divider"></div>
                      </div>
                   </div>
@@ -89,7 +89,7 @@
                <div class="row">
                   <div class="col-sm-12">
                      <div class="heading-block text-center">
-                        <h4 class="text-uppercase ">Business Manager Hub</h4>
+                        <h4 class="text-uppercase ">Business Manager <strong class="text-green">Hub</strong></h4>
                         <div class="divider"></div>
                      </div>
                   </div>
@@ -144,7 +144,7 @@
                <div class="row">
                   <div class="col-sm-12">
                      <div class="heading-block text-center">
-                        <h4 class="text-uppercase ">Developer Hub</h4>
+                        <h4 class="text-uppercase ">Developer <strong class="text-primary">Hub</strong></h4>
                         <div class="divider"></div>
                      </div>
                   </div>
@@ -199,7 +199,7 @@
                <div class="row">
                   <div class="col-sm-12">
                      <div class="heading-block text-center">
-                        <h4 class="text-uppercase ">Marketing Hub</h4>
+                        <h4 class="text-uppercase ">Marketing <strong class="text-primary">Hub</strong></h4>
                         <div class="divider"></div>
                      </div>
                   </div>
@@ -254,7 +254,7 @@
                <div class="row">
                   <div class="col-sm-12">
                      <div class="heading-block text-center">
-                        <h4 class="text-uppercase ">Gamer's Hub</h4>
+                        <h4 class="text-uppercase ">Gamer's <strong class="text-primary">Hub</strong></h4>
                         <div class="divider"></div>
                      </div>
                   </div>

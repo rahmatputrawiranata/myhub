@@ -1,6 +1,6 @@
 @extends('adminlte::page')
 
-@section('title', 'Remote.MyHub.id')
+@section('title', 'RemoteHUB.id')
 
 @section('content_header')
 {{-- <h1>Heading Title</h1> --}}

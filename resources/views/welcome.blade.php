@@ -10,11 +10,11 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center">
-                <h1 class="title">Remote <span class="fa fa-home"></span> MyHub.id </h1>
+                <h1 class="title"> <span class="fa fa-exchange"></span> RemoteHub.id </h1>
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                <a href="project" class="btn btn-default btn-radius btn-outline white-border white-text fill-white">Project Hub</a>&nbsp;&nbsp; 
-                <a href="myhub" class="btn btn-default animated btn-radius theme-bg white-text">MyHUB <i class="fa fa-cubes" aria-hidden="true"></i></a> &nbsp;&nbsp; 
-                <a href="member" class="btn btn-default btn-radius btn-outline white-border white-text fill-white">Family Hub</a>
+                <a href="project" class="btn btn-default btn-radius btn-outline white-border white-text fill-white">Project <strong class="text-primary">HUB</strong></a>&nbsp;&nbsp; 
+                <a href="myhub" class="btn btn-default animated btn-radius theme-bg white-text">My <strong class="text-yellow">HUB</strong> <i class="fa fa-cubes" aria-hidden="true"></i></a> &nbsp;&nbsp; 
+                <a href="member" class="btn btn-default btn-radius btn-outline white-border white-text fill-white">Family <strong class="text-primary">HUB</strong class="text-primary"></a>
             </div>
         </div>
     </div>

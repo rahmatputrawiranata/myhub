@@ -10,7 +10,7 @@
   <div class="container">
     <div class="row intro-title">
       <div class="col-sm-12 text-left">
-        <h1 class="title text-white">Family Hub</h1>
+        <h1 class="title text-white">Family <strong class="text-primary">Hub</strong></h1>
       </div>
       <div class="col-sm-12">
         <div class="row">
@@ -19,7 +19,7 @@
             <ul class="page-breadcrumb">
               <li><a href="{{ url('/')}}">Home</a></li>
               <li><a href="javascript:void(0)">Elements</a></li>
-              <li><span class="theme-text">Family Hub</span> </li>
+              <li><span class="theme-text">Family <strong class="text-primary">Hub</strong></span> </li>
             </ul>
           </div>
         </div>

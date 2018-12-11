@@ -6,7 +6,7 @@
                     <h6 class="text-uppercase">Tentang Kami</h6>
                     <ul class="list-unstyled address">
                         <li><i class="lnr lnr-map-marker"></i><span>Jakarta, Indonesia</span></li>
-                        <li><i class="lnr lnr-envelope"></i><a href="mailto:support@MyHub.id">support@MyHub.id</a></li>
+                        <li><i class="lnr lnr-envelope"></i><a href="mailto:support@RemoteHUB.id">support@RemoteHUB.id</a></li>
                         <li><i class="lnr lnr-phone-handset"></i><span>(+91) 123-456-7890</span></li>
                     </ul>
                 </div>

@@ -16,6 +16,7 @@
     <meta content="" name="author"/>
     <!-- Google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fredoka+One" rel="stylesheet">
     <!-- Bootstrap -->
     <link rel="stylesheet" href="{{ asset('templates/kkr021/css/bootstrap.min.css')}}" type="text/css"/>
     <!-- font-awesome -->

@@ -3,10 +3,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-3 col-xs-6 col-xx-12 mb-4">
-                    <h6 class="text-uppercase">About MyHub.id</h6>
+                    <h6 class="text-uppercase">About RemoteHUB.id</h6>
                     <ul class="list-unstyled address">
                         <li><i class="lnr lnr-map-marker"></i><span>Jakarta, Indonesia</span></li>
-                        <li><i class="lnr lnr-envelope"></i><a href="mailto:support@MyHub.id">support@MyHub.id</a></li>
+                        <li><i class="lnr lnr-envelope"></i><a href="mailto:support@RemoteHUB.id">support@RemoteHUB.id</a></li>
                         <li><i class="lnr lnr-phone-handset"></i><span>(+91) 123-456-7890</span></li>
                     </ul>
                 </div>

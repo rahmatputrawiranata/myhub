@@ -63,7 +63,11 @@ h6 {font-size: 16px;}
   Page Title 
 --------------------------------*/
 	/*.inner-intro .intro-title{padding:120px 0;}*/
-	.intro-title .title{font-size:44px; line-height:46px;}
+	.intro-title .title{
+		font-size:44px; 
+		line-height:46px;
+		font-weight: bold;
+	}
 	.navbar-fixed+.inner-intro .intro-title{padding-top:170px; padding-bottom: 90px;}
 	.navbar-fixed+.inner-intro.md-intro .intro-title{padding-top:120px; padding-bottom: 60px;}
 	.navbar-fixed+.inner-intro.xl-intro .intro-title{padding-top:220px; padding-bottom: 130px;}
