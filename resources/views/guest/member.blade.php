@@ -14,7 +14,7 @@
       </div>
       <div class="col-sm-12">
         <div class="row">
-          <div class="col-sm-6 text-left"><span class="sub-title">Subtittle Goes Here</span></div>
+          <div class="col-sm-6 text-left"><span class="sub-title">Connect.Collaborate.Create</span></div>
           <div class="col-sm-6 text-right">
             <ul class="page-breadcrumb">
               <li><a href="{{ url('/')}}">Home</a></li>

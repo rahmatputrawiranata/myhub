@@ -34,9 +34,9 @@
         <div class="side dark-bg">
             <a href="#" class="close-side"><i class="fa fa-times"></i></a>
             <div class="widget">
-                <p class="text-center text-white"> <a href="{{ url('/') }}"><img src="{{ asset('img/logo-dark.png')}}" class="logo" alt="" /><br>My<b>Hub</b>  <small>.id</small></a></p>
-                <div class="login-logo">
-                    
+                <div ">
+                    <a href="{{ url('/') }}"><img src="{{ asset('img/logo-white.png')}}" class="logo" alt="" / width="200px">
+                        <p class="text-center text-white"> Connect.Collaborate.Create&nbsp;&nbsp;&nbsp;</p> 
                 </div>
             </div>
             <div class="widget">

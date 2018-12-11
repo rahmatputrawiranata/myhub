@@ -10,11 +10,11 @@
             <div class="container">
                <div class="row intro-title">
                   <div class="col-sm-12 text-left">
-                     <h1 class="title text-white"><span class="fa fa-exchange"></span> Remote<strong class="text-primary">Hub</strong>.id</h1>
+                     <h1 class="title text-white">Remote<strong class="text-primary">Hub</strong>.id <span class="fa fa-exchange"></span> </h1>
                   </div>
                   <div class="col-sm-12">
                      <div class="row">
-                        <div class="col-sm-6 text-left"><span class="sub-title">Subtittle Goes Here</span></div>
+                        <div class="col-sm-6 text-left"><span class="sub-title">Connect.Collaborate.Create</span></div>
                         <div class="col-sm-6 text-right">
                            <ul class="page-breadcrumb">
                               <li><a href="{{ url('/')}}">Home</a></li>
