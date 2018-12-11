@@ -43,3 +43,9 @@ Route::get('sample/buttons', 'AdminlteController@buttons');
 
 Route::get('sample/profile', 'AdminlteController@profile');
 
+Route::get('sample/forms/general', 'AdminlteController@general');
+
+Route::get('sample/forms/advanced', 'AdminlteController@advanced');
+
+Route::get('sample/forms/editors', 'AdminlteController@editors');
+

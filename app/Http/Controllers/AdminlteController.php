@@ -27,4 +27,19 @@ class AdminlteController extends Controller
         return view('adminlte.examples.profile');
     }
     
+    public function general()
+    {
+        return view('adminlte.forms.general');
+    }
+    
+    public function advanced()
+    {
+        return view('adminlte.forms.advanced');
+    }
+    
+    public function editors()
+    {
+        return view('adminlte.forms.editors');
+    }
+    
 }

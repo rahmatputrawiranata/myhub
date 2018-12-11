@@ -403,38 +403,19 @@ return [
                 [
                     'text'    => 'Forms',
                     'icon'    => 'edit',
+                    'label'    => '3 new',
                     'submenu' => [
                         [
-                            'text' => 'kosong',
-                            'url'  => '#',
+                            'text' => 'Advanced',
+                            'url'  => '/sample/forms/advanced',
                         ],
                         [
-                            'text'    => 'kosong',
-                            'url'     => '#',
-                            'submenu' => [
-                                [
-                                    'text' => 'Level Two',
-                                    'url'  => '#',
-                                ],
-                                [
-                                    'text'    => 'Level Two',
-                                    'url'     => '#',
-                                    'submenu' => [
-                                        [
-                                            'text' => 'Level Three',
-                                            'url'  => '#',
-                                        ],
-                                        [
-                                            'text' => 'Level Three',
-                                            'url'  => '#',
-                                        ],
-                                    ],
-                                ],
-                            ],
+                            'text'    => 'General',
+                            'url'  => '/sample/forms/general',
                         ],
                         [
-                            'text' => 'kosong',
-                            'url'  => '#',
+                            'text' => 'Editors',
+                            'url'  => '/sample/forms/editors',
                         ],
                     ],
                 ],
