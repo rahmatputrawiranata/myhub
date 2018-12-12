@@ -124,7 +124,7 @@
     <div class="row">
       <div class="col-sm-12">
         <div class="heading-block text-center">
-          <h4 class="text-uppercase text-theme">Online Business Member</h4>
+          <h4 class="text-uppercase text-theme">E.R.P. Member</h4>
           <div class="divider"></div>
         </div>
       </div>

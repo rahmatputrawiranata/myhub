@@ -3,11 +3,11 @@
     {{-- @include('templates.kkr021.megamenu.menu.home') --}}
     @include('templates.kkr021.megamenu.menu.home')
 
-    @include('templates.kkr021.megamenu.menu.connect')
+    @include('templates.kkr021.megamenu.menu.remotehub')
 
-    @include('templates.kkr021.megamenu.menu.collaborate') 
+    @include('templates.kkr021.megamenu.menu.markethub') 
 
-    @include('templates.kkr021.megamenu.menu.create') 
+    {{-- @include('templates.kkr021.megamenu.menu.feature')  --}}
     
   </ul>
 </div>
