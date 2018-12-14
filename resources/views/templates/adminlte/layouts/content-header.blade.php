@@ -2,7 +2,7 @@
       <div class="media">
           <div class="media-left media-middle">
             <a href="home">
-                <img class="media-object" src="{{asset('bower_components/admin-lte/dist/img/logo-mini.png')}}" alt="logo"  height="100"">
+                <img class="media-object" src="{{asset('img/logo-dark.png')}}" height="40px" alt="logo"  height="100"">
               </a>
           </div>
           <div class="media-body">

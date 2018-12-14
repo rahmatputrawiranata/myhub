@@ -1,4 +1,4 @@
-@extends('adminlte::page')
+@extends('templates.adminlte.tpl_home')
 
 @section('title', 'RemoteHUB.id')
 
