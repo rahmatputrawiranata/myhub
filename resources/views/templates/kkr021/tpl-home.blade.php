@@ -15,7 +15,7 @@
         <div class="clear-loading loading-effect"><img src="{{ asset('templates/kkr021/images/loading.gif')}}" width="100" alt=""></div>
     </div>
     <!-- Start Navigation -->
-    @include('templates.kkr021.megamenu.fullutube')
+    @include('templates.kkr021.megamenu.home')
     <!-- End Navigation -->
     <!-- Banner -->
     {{-- @include('templates.kkr021.banner.fullwidth') --}}

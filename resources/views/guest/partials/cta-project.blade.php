@@ -1,10 +1,10 @@
 <!-- Clients Grid -->
-<section class="section-pt pb-5" id="project">
+<section class="p-0" id="project">
   <div class="row" >
     <div class="col-sm-12">
       <div class="heading-block text-center">
         <br>
-        <h4 class="text-uppercase text-theme">Project HUB</h4>
+        <h2 class="text-uppercase text-theme">Project HUB</h2>
         <div class="divider"></div>
       </div>
     </div>
@@ -57,7 +57,7 @@
       </div>
     </div>
     <div class="heading-block text-center">
-      <a href="project" class="btn btn-default btn-sm btn-outline dark-border fill-theme">More Detail <i class="fa fa-eye" aria-hidden="true"></i></a>
+      <a href="project" class="btn btn-default btn-sm btn-outline dark-border fill-theme">View All Project <i class="fa fa-eye" aria-hidden="true"></i></a>
     </div>
   </div>
 </section>
