@@ -10,7 +10,7 @@
   <div class="container">
     <div class="row intro-title">
       <div class="col-sm-12 text-left">
-        <h1 class="title text-white">Family <strong class="text-primary">Hub</strong></h1>
+        <h1 class="title text-white">Member <strong class="text-primary">Hub</strong></h1>
       </div>
       <div class="col-sm-12">
         <div class="row">
@@ -27,19 +27,31 @@
     </div>
   </div>
 </section>
-<!-- End Banner -->
-<!-- Team style1  -->
-@include('guest.partials.teamtyle1')
-<!-- End Team style1  -->
-<!-- Team style2  -->
-@include('guest.partials.teamtyle2')
-<!-- End Team style2  -->
-<!-- Team style3  -->
-@include('guest.partials.teamtyle3')
-
-<!-- End Team style3  -->
-
-
+<!-- Clients slider -->
+<section class="pb-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h4>E.R.P <br><small class="text-primary">Content Creator | Writer | Virtual Assistant | Legal </small></h4>
+        @include('guest.partials.member.sm-1')<br>
+        <h4>Creative Team<br>
+        <small class="text-primary">Graphic Design | Videographer | Photographer | 3D Artist </small></h4>
+        @include('guest.partials.member.sm-2')<br>
+        <h4>Digital Marketing<br>
+        <small class="text-primary">Channel 1 | Channel 2 | Channel 3 | Channel 4 </small></h4>
+        @include('guest.partials.member.sm-3')<br>
+        <h4>Developers<br>
+          <small class="text-primary">Channel 1 | Channel 2 | Channel 3 | Channel 4 </small></h4>
+        @include('guest.partials.member.sm-4')<br>
+        <h4>Device, Security & Networking<br>
+          <small class="text-primary">Channel 1 | Channel 2 | Channel 3 | Channel 4 </small>
+        </h4>
+        @include('guest.partials.member.sm-5')
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Clients slider -->
 @endsection()                 
 
 

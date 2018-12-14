@@ -1,0 +1,1 @@
+{{-- <div class="col-sm-6">@include('guest.partials.member.sm-1')</div> --}}

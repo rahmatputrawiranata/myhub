@@ -14,7 +14,7 @@
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <a href="#project" class="btn btn-default btn-radius btn-outline white-border white-text fill-white">Project <strong class="text-primary">HUB</strong></a>&nbsp;&nbsp; 
                 <a href="#myhub" class="btn btn-default animated btn-radius theme-bg white-text">My <strong class="text-yellow">HUB</strong> <i class="fa fa-cubes" aria-hidden="true"></i></a> &nbsp;&nbsp; 
-                <a href="#member" class="btn btn-default btn-radius btn-outline white-border white-text fill-white">Family <strong class="text-primary">HUB</strong class="text-primary"></a>
+                <a href="member" class="btn btn-default btn-radius btn-outline white-border white-text fill-white">Member <strong class="text-primary">HUB</strong class="text-primary"></a>
                 </div>
             </div>
         </div>
@@ -121,7 +121,7 @@
           
     </section>
     <!-- End service -->
-    @include('guest.partials.cta-team')
+    @include('guest.partials.member.cta-member')
     <!-- Company Milestone -->
     <section class="p-0 pos-r dark-bg">
         <div class="fullbg" data-bg-img="{{ asset('templates/kkr021/images/main/bg-2.jpg')}}"></div>
