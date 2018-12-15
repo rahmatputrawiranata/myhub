@@ -10,7 +10,7 @@
                   <div class="divider"></div>
                </div>
                <p>Take a BaseGym's fitness class and learn from world-class instructors in a fun, fast paced environment. Whether you’re looking to kick your fitness into high gear with Kickboxing or achieve inner and outer peace with Yoga, we offer classes that appeal to all interests and fitness levels.</p>
-               <a href="#" class="btn btn-default btn-radius btn-outline white-border white-text fill-white">learn more</a> 
+               <a href="#" class="btn btn-flat btn-default btn-radius btn-outline white-border white-text fill-white">learn more</a> 
             </div>
          </div>
          <div class="col-lg-8 col-md-6 dark-bg">

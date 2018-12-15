@@ -10,7 +10,7 @@
                                  <h3 class="title">RemoteHub.id</h3>
                                  <div class="slide-content">
                                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                                    <a href="#" class="btn btn-default btn-radius btn-outline white-border white-text fill-white">Read More</a>&nbsp;&nbsp; <a href="#" class="btn btn-default btn-radius theme-bg white-text">Purchase Now <i class="fa fa-cart-arrow-down" aria-hidden="true"></i></a> 
+                                    <a href="#" class="btn btn-flat btn-default btn-radius btn-outline white-border white-text fill-white">Read More</a>&nbsp;&nbsp; <a href="#" class="btn btn-flat btn-default btn-radius theme-bg white-text">Purchase Now <i class="fa fa-cart-arrow-down" aria-hidden="true"></i></a> 
                                  </div>
                               </div>
                            </div>
@@ -26,7 +26,7 @@
                                  <h3 class="title">RemoteHub.id</h3>
                                  <div class="slide-content">
                                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                                    <a href="#" class="btn btn-default btn-radius btn-outline white-border white-text fill-white">Read More</a>&nbsp;&nbsp; <a href="#" class="btn btn-default btn-radius theme-bg white-text">Purchase Now <i class="fa fa-cart-arrow-down" aria-hidden="true"></i></a> 
+                                    <a href="#" class="btn btn-flat btn-default btn-radius btn-outline white-border white-text fill-white">Read More</a>&nbsp;&nbsp; <a href="#" class="btn btn-flat btn-default btn-radius theme-bg white-text">Purchase Now <i class="fa fa-cart-arrow-down" aria-hidden="true"></i></a> 
                                  </div>
                               </div>
                            </div>
@@ -42,7 +42,7 @@
                                  <h3 class="title">RemoteHub.id</h3>
                                  <div class="slide-content">
                                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                                    <a href="#" class="btn btn-default btn-radius btn-outline white-border white-text fill-white">Read More</a>&nbsp;&nbsp; <a href="#" class="btn btn-default btn-radius theme-bg white-text">Purchase Now <i class="fa fa-cart-arrow-down" aria-hidden="true"></i></a> 
+                                    <a href="#" class="btn btn-flat btn-default btn-radius btn-outline white-border white-text fill-white">Read More</a>&nbsp;&nbsp; <a href="#" class="btn btn-flat btn-default btn-radius theme-bg white-text">Purchase Now <i class="fa fa-cart-arrow-down" aria-hidden="true"></i></a> 
                                  </div>
                               </div>
                            </div>

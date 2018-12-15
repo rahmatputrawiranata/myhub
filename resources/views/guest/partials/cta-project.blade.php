@@ -57,7 +57,7 @@
       </div>
     </div>
     <div class="heading-block text-center">
-      <a href="project" class="btn btn-default btn-sm btn-outline dark-border fill-theme">View All Project <i class="fa fa-eye" aria-hidden="true"></i></a>
+      <a href="project" class="btn btn-flat btn-default btn-sm btn-outline dark-border fill-theme">View All Project <i class="fa fa-eye" aria-hidden="true"></i></a>
     </div>
   </div>
 </section>

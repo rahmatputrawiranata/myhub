@@ -45,19 +45,19 @@
         <!-- Menu Body -->
         <li class="user-body">
           <div class="btn-group btn-group-justified" role="group" aria-label="...">
-            <a href="administrator" class="btn btn-default btn-flat">Administrator</a>
+            <a href="administrator" class="btn btn-flat btn-default btn-flat">Administrator</a>
           </div>
           <!-- /.row -->
         </li>
         <!-- Menu Footer-->
         <li class="user-footer">
           <div class="pull-left">
-            <a href="pengguna" class="btn btn-default btn-flat">Kelola Akun</a>
+            <a href="pengguna" class="btn btn-flat btn-default btn-flat">Kelola Akun</a>
           </div>
           <div class="pull-right">
             <a href="{{ route('logout') }}"
             onclick="event.preventDefault();
-            document.getElementById('logout-form').submit();" class="btn btn-default btn-flat">
+            document.getElementById('logout-form').submit();" class="btn btn-flat btn-default btn-flat">
             Keluar
           </a>
           <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">

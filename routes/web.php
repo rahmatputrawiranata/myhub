@@ -23,6 +23,40 @@ Route::get('member', function () {return view('guest.member');});
 
 Route::get('myhub', function () {return view('guest.myhub');});
 
+// AdminLTE Sample Pages
+
+Route::get('sample/widgets', function () {return view('templates.adminlte.documentation.widgets');});
+Route::get('sample/charts/chartjs', function () {return view('templates.adminlte.documentation.charts.chartjs');});
+
+Route::get('sample/UI/buttons', function () {return view('templates.adminlte.documentation.UI.buttons');});
+Route::get('sample/UI/general', function () {return view('templates.adminlte.documentation.UI.general');});
+Route::get('sample/UI/icons', function () {return view('templates.adminlte.documentation.UI.icons');});
+Route::get('sample/UI/sliders', function () {return view('templates.adminlte.documentation.UI.sliders');});
+Route::get('sample/UI/timeline', function () {return view('templates.adminlte.documentation.UI.timeline');});
+Route::get('sample/UI/modals', function () {return view('templates.adminlte.documentation.UI.modals');});
+
+Route::get('sample/forms/general', function () {return view('templates.adminlte.documentation.forms.general');});
+Route::get('sample/forms/advanced', function () {return view('templates.adminlte.documentation.forms.advanced');});
+Route::get('sample/forms/editors', function () {return view('templates.adminlte.documentation.forms.editors');});
+
+Route::get('sample/tables/simple', function () {return view('templates.adminlte.documentation.tables.simple');});
+Route::get('sample/tables/data', function () {return view('templates.adminlte.documentation.tables.data');});
+
+Route::get('sample/mailbox/compose', function () {return view('templates.adminlte.documentation.mailbox.compose');});
+Route::get('sample/mailbox/mailbox', function () {return view('templates.adminlte.documentation.mailbox.mailbox');});
+Route::get('sample/mailbox/read-mail', function () {return view('templates.adminlte.documentation.mailbox.read-mail');});
+
+Route::get('sample/calendar', function () {return view('templates.adminlte.documentation.calendar');});
+
+Route::get('sample/examples/invoice', function () {return view('templates.adminlte.documentation.examples.invoice');});
+
+Route::get('sample/examples/icons', function () {return view('templates.adminlte.documentation.examples.icons');});
+Route::get('sample/examples/register', function () {return view('templates.adminlte.documentation.examples.register');});
+Route::get('sample/examples/lockscreen', function () {return view('templates.adminlte.documentation.examples.lockscreen');});
+Route::get('sample/examples/404', function () {return view('templates.adminlte.documentation.examples.404');});
+Route::get('sample/examples/blank', function () {return view('templates.adminlte.documentation.examples.blank');});
+Route::get('sample/examples/pace', function () {return view('templates.adminlte.documentation.examples.pace');});
+Route::get('sample/examples/500', function () {return view('templates.adminlte.documentation.examples.500');});
 
 
 
@@ -30,46 +64,5 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-Route::get('setting/profile', 'UserController@profile');
-
-
-// AdminLTE Sample Pages
-
-Route::get('sample/widgets', 'AdminlteController@widgets');
-
-Route::get('sample/icons', 'AdminlteController@icons');
-
-Route::get('sample/buttons', 'AdminlteController@buttons');
-
-Route::get('sample/profile', 'AdminlteController@profile');
-
-Route::get('sample/forms/general', 'AdminlteController@general');
-
-Route::get('sample/forms/advanced', 'AdminlteController@advanced');
-
-Route::get('sample/forms/editors', 'AdminlteController@editors');
-
-
-    Route::get('sample/daterange', 'AdminlteController@daterange');
-
-    Route::get('sample/timepicker', 'AdminlteController@timepicker');
-
-    Route::get('sample/inputmask', 'AdminlteController@inputmask');
-
-    Route::get('sample/icheck', 'AdminlteController@icheck');
-
-    Route::get('sample/inputaddon', 'AdminlteController@inputaddon');
-
-    Route::get('sample/uigeneral', 'AdminlteController@uigeneral');
-
-    Route::get('sample/document', 'AdminlteController@document');
-
-    Route::get('sample/documentprint', 'AdminlteController@documentprint');
-
-    Route::get('sample/button', 'AdminlteController@button');
-
-    Route::get('sample/progress', 'AdminlteController@progress');
-
-
-Route::get('blank', 'AdminlteController@blank');
-
+Route::get('admin/settings/profilesetting', 'AdminlteController@profilesetting');
+Route::get('sample/examples/profile', 'AdminlteController@profile');

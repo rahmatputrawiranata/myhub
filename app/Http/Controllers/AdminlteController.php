@@ -7,99 +7,105 @@ use Illuminate\Http\Request;
 class AdminlteController extends Controller
 
 {
+ 
     public function widgets()
     {
-        return view('adminlte.widgets');
+        return view('templates.adminlte.documentation.widgets');
     }
     
     public function icons()
     {
-        return view('adminlte.UI.icons');
+        return view('templates.adminlte.documentation.UI.icons');
     }
     
     public function buttons()
     {
-        return view('adminlte.UI.buttons');
+        return view('templates.adminlte.documentation.UI.buttons');
     }
     
     public function profile()
     {
-        return view('adminlte.examples.profile');
+        return view('templates.adminlte.documentation.examples.profile');
+    }
+    
+    public function profilesetting()
+    {
+        return view('user.profilesetting');
     }
     
     public function general()
     {
-        return view('adminlte.forms.general');
+        return view('templates.adminlte.documentation.forms.general');
     }
     
     public function advanced()
     {
-        return view('adminlte.forms.advanced');
+        return view('templates.adminlte.documentation.forms.advanced');
     }
     
     public function editors()
     {
-        return view('adminlte.forms.editors');
+        return view('templates.adminlte.documentation.forms.editors');
     }
     
     public function blank()
     {
-        return view('adminlte.examples.blank');
+        return view('templates.adminlte.documentation.examples.blank');
     }
 
     public function daterange()
     {
-        return view('adminlte.documentation.daterange');
+        return view('templates.adminlte.documentation.documentation.daterange');
     }
 
     public function timepicker()
     {
-        return view('adminlte.documentation.timepicker');
+        return view('templates.adminlte.documentation.documentation.timepicker');
     }
 
     public function icheck()
     {
-        return view('adminlte.documentation.icheck');
+        return view('templates.adminlte.documentation.documentation.icheck');
     }
 
     public function inputmask()
     {
-        return view('adminlte.documentation.inputmask');
+        return view('templates.adminlte.documentation.documentation.inputmask');
     }
 
     public function inputaddon()
     {
-        return view('adminlte.documentation.inputaddon');
+        return view('templates.adminlte.documentation.documentation.inputaddon');
     }
 
     public function uigeneral()
     {
-        return view('adminlte.documentation.uigeneral');
+        return view('templates.adminlte.documentation.documentation.uigeneral');
     }
 
     public function document()
     {
-        return view('adminlte.documentation.document');
+        return view('templates.adminlte.documentation.documentation.document');
     }
 
     public function documentprint()
     {
-        return view('adminlte.documentation.documentprint');
+        return view('templates.adminlte.documentation.documentation.documentprint');
     }
 
     public function button()
     {
-        return view('adminlte.documentation.button');
+        return view('templates.adminlte.documentation.documentation.button');
     }
 
     public function progress()
     {
-        return view('adminlte.documentation.progress');
+        return view('templates.adminlte.documentation.documentation.progress');
     }
 
     public function table()
     {
-        return view('adminlte.documentation.table');
+        return view('templates.adminlte.documentation.documentation.table');
     }    
     
 }

@@ -1,4 +1,4 @@
-@extends('templates.adminlte.tpl_home')
+@extends('templates.adminlte.tpl-home')
 
 @section('title', 'RemoteHUB.id')
 
@@ -35,7 +35,7 @@
             </li>
           </ul>
           
-          <a href="#" class="btn btn-primary btn-block"><b>Follow</b></a>
+          <a href="#" class="btn btn-flat btn-primary btn-block"><b>Follow</b></a>
         </div>
         <!-- /.box-body -->
       </div>
@@ -148,7 +148,7 @@
                         <input class="form-control input-sm" placeholder="Response">
                       </div>
                       <div class="col-sm-3">
-                        <button type="submit" class="btn btn-danger pull-right btn-block btn-sm">Send</button>
+                        <button type="submit" class="btn btn-flat btn-danger pull-right btn-block btn-sm">Send</button>
                       </div>
                     </div>
                   </form>
@@ -232,8 +232,8 @@
                             quora plaxo ideeli hulu weebly balihoo...
                           </div>
                           <div class="timeline-footer">
-                            <a class="btn btn-primary btn-xs">Read more</a>
-                            <a class="btn btn-danger btn-xs">Delete</a>
+                            <a class="btn btn-flat btn-primary btn-xs">Read more</a>
+                            <a class="btn btn-flat btn-danger btn-xs">Delete</a>
                           </div>
                         </div>
                       </li>
@@ -265,7 +265,7 @@
                             We are more like Germany, ambitious and misunderstood!
                           </div>
                           <div class="timeline-footer">
-                            <a class="btn btn-warning btn-flat btn-xs">View comment</a>
+                            <a class="btn btn-flat btn-warning btn-flat btn-xs">View comment</a>
                           </div>
                         </div>
                       </li>
@@ -350,7 +350,7 @@
                       </div>
                       <div class="form-group">
                         <div class="col-sm-offset-2 col-sm-10">
-                          <button type="submit" class="btn btn-danger">Submit</button>
+                          <button type="submit" class="btn btn-flat btn-danger">Submit</button>
                         </div>
                       </div>
                     </form>

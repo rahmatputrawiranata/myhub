@@ -78,14 +78,14 @@
                 
                 <div class="col-md-12">
                     <div class="form-group">
-                        <button type="submit" class="btn btn-sm btn-block btn-default fill-dark">
+                        <button type="submit" class="btn btn-flat btn-sm btn-block btn-default fill-dark">
                             Login
                         </button>
                         
-                        <a class="btn btn-link" href="{{ route('password.request') }}">
+                        <a class="btn btn-flat btn-link" href="{{ route('password.request') }}">
                             Forgot Your Password?
                         </a>
-                        <a class="btn btn-link" href="{{ route('register') }}">
+                        <a class="btn btn-flat btn-link" href="{{ route('register') }}">
                             Register
                         </a>
                     </div>

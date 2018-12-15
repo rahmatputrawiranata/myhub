@@ -87,7 +87,7 @@
       </div>
     </div>
     <div class="heading-block text-center">
-      <a href="#" class=" btn btn-sm btn-default btn-outline dark-border hover-effect3">View ALL <strong>HUB</strong> <i class="fa fa-cart-arrow-down" aria-hidden="true"></i></a>
+      <a href="#" class=" btn btn-flat btn-sm btn-default btn-outline dark-border hover-effect3">View ALL <strong>HUB</strong> <i class="fa fa-cart-arrow-down" aria-hidden="true"></i></a>
     </div>
   </div>
 </div>

@@ -39,7 +39,7 @@
                      </div>
         </div>
         <div class="heading-block text-center">
-          <a href="#" class="btn btn-default btn-sm btn-outline dark-border fill-theme">More Detail <i class="fa fa-eye" aria-hidden="true"></i></a>
+          <a href="#" class="btn btn-flat btn-default btn-sm btn-outline dark-border fill-theme">More Detail <i class="fa fa-eye" aria-hidden="true"></i></a>
         </div>s
       </div>
     </div>

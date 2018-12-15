@@ -35,7 +35,7 @@
           </div>
         </div>
         <div class="heading-block text-center">
-          <a href="#" class="btn btn-sm btn-default btn-outline white-border white-text hover-effect3">Get Ticket <i class="fa fa-ticket" aria-hidden="true"></i></a>
+          <a href="#" class="btn btn-flat btn-sm btn-default btn-outline white-border white-text hover-effect3">Get Ticket <i class="fa fa-ticket" aria-hidden="true"></i></a>
         </div>
       </div>
       <!-- icon position right -->
