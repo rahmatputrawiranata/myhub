@@ -28,11 +28,11 @@
     <!-- End service -->
     
     <!-- CTE-Event Rawes & Kopdar -->
-    @include('guest.partials.cta-events')
+    {{-- @include('guest.partials.cta-events') --}}
     <!-- End Rawes & Kopdar -->
     
     <!-- CTA About Us -->
-    @include('guest.partials.cta-aboutus')
+    @include('guest.partials.cta-mobile')
     <!-- CTA About Us -->
     <!-- Counter fancy -->
     {{-- @include('guest.partials.cta-counter') --}}
@@ -43,6 +43,11 @@
     <!-- CTA Blogs -->
     @include('guest.partials.cta-blog')
     <!-- End CTA Blogs -->
+    
+    <!-- Mobile Apps -->
+    
+    <!-- End Mobile Apps -->
+    
     <!-- CTA Success Story -->
     @include('guest.partials.cta-success')
     <!-- End CTA Success Story -->

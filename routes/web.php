@@ -12,10 +12,12 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('coming');
 });
 
 // Guest Pages 
+
+Route::get('welcome', function () {return view('welcome');});
 
 Route::get('project', function () {return view('guest.project');});
 

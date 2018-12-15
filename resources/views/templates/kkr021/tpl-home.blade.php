@@ -24,7 +24,7 @@
     @yield('content')
     
     <!-- footer  -->
-    @include('templates.kkr021.footer.1')
+    @include('templates.kkr021.footer.3')
     <!-- End footer -->
     <!-- scripts  -->
     @include('templates.kkr021.scripts.default')

@@ -45,7 +45,7 @@
     <div class="footer-bottom">
         <div class="container">
             <div class="row">
-                <div class="col-sm-6">© 2018 <a href="http://www.soerojo.com" target="_blank">Soerojo S.H. & Rekan</a> - All rights reserved</div>
+                <div class="col-sm-6" text-white>© 2018 <a href="http://www.soerojo.com" target="_blank">Soerojo S.H. & Rekan</a> - All rights reserved</div>
                 <div class="col-sm-6 text-right">
                     <ul class="list-unstyled list-inline footer-social">
                         <li><a href="https://fb.com/tonnys" target="_blank"><i class="fa fa-facebook"></i></a></li>
