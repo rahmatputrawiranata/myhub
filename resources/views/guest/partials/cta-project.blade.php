@@ -1,5 +1,5 @@
 <!-- Clients Grid -->
-<section class="p-0" id="project">
+<section class="p-0">
   <div class="row" >
     <div class="col-sm-12">
       <div class="heading-block text-center">
@@ -50,13 +50,13 @@
           <div class="col-sm-4 col-xs-6 col-xx-12">
             <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/images/clients/logo2.png')}}" alt=""></div>
           </div>
-          <div class="col-sm-4 col-xs-6 col-xx-12" id="myhub">
+          <div class="col-sm-4 col-xs-6 col-xx-12">
             <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/images/clients/logo3.png')}}" alt=""></div>
           </div>
         </div>
       </div>
     </div>
-    <div class="heading-block text-center>
+    <div class="heading-block text-center" id="myhub">
       <a href="project" class="btn btn-flat btn-default btn-sm btn-outline dark-border fill-theme">View All Project <i class="fa fa-eye" aria-hidden="true"></i></a>
     </div>
   </div>

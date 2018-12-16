@@ -14,7 +14,7 @@
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <a href="#project" class="btn btn-flat btn-default btn-outline white-border white-text fill-white">Project <strong class="text-primary">HUB</strong></a>&nbsp;&nbsp; 
                 <a href="#myhub" class="btn btn-flat btn-default animated theme-bg white-text">My <strong class="text-yellow">HUB</strong> <i class="fa fa-cubes" aria-hidden="true"></i></a> &nbsp;&nbsp; 
-                <a href="member" class="btn btn-flat btn-default btn-outline white-border white-text fill-white">Member <strong class="text-primary">HUB</strong class="text-primary"></a>
+                <a href="member" class="btn btn-flat btn-default btn-outline white-border white-text fill-white" id="project">Member <strong class="text-primary">HUB</strong class="text-primary"></a>
                 </div>
             </div>
         </div>

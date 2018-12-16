@@ -4,7 +4,7 @@
          <div class="col-md-7 col-sm-6">
             <div class="heading-block">
                <span class="text-uppercase pt-5">Mobile Apps RemoteHUB.ID</span>   
-               <h2 class="text-uppercase solid-weight"> Download Application & Get More Features</h2>
+               <h2 class="text-uppercase solid-weight"> Download Application<small><br>& Get More Features</small></h2>
                <div class="divider"></div>
             </div>
             <img class="pull-left  pr-5" src="{{ asset('img/guest/mobile.png')}}" alt="">
@@ -15,7 +15,7 @@
          </div>
          <div class="col-md-5 col-sm-6  dark-bg">
             <div class="heading-block">
-               <span class="text-uppercase light-weigh pt-5">Tempor incididunt labore dolore veniam</span>
+               <span class="text-uppercase light-weigh pt-5">Rabu Weekly Sharing & Kopi Darat</span>
                <h2 class="text-uppercase solid-weight">Rawes & Kopdar</h2>
                <div class="divider"></div>
             </div>

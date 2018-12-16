@@ -4,7 +4,7 @@
             <div class="col-md-3 col-sm-12">
                 <div class="pxy-5">
                     <div class="heading-block">
-                        <span class="text-uppercase light-weight">Excellent Advisors</span>
+                        <span class="text-uppercase light-weight">Member Weekly Sharing</span>
                         <h2 class="text-uppercase solid-weight">Success Story</h2>
                         <div class="divider"></div>
                     </div>
