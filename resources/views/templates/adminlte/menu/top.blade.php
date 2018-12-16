@@ -1,22 +1,19 @@
-<ul class="nav navbar-nav">
-  <!-- Messages: style can be found in dropdown.less-->
-  <!-- messages -->
-  @include('templates.adminlte.menu.top.messages')
-  <!-- Notifications: style can be found in dropdown.less -->
-  <!-- notif -->
-  @include('templates.adminlte.menu.top.notif')
+  <ul class="nav navbar-nav">
+     @include('templates.adminlte.menu.top.setting')
+    <!-- Messages: style can be found in dropdown.less-->
+    <!-- messages -->
+    {{-- @include('templates.adminlte.menu.top.messages') --}}
+    <!-- Notifications: style can be found in dropdown.less -->
+    <!-- notif -->
+    {{-- @include('templates.adminlte.menu.top.notif') --}}
+    
+    <!-- Tasks: style can be found in dropdown.less -->
+
+    <!-- tasks -->
+    @include('templates.adminlte.menu.top.tasks')
+    <!-- end task item -->
   
-  <!-- Tasks: style can be found in dropdown.less -->
-  <!-- tasks -->
-  @include('templates.adminlte.menu.top.tasks')
-  <!-- end task item -->
-</ul>
-</li>
-<li class="footer">
-  <a href="#">View all tasks</a>
-</li>
-</ul>
-</li>
+
 <!-- User Account: style can be found in dropdown.less -->
 <!-- Authentication Links -->
 @if (Auth::guest())

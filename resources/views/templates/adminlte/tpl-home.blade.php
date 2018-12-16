@@ -12,7 +12,7 @@
   @yield('stylesheets')
   
 </head>
-<body class="skin-blue-light top-nav ">
+<body class="skin-black-light sidebar-collapse layout-boxed ">
   <div class="wrapper">
     
     <!-- Header -->

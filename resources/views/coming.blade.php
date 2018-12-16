@@ -42,14 +42,16 @@
                                             <p class="seconds_ref">Seconds</p>
                                         </li>
                                     </ul>
-                                    <div class="social color-hover text-center mt-1">
+                                    <div class="social-icons animated color text-center mt-1">
                                         <ul>
                                             {{-- <li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li> --}}
                                             {{-- <li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li> --}}
-                                            {{-- <li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li> --}}
                                             <li class="social-instagram"><h1><a href="https://www.instagram.com/remotehub.id/" target="_blank"><i class="fa fa-instagram fa-4"></i></a></h1></li>
+                                            <li><a href="welcome" class="btn btn-link animated dark-text">Login <i class="fa fa-sign-in" aria-hidden="true"></i></a></li>
+                                            <li class="social-digg"><a href="login"><i class="fa fa-digg"></i></a></li>
                                         </ul>
                                     </div>
+                                    
                                 </div>
                             </div>
                         </div>
