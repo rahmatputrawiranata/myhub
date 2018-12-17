@@ -29,3 +29,4 @@
 <script src="{{ asset('templates/kkr021/js/bootsnav.js')}}"></script>
 <!-- custom -->
 <script type="text/javascript" src="{{ asset('templates/kkr021/js/custom.js')}}"></script>
+

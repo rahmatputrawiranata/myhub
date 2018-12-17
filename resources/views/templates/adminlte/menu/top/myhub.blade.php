@@ -1,75 +1,33 @@
-<li class="dropdown messages-menu">
-    <a href="#" class="dropdown-toggle btn btn-flat" data-toggle="dropdown">
-      <i class="fa fa-share-alt fa-lg"></i>
-    </a>
-    <ul class="dropdown-menu">
-      <li class="header"> MY HUB</li>
-      <li>
-        <!-- inner menu: contains the actual data -->
-        <ul class="menu">
-          <li><!-- start message -->
-            <a href="#">
-              <div class="pull-left">
-                <img src="{{ asset('img/user2-160x160.jpg')}}" class="img-circle" alt="User Image">
-              </div>
-              <h4>
-                Support Team
-                <small><i class="fa fa-clock-o"></i> 5 mins</small>
-              </h4>
-              <p>Why not buy a new awesome theme?</p>
-            </a>
-          </li>
-          <!-- end message -->
-          <li>
-            <a href="#">
-              <div class="pull-left">
-                <img src="{{ asset('img/user3-128x128.jpg')}}" class="img-circle" alt="User Image">
-              </div>
-              <h4>
-                AdminLTE Design Team
-                <small><i class="fa fa-clock-o"></i> 2 hours</small>
-              </h4>
-              <p>Why not buy a new awesome theme?</p>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <div class="pull-left">
-                <img src="{{ asset('img/user4-128x128.jpg')}}" class="img-circle" alt="User Image">
-              </div>
-              <h4>
-                Developers
-                <small><i class="fa fa-clock-o"></i> Today</small>
-              </h4>
-              <p>Why not buy a new awesome theme?</p>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <div class="pull-left">
-                <img src="{{ asset('img/user3-128x128.jpg')}}" class="img-circle" alt="User Image">
-              </div>
-              <h4>
-                Sales Department
-                <small><i class="fa fa-clock-o"></i> Yesterday</small>
-              </h4>
-              <p>Why not buy a new awesome theme?</p>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <div class="pull-left">
-                <img src="{{ asset('img/user4-128x128.jpg')}}" class="img-circle" alt="User Image">
-              </div>
-              <h4>
-                Reviewers
-                <small><i class="fa fa-clock-o"></i> 2 days</small>
-              </h4>
-              <p>Why not buy a new awesome theme?</p>
-            </a>
-          </li>
-        </ul>
+<div class="box-body box-profile">
+  <li class="user-body"><h4 class="box-title">My HUB</h4 class="box-title"></></li>
+    <ul class="list-group list-group-unbordered">
+      <li class="list-group-item">
+        <a href="{{ url('admin/settings/profilesetting')}}">
+          <i class="pull-right fa fa-fw fa-user "></i>
+          <b>My PROFILE</b>
+        </a>
       </li>
-      <li class="footer"><a href="#">See All Messages</a></li>
-    </ul>
-  </li>
+      <li class="list-group-item">
+        <a href="{{ url('#')}}">
+          <i class="pull-right fa fa-image"></i>
+          <b>My ALBUM</b>
+        </a>
+      </li>   
+      <li class="list-group-item">
+        <a href="{{ url('#')}}">
+          <i class="pull-right fa fa-file-text" aria-hidden="true"></i> <b>My PAGES</b>
+        </a>
+      </li>
+      <li class="list-group-item">
+        <a href="{{ url('#')}}">
+          <i class="pull-right fa fa-users" aria-hidden="true"></i> <b>My GROUPS</b>
+        </a>
+      </li>
+      <li class="list-group-item"><a href="#">
+        <i class="pull-right fa fa-calendar" aria-hidden="true"></i> <b>My EVENTS</b>
+      </a>
+    </li>
+  </ul>
+  
+  </div>
+  

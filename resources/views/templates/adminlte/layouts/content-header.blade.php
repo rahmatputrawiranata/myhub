@@ -1,7 +1,7 @@
 <section class="content-header">
       <div class="media">
           <div class="media-left media-middle">
-            <a href="home">
+            <a href="{{ url('home')}}">
                 <img class="media-object" src="{{asset('img/logo-dark.png')}}" height="40px" alt="logo"  height="100"">
               </a>
           </div>
