@@ -15,12 +15,12 @@
       </li>   
       <li class="list-group-item">
         <a href="{{ url('#')}}">
-          <i class="pull-right fa fa-file-text" aria-hidden="true"></i> <b>My PAGES</b>
+          <i class="pull-right fa fa-share-alt" aria-hidden="true"></i> <b>My HUBS</b>
         </a>
       </li>
       <li class="list-group-item">
         <a href="{{ url('#')}}">
-          <i class="pull-right fa fa-users" aria-hidden="true"></i> <b>My GROUPS</b>
+          <i class="pull-right fa fa-exchange" aria-hidden="true"></i> <b>My CHANNEL</b>
         </a>
       </li>
       <li class="list-group-item"><a href="#">

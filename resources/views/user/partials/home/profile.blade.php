@@ -1,5 +1,5 @@
 <!-- Profile Image -->
-<div class="box box-primary">
+<div class="box box-info">
     <div class="box-body box-profile">
         <a href="setting/profile"><img class="profile-user-img img-responsive img-circle" src="{{ asset('img/ths.jpeg')}}" alt="User profile picture"></a>
         
@@ -7,16 +7,44 @@
         <p class="text-muted text-center">Founder / CEO at Legaltech Indonesia</p>
         
         <p class="text-muted text-center">Front End Developer</p>
-        
+        <div class="row">
+            <div class="col-sm-4 border-right">
+                <div class="description-block">
+                    <h5 class="description-header"><img src="{{ asset('img/trusted.png')}}" height="25px" alt=""></h5>
+                    <span class="description-text">TRUSTED</span>
+                </div>
+                <!-- /.description-block -->
+            </div>
+            <!-- /.col -->
+            <div class="col-sm-4 border-right">
+                <div class="description-block">
+                    <h5 class="description-header">13,000</h5>
+                    <span class="description-text">FOLLOWERS</span>
+                </div>
+                <!-- /.description-block -->
+            </div>
+            <!-- /.col -->
+            <div class="col-sm-4">
+                <div class="description-block">
+                    <h5 class="description-header">35</h5>
+                    <span class="description-text">PRODUCTS</span>
+                </div>
+                <!-- /.description-block -->
+            </div>
+            <!-- /.col -->
+        </div>
         <ul class="list-group list-group-unbordered">
             <li class="list-group-item">
-                <b>Followers</b> <a class="pull-right">1,322</a>
+                <i class="fa fa-image"></i> <b>My Album</b> <span class="label label-info pull-right">1,322</span>
             </li>
             <li class="list-group-item">
-                <b>Following</b> <a class="pull-right">543</a>
+                <i class="fa fa-share-alt"></i> <b>My HUBS</b> <span class="label label-info pull-right">543</span>
             </li>
             <li class="list-group-item">
-                <b>Friends</b> <a class="pull-right">13,287</a>
+                <i class="fa fa-exchange"></i> <b>My Channel</b> <span class="label label-info pull-right">13,287</span>
+            </li>
+            <li class="list-group-item">
+                <i class="fa fa-calendar"></i> <b>My Events</b> <span class="label label-info pull-right">13,287</span>
             </li>
         </ul>
         
@@ -27,7 +55,7 @@
 <!-- /.box -->
 
 <!-- About Me Box -->
-<div class="box box-primary">
+<div class="box box-solid">
     <div class="box-header with-border">
         <h3 class="box-title">About Me</h3>
     </div>
