@@ -65,6 +65,10 @@ Route::get('sample/examples/500', function () {return view('templates.adminlte.d
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('networks', 'AdminlteController@networks');
+Route::get('jobs', 'AdminlteController@jobs');
+Route::get('learning', 'AdminlteController@learning');
+Route::get('market', 'AdminlteController@market');
 
-Route::get('admin/settings/profilesetting', 'AdminlteController@profilesetting');
-Route::get('sample/examples/profile', 'AdminlteController@profile');
+Route::get('setting/profile', 'AdminlteController@profile');
+Route::get('sample/examples/profilepage', 'AdminlteController@profilepage');

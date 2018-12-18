@@ -8,6 +8,22 @@ class AdminlteController extends Controller
 
 {
  
+    public function networks()
+    {
+        return view('user.networks');
+    }
+    public function jobs()
+    {
+        return view('user.jobs');
+    }
+    public function learning()
+    {
+        return view('user.learning');
+    }
+    public function market()
+    {
+        return view('user.market');
+    }
     public function widgets()
     {
         return view('templates.adminlte.documentation.widgets');
@@ -23,14 +39,14 @@ class AdminlteController extends Controller
         return view('templates.adminlte.documentation.UI.buttons');
     }
     
-    public function profile()
+    public function profilepage()
     {
         return view('templates.adminlte.documentation.examples.profile');
     }
     
-    public function profilesetting()
+    public function profile()
     {
-        return view('user.profilesetting');
+        return view('user.profile');
     }
     
     public function general()

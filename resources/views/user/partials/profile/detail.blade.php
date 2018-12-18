@@ -1,56 +1,3 @@
-@extends('templates.adminlte.tpl-home')
-
-@section('title', 'RemoteHUB.id')
-
-@section('content_header')
-{{-- <h1>Heading Title</h1> --}}
-@stop
-
-@section('content')
-<!-- Widget: user widget style 1 -->
-<section>
-  <div class="box box-widget widget-user">
-    <!-- Add the bg color to the header using any of the bg-* classes -->
-    <div class="widget-user-header bg-black" style="background: url('{{ asset('/img/photo1.png')}}') center center;">
-      <h3 class="widget-user-username">Tonny Soerojo S.H.</h3>
-      <h5 class="widget-user-desc">Founder / CEO at Legaltech Indonesia</h5>
-      <h5 class="widget-user-desc"><i class="fa fa-map-marker"></i> DKI Jakarta</h5>
-    </div>
-    <div class="widget-user-image">
-      <img class="img-circle" src="{{ asset('img/ths.jpeg')}}" alt="User Avatar">
-    </div>
-    <div class="box-footer">
-      <div class="row">
-        <div class="col-sm-4 border-right">
-          <div class="description-block">
-            <h5 class="description-header"><img src="{{ asset('img/trusted.png')}}" height="25px" alt=""></h5>
-            <span class="description-text">TRUSTED</span>
-          </div>
-          <!-- /.description-block -->
-        </div>
-        <!-- /.col -->
-        <div class="col-sm-4 border-right">
-          <div class="description-block">
-            <h5 class="description-header">Business Analyst</h5>
-            <span class="description-text">Front End Developer</span>
-          </div>
-          <!-- /.description-block -->
-        </div>
-        <!-- /.col -->
-        <div class="col-sm-4">
-          <div class="description-block">
-            <h5 class="description-header">35</h5>
-            <span class="description-text">Projects</span>
-          </div>
-          <!-- /.description-block -->
-        </div>
-        <!-- /.col -->
-      </div>
-      <!-- /.row -->
-    </div>
-  </div>
-</section>
-<!-- /.widget-user -->  
 <!-- Experience -->
 <section>
   <div class="box box-default collapsed-box">
@@ -300,8 +247,3 @@
   </div>
 </section>
 <!-- /.Interests -->
-
-
-
-
-@stop

@@ -125,7 +125,7 @@
     </a>
     <ul class="treeview-menu">
       <li><a href="{{ url('sample/examples/invoice')}}"><i class="fa fa-circle-o"></i> Invoice</a></li>
-      <li><a href="{{ url('sample/examples/profile')}}"><i class="fa fa-circle-o"></i> Profile</a></li>
+      <li><a href="{{ url('sample/examples/profilepage')}}"><i class="fa fa-circle-o"></i> Profile</a></li>
       <li><a href="{{ url('sample/examples/login')}}"><i class="fa fa-circle-o"></i> Login</a></li>
       <li><a href="{{ url('sample/examples/register')}}"><i class="fa fa-circle-o"></i> Register</a></li>
       <li><a href="{{ url('sample/examples/lockscreen')}}"><i class="fa fa-circle-o"></i> Lockscreen</a></li>

@@ -1,7 +1,7 @@
 <!-- Profile Image -->
 <div class="box box-info">
     <div class="box-body box-profile">
-        <a href="setting/profile"><img class="profile-user-img img-responsive img-circle" src="{{ asset('img/ths.jpeg')}}" alt="User profile picture"></a>
+        <a href="{{ url('setting/profile')}}"><img class="profile-user-img img-responsive img-circle" src="{{ asset('img/ths.jpeg')}}" alt="User profile picture"></a>
         
         <h3 class="profile-username text-center">Tonny Soerojo S.H.</h3>
         <p class="text-muted text-center">Founder / CEO at Legaltech Indonesia</p>

@@ -2,7 +2,7 @@
   <li class="user-body"><h4 class="box-title">My HUB</h4 class="box-title"></></li>
     <ul class="list-group list-group-unbordered">
       <li class="list-group-item">
-        <a href="{{ url('admin/settings/profilesetting')}}">
+        <a href="{{ url('setting/profile')}}">
           <i class="pull-right fa fa-fw fa-user "></i>
           <b>My PROFILE</b>
         </a>
