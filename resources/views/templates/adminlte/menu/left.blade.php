@@ -4,10 +4,29 @@
   <li class="">
     <a href="{{ url('home')}}">
       <i class="fa fa-fw fa-home "></i>
-      <span>RemoteHUB</span>
+      <span>Home</span>
     </a>
   </li>
-  
+
+ <li class="">
+    <a href="{{ url('networks')}}">
+      <i class="fa fa-share-alt fa-lg"></i> REMOTE HUB
+    </a>
+  </li>
+  <li class="">
+    <a href="{{ url('jobs')}}">
+      <i class="fa fa-briefcase fa-lg"></i> JOBS HUB
+    </a>
+  </li>
+  <li class="">
+    <a href="{{ url('learning')}}">
+      <i class="fa fa-graduation-cap fa-lg"></i> LEARNING HUB
+    </a>
+  </li>
+  <li class="">
+    <a href="{{ url('market')}}">
+      <i class="fa fa-exchange fa-lg"></i> MARKET HUB
+    </a>
   {{-- @include('templates.adminlte.menu.core.ekejaksaan')
   
   <li class="header">BIDANG TEKNIS</li>
@@ -24,21 +43,10 @@
   
   @include('templates.adminlte.menu.core.datun') --}}
   
-  <li class="treeview">
-    <a href="#">
-      <i class="fa fa-gear"></i> <span>SETTING</span>
-      <span class="pull-right-container">
-        <i class="fa fa-angle-left pull-right"></i>
-      </span>
-    </a>
-    <ul class="treeview-menu">
-      @include('templates.adminlte.menu.left.setting')
-    </ul>
-  </li>
   
   <li class="treeview">
     <a href="#">
-      <i class="fa fa-folder"></i> <span>Examples</span>
+      <i class="fa fa-book"></i> <span>Examples</span>
       <span class="pull-right-container">
         <i class="fa fa-angle-left pull-right"></i>
       </span>

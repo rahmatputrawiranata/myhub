@@ -11,26 +11,26 @@
 <section class="content">
   
   <div class="row">
-    <div class="col-md-3">     
-      @include('user.partials.home.profile')
-    </div>
-    <!-- /.col -->
-    <div class="col-md-9">
+    <div class="col-md-9 col-sm-8">
       <div class="box box-info">
         <div class="box-header">
           <h3 class="box-title">Explore our solutions for enterprise companies<br><small>Talk to a Talent Solutions sales specialist. We're here to help.
-</small> </h3>
+          </small> </h3>
         </div>
         <div class="box-body">
-          Market Hub
+          @include('user.partials.market')
         </div>
-
+        
       </div>
     </div>
     <!-- /.col -->
+    <div class="col-md-3 col-sm-4">     
+      @include('user.partials.home.profile')
+    </div>
+    <!-- /.col -->
     
-  <!-- /.row -->
-  
-</section>
-<!-- /.content -->
-@stop
+    <!-- /.row -->
+    
+  </section>
+  <!-- /.content -->
+  @stop

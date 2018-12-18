@@ -11,20 +11,20 @@
 <section class="content">
   
   <div class="row">
-    <div class="col-md-3">     
-      @include('user.partials.home.profile')
-    </div>
-    <!-- /.col -->
-    <div class="col-md-9">
+    <div class="col-md-9 col-sm-8">
       <div class="box box-info">
         <div class="box-header">
           <h3 class="box-title">Keep learning in moments that matter<br><small>Courses for every step of your career. Instructors with real-world experience.</small></h3>
         </div>
         <div class="box-body">
-          Learning Hub
+          @include('user.partials.learning')
         </div>
-
+        
       </div>
+    </div>
+    <!-- /.col -->
+    <div class="col-md-3 col-sm-4">     
+      @include('user.partials.home.profile')
     </div>
     <!-- /.col -->
   </div>

@@ -1,15 +1,21 @@
 <div class="nav-tabs-custom">
             <ul class="nav nav-tabs">
-              <li class="active"><a href="#postajob" data-toggle="tab">Post a Job</a></li>
+              <li class="active"><a href="#recommend" data-toggle="tab">Recommendation</a></li>
+              <li><a href="#postajob" data-toggle="tab">Post a Job </a></li>
               <li><a href="#looktalent" data-toggle="tab">Looking for talent? </a></li>
               <li><a href="#career" data-toggle="tab">Career interests</a></li>
             </ul>
             <div class="tab-content">
-              <div class="active tab-pane" id="postajob">
-                Post a Job
+              <div class="active tab-pane" id="recommend">
+                 @include('user.partials.networks.jobs')
               </div>
               <!-- /.tab-pane -->
-
+              <div class="tab-pane" id="postajob">
+                <!-- Networks -->
+                Post a Job
+                
+              </div>
+              <!-- /.tab-pane -->
               <div class="tab-pane" id="looktalent">
                 <!-- Networks -->
                 Looking for talent?
