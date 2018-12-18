@@ -1,9 +1,11 @@
 <section class="content-header">
       <div class="media">
           <div class="media-left media-middle">
-            <a href="{{ url('home')}}">
-                <img class="media-object" src="{{asset('img/logo-dark.png')}}" height="40px" alt="logo"  height="100"">
-              </a>
+            <form class="navbar-form navbar-left" role="search">
+            <div class="form-group">
+              <input type="text" class="form-control" id="navbar-search-input" placeholder="Search">
+            </div>
+          </form>
           </div>
           <div class="media-body">
             <h2 class="media-heading">@yield('judulhalaman')</h2>
