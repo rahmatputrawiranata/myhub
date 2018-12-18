@@ -44,7 +44,7 @@
     <link rel="shortcut icon" href="{{ asset('favicon.ico')}}"/>
     <style>
         nav.navbar .navbar-brand img.logo {
-            width: 180px;
+            width: 70px;
         }
         
     </style>

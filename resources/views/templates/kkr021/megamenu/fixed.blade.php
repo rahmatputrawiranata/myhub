@@ -21,7 +21,7 @@
         <!-- Start Header Navigation -->
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu"> <i class="fa fa-bars"></i> </button>
-            <a class="navbar-brand" href="{{ url('/')}}"><img src="{{ asset('img/logo-dark.png')}}" class="logo logo-scrolled" alt=""> </a> 
+            <a class="navbar-brand" href="{{ url('/')}}"><img src="{{ asset('img/cloud-logo.png')}}" class="logo logo-scrolled" alt=""> </a> 
         </div>
         <!-- End Header Navigation -->
         <!-- Megamenu -->
@@ -32,7 +32,7 @@
 <div class="side light-bg">
     <a href="#" class="close-side"><i class="fa fa-times"></i></a>
     <div class="widget">
-        <p class="text-center text-white my-3"> <a href="{{ url('/') }}"><img src="{{ asset('templates/kkr021/images/logo-white.png')}}" class="logo" alt="" /><br><h3>Remote<b>Hub</b>  <small>.id</small></h3></a></p>
+        <p class="text-center text-white my-3"> <a href="{{ url('/') }}"><img src="{{ asset('templates/kkr021/images/cloud-white.png')}}" class="logo" alt="" /><br><h3>Remote<b>Hub</b>  <small>.id</small></h3></a></p>
         <div class="login-logo">
             
         </div>

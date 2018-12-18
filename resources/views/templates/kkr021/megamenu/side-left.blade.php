@@ -12,7 +12,7 @@
         <!-- Start Header Navigation -->
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu"> <i class="fa fa-bars"></i> </button>
-            <a class="navbar-brand mb-7" href="{{ url('/')}}"><img src="{{ asset('img/logo-dark.png')}}" class="logo logo-scrolled" alt=""> </a> 
+            <a class="navbar-brand mb-7" href="{{ url('/')}}"><img src="{{ asset('img/cloud-logo.png')}}" class="logo logo-scrolled" alt=""> </a> 
         </div>
         <!-- End Header Navigation -->
         <!-- Megamenu -->
@@ -252,7 +252,7 @@
         <a href="#" class="close-side"><i class="fa fa-times"></i></a>
         <div class="widget">
             <p class="text-center text-white my-3">
-                <a href="{{ url('/') }}"><img src="{{ asset('templates/kkr021/templates/kkr021/images/logo-white.png')}}" class="logo" alt="" /><br>Remote<b>Hub</b> Indonesia</a></p>
+                <a href="{{ url('/') }}"><img src="{{ asset('templates/kkr021/templates/kkr021/images/cloud-white.png')}}" class="logo" alt="" /><br>Remote<b>Hub</b> Indonesia</a></p>
                 <div class="login-logo">
                     
                 </div>
