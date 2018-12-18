@@ -52,119 +52,120 @@
 </section>
 <!-- /.widget-user -->  
 <div class="row">
-        <div class="col-md-3">
-
-          <!-- Profile Image -->
-          @include('user.partials.home.profile')
-          <!-- /.box -->
+  
+  <div class="col-md-9 col-sm-8">
+    <div class="nav-tabs-custom">
+      <ul class="nav nav-tabs">
+        <li class="active"><a href="#experience" data-toggle="tab">Experience</a></li>
+        <li><a href="#networks" data-toggle="tab">My Networks</a></li>
+        <li><a href="#myevents" data-toggle="tab">My Events</a></li>
+        <li><a href="#mycourse" data-toggle="tab">My Course</a></li>
+        <li><a href="#mymedia" data-toggle="tab">My Media</a></li>
+        <li><a href="#settings" data-toggle="tab">Settings</a></li>
+      </ul>
+      <div class="tab-content">
+        <div class="active tab-pane" id="experience">
+          @include('user.partials.profile.detail')
         </div>
-        <!-- /.col -->
-        <div class="col-md-9">
-          <div class="nav-tabs-custom">
-            <ul class="nav nav-tabs">
-              <li class="active"><a href="#experience" data-toggle="tab">Experience</a></li>
-              <li><a href="#networks" data-toggle="tab">My Networks</a></li>
-              <li><a href="#myevents" data-toggle="tab">My Events</a></li>
-              <li><a href="#mycourse" data-toggle="tab">My Course</a></li>
-              <li><a href="#mymedia" data-toggle="tab">My Media</a></li>
-              <li><a href="#settings" data-toggle="tab">Settings</a></li>
-            </ul>
-            <div class="tab-content">
-              <div class="active tab-pane" id="experience">
-                @include('user.partials.profile.detail')
+        <!-- /.tab-pane -->
+        
+        <div class="tab-pane" id="networks">
+          <!-- Networks -->
+          @include('user.partials.profile.networks')
+          
+        </div>
+        <!-- /.tab-pane -->
+        
+        <div class="tab-pane" id="myevents">
+          <!-- myevents -->
+          myevents
+          
+        </div>
+        <!-- /.tab-pane -->
+        
+        <div class="tab-pane" id="mycourse">
+          <!-- mycourse -->
+          mycourse
+          
+        </div>
+        <!-- /.tab-pane -->
+        
+        <div class="tab-pane" id="mymedia">
+          <!-- mymedia -->
+          @include('user.partials.profile.media')
+          
+        </div>
+        <!-- /.tab-pane -->
+        
+        <div class="tab-pane" id="settings">
+          <form class="form-horizontal">
+            <div class="form-group">
+              <label for="inputName" class="col-sm-2 control-label">Name</label>
+              
+              <div class="col-sm-10">
+                <input type="email" class="form-control" id="inputName" placeholder="Name">
               </div>
-              <!-- /.tab-pane -->
-
-              <div class="tab-pane" id="networks">
-                <!-- Networks -->
-                @include('user.partials.profile.networks')
-                
-              </div>
-              <!-- /.tab-pane -->
-
-              <div class="tab-pane" id="myevents">
-                <!-- myevents -->
-                myevents
-                
-              </div>
-              <!-- /.tab-pane -->
-
-              <div class="tab-pane" id="mycourse">
-                <!-- mycourse -->
-                mycourse
-                
-              </div>
-              <!-- /.tab-pane -->
-
-              <div class="tab-pane" id="mymedia">
-                <!-- mymedia -->
-                @include('user.partials.profile.media')
-                
-              </div>
-              <!-- /.tab-pane -->
-
-              <div class="tab-pane" id="settings">
-                <form class="form-horizontal">
-                  <div class="form-group">
-                    <label for="inputName" class="col-sm-2 control-label">Name</label>
-
-                    <div class="col-sm-10">
-                      <input type="email" class="form-control" id="inputName" placeholder="Name">
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <label for="inputEmail" class="col-sm-2 control-label">Email</label>
-
-                    <div class="col-sm-10">
-                      <input type="email" class="form-control" id="inputEmail" placeholder="Email">
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <label for="inputName" class="col-sm-2 control-label">Name</label>
-
-                    <div class="col-sm-10">
-                      <input type="text" class="form-control" id="inputName" placeholder="Name">
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <label for="inputExperience" class="col-sm-2 control-label">Experience</label>
-
-                    <div class="col-sm-10">
-                      <textarea class="form-control" id="inputExperience" placeholder="Experience"></textarea>
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <label for="inputSkills" class="col-sm-2 control-label">Skills</label>
-
-                    <div class="col-sm-10">
-                      <input type="text" class="form-control" id="inputSkills" placeholder="Skills">
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <div class="col-sm-offset-2 col-sm-10">
-                      <div class="checkbox">
-                        <label>
-                          <input type="checkbox"> I agree to the <a href="#">terms and conditions</a>
-                        </label>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <div class="col-sm-offset-2 col-sm-10">
-                      <button type="submit" class="btn btn-flat btn-danger">Submit</button>
-                    </div>
-                  </div>
-                </form>
-              </div>
-              <!-- /.tab-pane -->
             </div>
-            <!-- /.tab-content -->
-          </div>
-          <!-- /.nav-tabs-custom -->
+            <div class="form-group">
+              <label for="inputEmail" class="col-sm-2 control-label">Email</label>
+              
+              <div class="col-sm-10">
+                <input type="email" class="form-control" id="inputEmail" placeholder="Email">
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="inputName" class="col-sm-2 control-label">Name</label>
+              
+              <div class="col-sm-10">
+                <input type="text" class="form-control" id="inputName" placeholder="Name">
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="inputExperience" class="col-sm-2 control-label">Experience</label>
+              
+              <div class="col-sm-10">
+                <textarea class="form-control" id="inputExperience" placeholder="Experience"></textarea>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="inputSkills" class="col-sm-2 control-label">Skills</label>
+              
+              <div class="col-sm-10">
+                <input type="text" class="form-control" id="inputSkills" placeholder="Skills">
+              </div>
+            </div>
+            <div class="form-group">
+              <div class="col-sm-offset-2 col-sm-10">
+                <div class="checkbox">
+                  <label>
+                    <input type="checkbox"> I agree to the <a href="#">terms and conditions</a>
+                  </label>
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <div class="col-sm-offset-2 col-sm-10">
+                <button type="submit" class="btn btn-flat btn-danger">Submit</button>
+              </div>
+            </div>
+          </form>
         </div>
-        <!-- /.col -->
+        <!-- /.tab-pane -->
       </div>
-      <!-- /.row -->
+      <!-- /.tab-content -->
+    </div>
+    <!-- /.nav-tabs-custom -->
+  </div>
+  <!-- /.col -->
+  <div class="col-md-3 col-sm-4">
+    
+    <!-- Profile Image -->
+    @include('user.partials.home.profile')
+    <!-- /.box -->
+  </div>
+  <!-- /.col -->
+</div>
+<!-- /.row -->
 
 
 
