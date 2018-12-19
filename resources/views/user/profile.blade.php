@@ -71,28 +71,28 @@
         
         <div class="tab-pane" id="networks">
           <!-- Networks -->
-          @include('user.networks.detail')
+          @include('user.profile.mynetwork')
           
         </div>
         <!-- /.tab-pane -->
         
         <div class="tab-pane" id="myevents">
           <!-- myevents -->
-          myevents
+          @include('user.profile.myevents')
           
         </div>
         <!-- /.tab-pane -->
         
         <div class="tab-pane" id="mycourse">
           <!-- mycourse -->
-          mycourse
+          @include('user.profile.mycourses')
           
         </div>
         <!-- /.tab-pane -->
         
         <div class="tab-pane" id="mymedia">
           <!-- mymedia -->
-          @include('user.profile.media')
+          @include('user.profile.mymedia')
           
         </div>
         <!-- /.tab-pane -->

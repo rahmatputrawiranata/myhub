@@ -8,34 +8,34 @@
             </ul>
             <div class="tab-content">
               <div class="active tab-pane" id="allmedia">
-                allmedia
+                @include('user.profile.mymedia.allmedia')
               </div>
               <!-- /.tab-pane -->
 
               <div class="tab-pane" id="album">
                 <!-- Networks -->
-                album
+                @include('user.profile.mymedia.album')
                 
               </div>
               <!-- /.tab-pane -->
 
               <div class="tab-pane" id="Photos">
                 <!-- Photos -->
-                Photos
+                @include('user.profile.mymedia.photos')
                 
               </div>
               <!-- /.tab-pane -->
 
               <div class="tab-pane" id="videos">
                 <!-- videos -->
-                videos
+                @include('user.profile.mymedia.videos')
                 
               </div>
               <!-- /.tab-pane -->
 
               <div class="tab-pane" id="music">
                 <!-- music -->
-                music
+                @include('user.profile.mymedia.music')
                 
               </div>
               <!-- /.tab-pane -->

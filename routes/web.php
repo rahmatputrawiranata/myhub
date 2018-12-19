@@ -27,6 +27,9 @@ Route::get('myhub', function () {return view('guest.myhub');});
 
 // AdminLTE Sample Pages
 
+Route::get('sample/dashboard/v1', function () {return view('templates.adminlte.documentation.dashboard.v1');});
+Route::get('sample/dashboard/v2', function () {return view('templates.adminlte.documentation.dashboard.v2');});
+
 Route::get('sample/widgets', function () {return view('templates.adminlte.documentation.widgets');});
 Route::get('sample/charts/chartjs', function () {return view('templates.adminlte.documentation.charts.chartjs');});
 

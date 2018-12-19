@@ -1,8 +1,8 @@
 <!-- Experience -->
 <section>
-  <div class="box box-default collapsed-box">
+  <div class="box box-solid collapsed-box">
     <div class="box-header with-border">
-      <h3 class="box-title">Experience</h3>
+      <button type="button" class="btn btn-flat btn-box-tool" data-widget="collapse"><h3 class="box-title">Experience</h3></button>
       
       <div class="box-tools pull-right">
         <button type="button" class="btn btn-flat btn-box-tool" data-widget="collapse"><i class="fa fa-plus"></i>
@@ -103,7 +103,7 @@
     </div>
     <!-- /.box-body -->
     <div class="box-header with-border">
-      <h3 class="box-title">Education</h3>
+      <button type="button" class="btn btn-flat btn-box-tool" data-widget="collapse"><h3 class="box-title">Education</h3></button>
       
       
       <!-- /.box-tools -->
@@ -122,9 +122,9 @@
 
 <!-- Skills & Endorsements -->
 <section>
-  <div class="box box-default collapsed-box">
+  <div class="box box-solid collapsed-box">
     <div class="box-header with-border">
-      <h3 class="box-title">Skills & Endorsements</h3>
+      <button type="button" class="btn btn-flat btn-box-tool" data-widget="collapse"><h3 class="box-title">Skills & Endorsements</h3></button>
       
       <div class="box-tools pull-right">
         <button type="button" class="btn btn-flat btn-box-tool" data-widget="collapse"><i class="fa fa-plus"></i>
@@ -150,9 +150,9 @@
 
 <!-- Recommendations -->
 <section>
-  <div class="box box-default collapsed-box">
+  <div class="box box-solid collapsed-box">
     <div class="box-header with-border">
-      <h3 class="box-title">Recommendations</h3>
+      <button type="button" class="btn btn-flat btn-box-tool" data-widget="collapse"><h3 class="box-title">Recommendations</h3></button>
       
       <div class="box-tools pull-right">
         <button type="button" class="btn btn-flat btn-box-tool" data-widget="collapse"><i class="fa fa-plus"></i>
@@ -174,9 +174,9 @@
 
 <!-- Accomplishments -->
 <section>
-  <div class="box box-default collapsed-box">
+  <div class="box box-solid collapsed-box">
     <div class="box-header with-border">
-      <h3 class="box-title">Accomplishments</h3>
+      <button type="button" class="btn btn-flat btn-box-tool" data-widget="collapse"><h3 class="box-title">Accomplishments</h3></button>
       
       <div class="box-tools pull-right">
         <button type="button" class="btn btn-flat btn-box-tool" data-widget="collapse"><i class="fa fa-plus"></i>
@@ -226,9 +226,9 @@
 
 <!-- Interests -->
 <section>
-  <div class="box box-default collapsed-box">
+  <div class="box box-solid collapsed-box">
     <div class="box-header with-border">
-      <h3 class="box-title">Interests</h3>
+      <button type="button" class="btn btn-flat btn-box-tool" data-widget="collapse"><h3 class="box-title">Interests</h3></button>
       
       <div class="box-tools pull-right">
         <button type="button" class="btn btn-flat btn-box-tool" data-widget="collapse"><i class="fa fa-plus"></i>

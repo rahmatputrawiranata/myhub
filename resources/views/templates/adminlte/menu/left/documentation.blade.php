@@ -1,5 +1,5 @@
   <li class="header">DOCUMENTATION PAGE</li>
-  {{-- <li class="active treeview menu-open">
+  <li class="active treeview menu-open">
     <a href="#">
       <i class="fa fa-dashboard"></i> <span>Dashboard</span>
       <span class="pull-right-container">
@@ -7,10 +7,10 @@
       </span>
     </a>
     <ul class="treeview-menu">
-      <li><a href="index')}}"><i class="fa fa-circle-o"></i> Dashboard v1</a></li>
-      <li class="active"><a href="index2')}}"><i class="fa fa-circle-o"></i> Dashboard v2</a></li>
+      <li><a href="{{ url('sample/dashboard/v1')}}"><i class="fa fa-circle-o"></i> Dashboard v1</a></li>
+      <li class="active"><a href="{{ url('sample/dashboard/v2')}}"><i class="fa fa-circle-o"></i> Dashboard v2</a></li>
     </ul>
-  </li> --}}
+  </li>
   {{-- <li class="treeview">
     <a href="#">
       <i class="fa fa-files-o"></i>
