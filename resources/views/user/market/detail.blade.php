@@ -9,41 +9,41 @@
             </ul>
             <div class="tab-content">
               <div class="active tab-pane" id="products">
-                Product
+                @include('user.market.detail.product')
               </div>
               <!-- /.tab-pane -->
 
               <div class="tab-pane" id="projects">
                 <!-- Networks -->
-                Projects
+                @include('user.market.detail.projects')
                 
               </div>
               <!-- /.tab-pane -->
 
               <div class="tab-pane" id="marketing">
                 <!-- marketing -->
-                Marketing Solution
+                @include('user.market.detail.marketing')
                 
               </div>
               <!-- /.tab-pane -->
 
               <div class="tab-pane" id="content">
                 <!-- content -->
-                Content Solution
+                @include('user.market.detail.content')
                 
               </div>
               <!-- /.tab-pane -->
 
               <div class="tab-pane" id="training">
                 <!-- training -->
-                In House Training
+                @include('user.market.detail.training')
                 
               </div>
               <!-- /.tab-pane -->
 
               <div class="tab-pane" id="translation">
                 
-                Translation Service
+                @include('user.market.detail.translation')
               </div>
               <!-- /.tab-pane -->
             </div>

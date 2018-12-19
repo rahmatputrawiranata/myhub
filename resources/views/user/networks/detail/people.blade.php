@@ -11,7 +11,7 @@
             </div>
             <div id="collapseOne" class="panel-collapse collapse in">
                 <div class="box-body">
-                    @include('user.networks.partials.people.admin-intro')
+                    @include('user.networks.detail.people.admin-intro')
                 </div>
             </div>
         </div>
@@ -25,7 +25,7 @@
             </div>
             <div id="collapseTwo" class="panel-collapse collapse">
                 <div class="box-body">
-                    @include('user.networks.partials.people.computing-intro')
+                    @include('user.networks.detail.people.computing-intro')
                 </div>
             </div>
         </div>
@@ -39,10 +39,11 @@
             </div>
             <div id="collapseThree" class="panel-collapse collapse">
                 <div class="box-body">
-                    @include('user.networks.partials.people.creative-intro')
+                    @include('user.networks.detail.people.creative-intro')
                 </div>
             </div>
         </div>
     </div>
 </div>
+
 <!-- /.box-header -->

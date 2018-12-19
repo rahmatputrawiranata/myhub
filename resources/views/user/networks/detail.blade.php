@@ -7,13 +7,13 @@
             </ul>
             <div class="tab-content">
               <div class="active tab-pane" id="people">
-                @include('user.networks.partials.people')
+                @include('user.networks.detail.people')
               </div>
               <!-- /.tab-pane -->
 
               <div class="tab-pane" id="remotehub">
                 <!-- Networks -->
-                @include('user.networks.partials.myhub')
+                @include('user.networks.detail.myhub')
                 
               </div>
               <!-- /.tab-pane -->

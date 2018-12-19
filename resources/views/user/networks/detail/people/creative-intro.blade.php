@@ -1,13 +1,13 @@
 <div class="row">
-  <div class="col-md-3 col-sm-6 col-xs-12">
+  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
     <div class="box box-widget widget-user">
       <!-- Add the bg color to the header using any of the bg-* classes -->
-      <div class="widget-user-header bg-primary">
+      <div class="widget-user-header bg-green">
         <h3 class="widget-user-username">Full Name 1</h3>
         <h5 class="widget-user-desc">Jobs / Position</h5>
       </div>
       <div class="widget-user-image">
-        <img class="img-circle" src="{{ asset('img/user1-128x128.jpg')}}" alt="User Avatar">
+        <img class="img-circle" src="{{ asset('img/avatar.png')}}" alt="User Avatar">
       </div>
       <div class="box-body">
         <strong><i class="fa fa-map-marker margin-r-5"></i> Location</strong>
@@ -26,26 +26,26 @@
         <hr>
             
         <p>
-          <span class="label label-danger">Content-Writer</span>
-          <span class="label label-success">Bloger/Vloger</span>
-          <span class="label label-info">Accounting</span>
-          <span class="label label-warning">Legal Service</span>
-          <span class="label label-primary">Virtual Assistant</span>
+          <span class="label label-danger">Graphic Design</span>
+          <span class="label label-success">Photographer</span>
+          <span class="label label-info">Videographer</span>
+          <span class="label label-warning">Media Promotion</span>
+          <span class="label label-primary">Art & Craft</span>
         </p>
       </div>
     </div>
     <!-- /.Member -->
   </div>
   <!-- /.col -->
-  <div class="col-md-3 col-sm-6 col-xs-12">
+  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
     <div class="box box-widget widget-user">
       <!-- Add the bg color to the header using any of the bg-* classes -->
-      <div class="widget-user-header bg-primary">
+      <div class="widget-user-header bg-green">
         <h3 class="widget-user-username">Full Name 2</h3>
         <h5 class="widget-user-desc">Jobs / Position</h5>
       </div>
       <div class="widget-user-image">
-        <img class="img-circle" src="{{ asset('img/user2-160x160.jpg')}}" alt="User Avatar">
+        <img class="img-circle" src="{{ asset('img/avatar2.png')}}" alt="User Avatar">
       </div>
       <div class="box-body">
         <strong><i class="fa fa-map-marker margin-r-5"></i> Location</strong>
@@ -64,26 +64,26 @@
         <hr>
             
         <p>
-          <span class="label label-danger">Content-Writer</span>
-          <span class="label label-success">Bloger/Vloger</span>
-          <span class="label label-info">Accounting</span>
-          <span class="label label-warning">Legal Service</span>
-          <span class="label label-primary">Virtual Assistant</span>
+          <span class="label label-danger">Graphic Design</span>
+          <span class="label label-success">Photographer</span>
+          <span class="label label-info">Videographer</span>
+          <span class="label label-warning">Media Promotion</span>
+          <span class="label label-primary">Painters</span>
         </p>
       </div>
     </div>
     <!-- /.Member -->
   </div>
   <!-- /.col -->
-  <div class="col-md-3 col-sm-6 col-xs-12">
+  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
     <div class="box box-widget widget-user">
       <!-- Add the bg color to the header using any of the bg-* classes -->
-      <div class="widget-user-header bg-primary">
+      <div class="widget-user-header bg-green">
         <h3 class="widget-user-username">Full Name 3</h3>
         <h5 class="widget-user-desc">Jobs / Position</h5>
       </div>
       <div class="widget-user-image">
-        <img class="img-circle" src="{{ asset('img/user3-128x128.jpg')}}" alt="User Avatar">
+        <img class="img-circle" src="{{ asset('img/avatar3.png')}}" alt="User Avatar">
       </div>
       <div class="box-body">
         <strong><i class="fa fa-map-marker margin-r-5"></i> Location</strong>
@@ -102,26 +102,26 @@
         <hr>
             
         <p>
-          <span class="label label-danger">Content-Writer</span>
-          <span class="label label-success">Bloger/Vloger</span>
-          <span class="label label-info">Accounting</span>
-          <span class="label label-warning">Legal Service</span>
-          <span class="label label-primary">Virtual Assistant</span>
+          <span class="label label-danger">Graphic Design</span>
+          <span class="label label-success">Photographer</span>
+          <span class="label label-info">Videographer</span>
+          <span class="label label-warning">Media Promotion</span>
+          <span class="label label-primary">Painters</span>
         </p>
       </div>
     </div>
     <!-- /.Member -->
   </div>
   <!-- /.col -->
-  <div class="col-md-3 col-sm-6 col-xs-12">
+  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
     <div class="box box-widget widget-user">
       <!-- Add the bg color to the header using any of the bg-* classes -->
-      <div class="widget-user-header bg-primary">
+      <div class="widget-user-header bg-green">
         <h3 class="widget-user-username">Full Name 4</h3>
         <h5 class="widget-user-desc">Jobs / Position</h5>
       </div>
       <div class="widget-user-image">
-        <img class="img-circle" src="{{ asset('img/user4-128x128.jpg')}}" alt="User Avatar">
+        <img class="img-circle" src="{{ asset('img/avatar04.png')}}" alt="User Avatar">
       </div>
       <div class="box-body">
         <strong><i class="fa fa-map-marker margin-r-5"></i> Location</strong>
@@ -140,11 +140,11 @@
         <hr>
             
         <p>
-          <span class="label label-danger">Content-Writer</span>
-          <span class="label label-success">Bloger/Vloger</span>
-          <span class="label label-info">Accounting</span>
-          <span class="label label-warning">Legal Service</span>
-          <span class="label label-primary">Virtual Assistant</span>
+          <span class="label label-danger">Graphic Design</span>
+          <span class="label label-success">Photographer</span>
+          <span class="label label-info">Videographer</span>
+          <span class="label label-warning">Media Promotion</span>
+          <span class="label label-primary">Painters</span>
         </p>
       </div>
     </div>
@@ -152,4 +152,7 @@
   </div>
   <!-- /.col -->
   
+</div>
+<div class="box-footer text-center">
+<a href="#">View all</a>
 </div>

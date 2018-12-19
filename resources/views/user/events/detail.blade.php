@@ -6,20 +6,20 @@
             </ul>
             <div class="tab-content">
               <div class="active tab-pane" id="rawes">
-                Rabu Weekly Sharing
+                @include('user.events.detail.rawes')
               </div>
               <!-- /.tab-pane -->
 
               <div class="tab-pane" id="kopdar">
                 <!-- Networks -->
-                Monthly Meetup
+                @include('user.events.detail.kopdar')
                 
               </div>
               <!-- /.tab-pane -->
 
               <div class="tab-pane" id="webinar">
                 <!-- webinar -->
-                webinar
+                @include('user.events.detail.webinar')
                 
               </div>
               <!-- /.tab-pane -->
