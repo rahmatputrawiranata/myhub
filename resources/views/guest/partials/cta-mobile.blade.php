@@ -1,7 +1,7 @@
 <section class="p-0">
-   <div class="container-fluid grey-bg">
+   <div class="container grey-bg">
       <div class="row">
-         <div class="col-md-7 col-sm-6">
+         <div class="col-md-7 col-sm-6 pl-5">
             <div class="heading-block">
                <span class="text-uppercase pt-5">Mobile Apps RemoteHUB.ID</span>   
                <h2 class="text-uppercase solid-weight"> Download Application<small><br>& Get More Features</small></h2>

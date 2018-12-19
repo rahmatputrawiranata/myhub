@@ -1,7 +1,7 @@
-<section class="p-3 pb-1 pt-1 grey-bg">
-  <div class="container-fluid">
+<section class="p-0">
+  <div class="container">
     <div class="row">
-      <div class="col-sm-12">
+      <div class="col-sm-12 pt-1 pb-1 grey-bg">
         <div class="owl-carousel owl-theme" data-items="4" data-md-items="3" data-sm-items="3" data-xs-items="2"  data-nav-dots="false"  data-space="10">
           <!-- post -->
           <div class="item">

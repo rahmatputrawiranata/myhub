@@ -38,10 +38,10 @@ nav.bootsnav .dropdown.megamenu-fw .dropdown-menu {
     right: 0;
 }
 
-nav.navbar .navbar-brand img.logo { width: 50px;}
+nav.navbar .navbar-brand img.logo { height: 60px;}
 
 @media (max-width: 992px) {
-    nav.navbar .navbar-brand img.logo{width: 30px;}
+    nav.navbar .navbar-brand img.logo{ height: 45px;}
 }
 
 /* Navbar
@@ -745,6 +745,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
         display: block;
         width: 100%;
         text-align: center;
+        
     }
     
     nav.bootsnav.navbar-brand-top ul.nav > li.dropdown > ul.dropdown-menu{

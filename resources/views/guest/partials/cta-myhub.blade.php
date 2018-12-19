@@ -1,6 +1,6 @@
 <!-- OUR CLASSES -->
 <section class="p-0 gym-our-classes">
-   <div class="container-fluid">
+   <div class="container">
       <div class="row row-eq-height no-gutter">
          <div class="col-lg-4 col-md-6 theme-bg" >
             <div class="pxy-5 xs-px-3 xs-py-3 text-white pos-r">

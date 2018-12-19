@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-md-offset-3 text-center">
-                    <img src="{{ asset('templates/kkr021/images/brand/cloud-white.png')}}" alt="">
+                    <img src="{{ asset('templates/kkr021/images/brand/logo-1-white.png')}}" alt="">
                     <div class="link-horizon mt-2">
                         <ul class="link">
                             <li><a href="#">Home</a></li>

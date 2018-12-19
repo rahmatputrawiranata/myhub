@@ -1,8 +1,8 @@
 <section class="p-0">
-    <div class="container-fluid">
-        <div class="row no-gutter">
+    <div class="row no-gutter">
+        <div class="container grey-bg pb-1">
             <div class="col-md-3 col-sm-12">
-                <div class="pxy-5">
+                <div class="pxy-1">
                     <div class="heading-block">
                         <span class="text-uppercase light-weight">Member Weekly Sharing</span>
                         <h2 class="text-uppercase solid-weight">Success Story</h2>
