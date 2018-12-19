@@ -24,7 +24,7 @@
     </div>
     <!-- /.col -->
     <div class="col-md-3 col-sm-4">     
-      @include('user.home.profile')
+      @include('user.profile.detail')
     </div>
     <!-- /.col -->
   </div>

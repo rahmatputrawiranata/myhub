@@ -1,10 +1,10 @@
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-lg-4 col-md-6">
     <!-- Widget: user widget style 1 -->
     <div class="box box-widget widget-user">
       <!-- Add the bg color to the header using any of the bg-* classes -->
       <div class="widget-user-header bg-black" style="background: url('{{ asset('img/photo2.png')}}') center center;">
-        <h3 class="widget-user-username"><strong>ADMINISTRATION AND MANAGEMENT</strong></h3>
+        <h3 class="widget-user-username"><strong>ADMINISTRATION & MANAGEMENT</strong></h3>
         {{-- <h5 class="widget-user-desc">Web Designer</h5> --}}
       </div>
       <div class="widget-user-image">
@@ -52,7 +52,7 @@
     <!-- /.widget-user -->
   </div>
   <!-- /.col -->
-  <div class="col-md-6">
+  <div class="col-lg-4 col-md-6">
     <!-- Widget: user widget style 1 -->
     <div class="box box-widget widget-user">
       <!-- Add the bg color to the header using any of the bg-* classes -->
@@ -105,13 +105,13 @@
     <!-- /.widget-user -->
   </div>
   <!-- /.col -->
-  <div class="col-md-6">
+  <div class="col-lg-4 col-md-6">
     <!-- Widget: user widget style 1 -->
     <div class="box box-widget widget-user">
       <!-- Add the bg color to the header using any of the bg-* classes -->
       <div class="widget-user-header bg-black" style="background: url('{{ asset('img/photo4.jpg')}}') center center;">
         <h3 class="widget-user-username"><strong>CREATIVE, ART AND MEDIA</strong></h3>
-        <h5 class="widget-user-desc">Web Designer</h5>
+        {{-- <h5 class="widget-user-desc">Web Designer</h5> --}}
       </div>
       <div class="widget-user-image">
         <img class="img-circle" src="{{ asset('img/icon/creative.png')}}" alt="User Avatar">

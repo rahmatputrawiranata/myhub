@@ -2,9 +2,9 @@
     <!-- Logo -->
     <a href="{{ url('home')}}" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>A</b>LT</span>
+      <span class="logo-mini"><img class="media-object" src="{{asset('img/logo-6-mini.png')}}" height="50px" alt="logo"  >/span></span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><img class="media-object" src="{{asset('img/logo-6-dark.png')}}" height="35px" alt="logo"  >/span>
+      <span class="logo-lg"><img class="media-object" src="{{asset('img/logo-6.png')}}" height="50px" alt="logo"  >/span>
     </a>
     
     <!-- Header Navbar: style can be found in header.less -->

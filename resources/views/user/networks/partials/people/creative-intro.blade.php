@@ -1,5 +1,5 @@
 <div class="row">
-  <div class="col-md-3 col-sm-4 col-xs-12">
+  <div class="col-md-3 col-sm-6 col-xs-12">
     <div class="box box-widget widget-user">
       <!-- Add the bg color to the header using any of the bg-* classes -->
       <div class="widget-user-header bg-green">
@@ -37,7 +37,7 @@
     <!-- /.Member -->
   </div>
   <!-- /.col -->
-  <div class="col-md-3 col-sm-4 col-xs-12">
+  <div class="col-md-3 col-sm-6 col-xs-12">
     <div class="box box-widget widget-user">
       <!-- Add the bg color to the header using any of the bg-* classes -->
       <div class="widget-user-header bg-green">
@@ -75,7 +75,7 @@
     <!-- /.Member -->
   </div>
   <!-- /.col -->
-  <div class="col-md-3 col-sm-4 col-xs-12">
+  <div class="col-md-3 col-sm-6 col-xs-12">
     <div class="box box-widget widget-user">
       <!-- Add the bg color to the header using any of the bg-* classes -->
       <div class="widget-user-header bg-green">
@@ -113,7 +113,7 @@
     <!-- /.Member -->
   </div>
   <!-- /.col -->
-  <div class="col-md-3 col-sm-4 col-xs-12">
+  <div class="col-md-3 col-sm-6 col-xs-12">
     <div class="box box-widget widget-user">
       <!-- Add the bg color to the header using any of the bg-* classes -->
       <div class="widget-user-header bg-green">

@@ -65,7 +65,7 @@
       </ul>
       <div class="tab-content">
         <div class="active tab-pane" id="experience">
-          @include('user.home.profile.detail')
+          @include('user.profile.experience')
         </div>
         <!-- /.tab-pane -->
         
@@ -92,7 +92,7 @@
         
         <div class="tab-pane" id="mymedia">
           <!-- mymedia -->
-          @include('user.home.profile.media')
+          @include('user.profile.media')
           
         </div>
         <!-- /.tab-pane -->
@@ -160,7 +160,7 @@
   <div class="col-md-3 col-sm-4">
     
     <!-- Profile Image -->
-    @include('user.home.profile')
+    @include('user.profile.detail')
     <!-- /.box -->
   </div>
   <!-- /.col -->
