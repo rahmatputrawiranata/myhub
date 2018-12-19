@@ -37,16 +37,16 @@
                 </div>
                 <ul class="list-group list-group-unbordered">
                     <li class="list-group-item">
-                        <i class="fa fa-image"></i> <b>My Album</b> <span class="label label-info pull-right">1,322</span>
+                        <i class="fa fa-camera-retro"></i> <b>My Media</b> <span class="label label-info pull-right">1,322</span>
                     </li>
                     <li class="list-group-item">
-                        <i class="fa fa-share-alt"></i> <b>My HUBS</b> <span class="label label-info pull-right">543</span>
+                        <i class="fa fa-share-alt"></i> <b>My HUB</b> <span class="label label-info pull-right">55</span>
                     </li>
                     <li class="list-group-item">
-                        <i class="fa fa-exchange"></i> <b>My Channel</b> <span class="label label-info pull-right">13,287</span>
+                        <i class="fa fa-share-alt"></i> <b>My Network</b> <span class="label label-info pull-right">13,287</span>
                     </li>
                     <li class="list-group-item">
-                        <i class="fa fa-calendar"></i> <b>My Events</b> <span class="label label-info pull-right">13,287</span>
+                        <i class="fa fa-calendar"></i> <b>My Events</b> <span class="label label-info pull-right">13</span>
                     </li>
                 </ul>
                 
@@ -75,18 +75,18 @@
                 
                 <strong><i class="fa fa-map-marker margin-r-5"></i> Location</strong>
                 
-                <p class="text-muted">Malibu, California</p>
+                <p class="text-muted">Jakarta Selatan</p>
                 
                 <hr>
                 
                 <strong><i class="fa fa-pencil margin-r-5"></i> Skills</strong>
                 
                 <p>
-                    <span class="label label-danger">UI Design</span>
-                    <span class="label label-success">Coding</span>
-                    <span class="label label-info">Javascript</span>
-                    <span class="label label-warning">PHP</span>
-                    <span class="label label-primary">Node.js</span>
+                    <span class="label label-danger">Laravel</span>
+                    <span class="label label-success">Front-end</span>
+                    <span class="label label-info">Legal Service</span>
+                    <span class="label label-warning">Photography</span>
+                    <span class="label label-primary">Videography</span>
                 </p>
                 
                 <hr>

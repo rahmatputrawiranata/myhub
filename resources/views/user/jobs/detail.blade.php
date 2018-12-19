@@ -7,7 +7,7 @@
             </ul>
             <div class="tab-content">
               <div class="active tab-pane" id="recommend">
-                 @include('user.partials.networks.jobs')
+                 @include('user.jobs.partials.recommend')
               </div>
               <!-- /.tab-pane -->
               <div class="tab-pane" id="postajob">

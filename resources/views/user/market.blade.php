@@ -18,14 +18,14 @@
           </small> </h3>
         </div>
         <div class="box-body">
-          @include('user.partials.market')
+          @include('user.market.detail')
         </div>
         
       </div>
     </div>
     <!-- /.col -->
     <div class="col-md-3 col-sm-4">     
-      @include('user.partials.home.profile')
+      @include('user.home.profile')
     </div>
     <!-- /.col -->
     

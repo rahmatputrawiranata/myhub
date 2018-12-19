@@ -67,7 +67,7 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('networks', 'AdminlteController@networks');
 Route::get('jobs', 'AdminlteController@jobs');
-Route::get('learning', 'AdminlteController@learning');
+Route::get('events', 'AdminlteController@events');
 Route::get('market', 'AdminlteController@market');
 
 Route::get('setting/profile', 'AdminlteController@profile');

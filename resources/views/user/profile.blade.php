@@ -65,13 +65,13 @@
       </ul>
       <div class="tab-content">
         <div class="active tab-pane" id="experience">
-          @include('user.partials.profile.detail')
+          @include('user.home.profile.detail')
         </div>
         <!-- /.tab-pane -->
         
         <div class="tab-pane" id="networks">
           <!-- Networks -->
-          @include('user.partials.profile.networks')
+          @include('user.networks.detail')
           
         </div>
         <!-- /.tab-pane -->
@@ -92,7 +92,7 @@
         
         <div class="tab-pane" id="mymedia">
           <!-- mymedia -->
-          @include('user.partials.profile.media')
+          @include('user.home.profile.media')
           
         </div>
         <!-- /.tab-pane -->
@@ -160,7 +160,7 @@
   <div class="col-md-3 col-sm-4">
     
     <!-- Profile Image -->
-    @include('user.partials.home.profile')
+    @include('user.home.profile')
     <!-- /.box -->
   </div>
   <!-- /.col -->

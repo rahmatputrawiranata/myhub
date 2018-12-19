@@ -12,11 +12,11 @@
   
   <div class="row">
     <div class="col-md-9 col-sm-8">
-      @include('user.partials.home.activity')
+      @include('user.home.activity')
     </div>
     <!-- /.col -->
     <div class="col-md-3 col-sm-4">     
-      @include('user.partials.home.profile')
+      @include('user.home.profile')
     </div>
     <!-- /.col -->
   </div>

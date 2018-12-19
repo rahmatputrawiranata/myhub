@@ -16,9 +16,9 @@ class AdminlteController extends Controller
     {
         return view('user.jobs');
     }
-    public function learning()
+    public function events()
     {
-        return view('user.learning');
+        return view('user.events');
     }
     public function market()
     {

@@ -19,8 +19,8 @@
     </a>
   </li>
   <li class="">
-    <a href="{{ url('learning')}}">
-      <i class="fa fa-graduation-cap fa-lg"></i> LEARNING HUB
+    <a href="{{ url('events')}}">
+      <i class="fa fa-calendar fa-lg"></i> EVENTS HUB
     </a>
   </li>
   <li class="">

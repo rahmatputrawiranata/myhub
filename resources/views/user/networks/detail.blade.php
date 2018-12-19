@@ -1,19 +1,19 @@
 <div class="nav-tabs-custom">
             <ul class="nav nav-tabs">
               <li class="active"><a href="#people" data-toggle="tab">People</a></li>
-              <li><a href="#channels" data-toggle="tab">Channel</a></li>
+              <li><a href="#remotehub" data-toggle="tab">MyHUB</a></li>
               <li><a href="#companies" data-toggle="tab">Companies</a></li>
               <li><a href="#hashtag" data-toggle="tab">Hashtag</a></li>
             </ul>
             <div class="tab-content">
               <div class="active tab-pane" id="people">
-                @include('user.partials.networks.detail')
+                @include('user.networks.partials.people')
               </div>
               <!-- /.tab-pane -->
 
-              <div class="tab-pane" id="channels">
+              <div class="tab-pane" id="remotehub">
                 <!-- Networks -->
-                @include('user.partials.networks.channel')
+                @include('user.networks.partials.myhub')
                 
               </div>
               <!-- /.tab-pane -->

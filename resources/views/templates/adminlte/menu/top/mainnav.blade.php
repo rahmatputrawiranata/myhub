@@ -14,8 +14,8 @@
     </a>
   </li>
   <li class="dropdown messages-menu">
-    <a href="{{ url('learning')}}" class="btn btn-flat btn-xs">
-      <i class="fa fa-graduation-cap"></i> <small>LEARNING</small>
+    <a href="{{ url('events')}}" class="btn btn-flat btn-xs">
+      <i class="fa fa-calendar"></i> <small>EVENTS</small>
     </a>
   </li>
   <li class="dropdown messages-menu">

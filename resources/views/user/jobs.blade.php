@@ -17,14 +17,14 @@
           <h3 class="box-title">Jobs you may be interested in</h3>
         </div>
         <div class="box-body">
-          @include('user.partials.jobs')
+          @include('user.jobs.detail')
         </div>
         
       </div>
     </div>
     <!-- /.col -->
     <div class="col-md-3 col-sm-4">     
-      @include('user.partials.home.profile')
+      @include('user.home.profile')
     </div>
     <!-- /.col -->
   </div>
