@@ -6,7 +6,7 @@
   </div>
 </div>
 <div class="row">
-  <div class="col-lg-2 col-md-4 col-xs-6">
+  <div class="col-lg-3 col-md-4 col-xs-6">
     <div class="box-body">
       <div class="box box-solid">
         <div class="box-body box-profile">
@@ -35,7 +35,7 @@
     </div>
   </div>
   
-  <div class="col-lg-2 col-md-4 col-xs-6">
+  <div class="col-lg-3 col-md-4 col-xs-6">
     <div class="box-body">
       <div class="box box-solid">
         <div class="box-body box-profile">
@@ -64,7 +64,7 @@
     </div>
   </div>
   
-  <div class="col-lg-2 col-md-4 col-xs-6">
+  <div class="col-lg-3 col-md-4 col-xs-6">
     <div class="box-body">
       <div class="box box-solid">
         <div class="box-body box-profile">
@@ -92,7 +92,7 @@
       </div>
     </div>
   </div>
-  <div class="col-lg-2 col-md-4 col-xs-6">
+  <div class="col-lg-3 col-md-4 col-xs-6">
     <div class="box-body">
       <div class="box box-solid">
         <div class="box-body box-profile">
@@ -120,7 +120,7 @@
       </div>
     </div>
   </div>
-  <div class="col-lg-2 col-md-4 col-xs-6">
+  <div class="col-lg-3 col-md-4 col-xs-6">
     <div class="box-body">
       <div class="box box-solid">
         <div class="box-body box-profile">
@@ -148,7 +148,7 @@
       </div>
     </div>
   </div>
-  <div class="col-lg-2 col-md-4 col-xs-6">
+  <div class="col-lg-3 col-md-4 col-xs-6">
     <div class="box-body">
       <div class="box box-solid">
         <div class="box-body box-profile">
