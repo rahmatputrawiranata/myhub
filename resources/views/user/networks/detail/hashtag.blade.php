@@ -1,7 +1,7 @@
 <div class="row">
   <div class="col-md-12">
     <div class="box-header">
-      <h3 class="box-title">Webinar</h3>
+      <h3 class="box-title">Topics you might be interested..</h3>
     </div>
   </div>
 </div>

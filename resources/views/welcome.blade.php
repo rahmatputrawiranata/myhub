@@ -10,7 +10,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center">
-                <h2 class="title"> Remote <span class="text-primary"><i class="fa fa-share-alt "></i></span> HUB</h2>
+                <h2 class="title"> Remote <span class="text-primary"><i class="fa fa-coffee "></i></span> HUB</h2>
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <a href="#project" class="btn btn-flat btn-default btn-outline white-border white-text fill-white">Project <strong class="text-primary">HUB</strong></a>&nbsp;&nbsp; 
                 <a href="#myhub" class="btn btn-flat btn-default animated theme-bg white-text">My <strong class="text-yellow">HUB</strong> <i class="fa fa-cubes" aria-hidden="true"></i></a> &nbsp;&nbsp; 

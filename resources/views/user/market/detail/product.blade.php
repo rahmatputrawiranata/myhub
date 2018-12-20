@@ -1,5 +1,12 @@
 
 <div class="row">
+  <div class="col-md-12">
+    <div class="box-header">
+      <h3 class="box-title">Community Products</h3>
+    </div>
+  </div>
+</div>
+<div class="row">
   <div class="col-md-4">
     <ul class="nav nav-bar">
       <li><a href="#">Advertising <small>(9)</small></a></li>

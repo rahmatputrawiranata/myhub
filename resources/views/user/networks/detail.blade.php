@@ -20,14 +20,14 @@
 
               <div class="tab-pane" id="companies">
                 <!-- companies -->
-                companies
+                @include('user.networks.detail.companies')
                 
               </div>
               <!-- /.tab-pane -->
 
               <div class="tab-pane" id="hashtag">
                 <!-- hashtag -->
-                hashtag
+                @include('user.networks.detail.hashtag')
                 
               </div>
               <!-- /.tab-pane -->

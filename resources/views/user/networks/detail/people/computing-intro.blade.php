@@ -13,6 +13,7 @@
         <strong><i class="fa fa-map-marker margin-r-5"></i> Location</strong>
         
         <p class="text-muted">Jakarta Selatan</p>
+        <a href="#" class="btn btn-flat btn-default btn-block"><b>Follow</b></a>
        
         <hr>
         
@@ -51,6 +52,7 @@
         <strong><i class="fa fa-map-marker margin-r-5"></i> Location</strong>
         
         <p class="text-muted">Jakarta Selatan</p>
+        <a href="#" class="btn btn-flat btn-default btn-block"><b>Follow</b></a>
        
         <hr>
         
@@ -89,6 +91,7 @@
         <strong><i class="fa fa-map-marker margin-r-5"></i> Location</strong>
         
         <p class="text-muted">Jakarta Selatan</p>
+        <a href="#" class="btn btn-flat btn-default btn-block"><b>Follow</b></a>
        
         <hr>
         
@@ -127,6 +130,7 @@
         <strong><i class="fa fa-map-marker margin-r-5"></i> Location</strong>
         
         <p class="text-muted">Jakarta Selatan</p>
+        <a href="#" class="btn btn-flat btn-default btn-block"><b>Follow</b></a>
        
         <hr>
         

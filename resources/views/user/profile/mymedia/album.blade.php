@@ -13,7 +13,7 @@
               <ul class="products-list product-list-in-box">
                 <li class="item">
                   <div class="product-img">
-                    <img src="http://localhost/myhub/public/img/default-50x50.gif" alt="Product Image">
+                    <img src="{{ asset('img/default-50x50.gif')}}" alt="Product Image">
                   </div>
                   <div class="product-info">
                     <a href="javascript:void(0)" class="product-title">Samsung TV
@@ -26,7 +26,7 @@
                 <!-- /.item -->
                 <li class="item">
                   <div class="product-img">
-                    <img src="http://localhost/myhub/public/img/default-50x50.gif" alt="Product Image">
+                    <img src="{{ asset('img/default-50x50.gif')}}" alt="Product Image">
                   </div>
                   <div class="product-info">
                     <a href="javascript:void(0)" class="product-title">Bicycle
@@ -39,7 +39,7 @@
                 <!-- /.item -->
                 <li class="item">
                   <div class="product-img">
-                    <img src="http://localhost/myhub/public/img/default-50x50.gif" alt="Product Image">
+                    <img src="{{ asset('img/default-50x50.gif')}}" alt="Product Image">
                   </div>
                   <div class="product-info">
                     <a href="javascript:void(0)" class="product-title">Xbox One <span class="label label-danger pull-right">$350</span></a>
@@ -51,7 +51,7 @@
                 <!-- /.item -->
                 <li class="item">
                   <div class="product-img">
-                    <img src="http://localhost/myhub/public/img/default-50x50.gif" alt="Product Image">
+                    <img src="{{ asset('img/default-50x50.gif')}}" alt="Product Image">
                   </div>
                   <div class="product-info">
                     <a href="javascript:void(0)" class="product-title">PlayStation 4

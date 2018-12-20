@@ -41,11 +41,11 @@
       </div>
       <div class="box-footer no-padding">
         <ul class="nav nav-stacked">
-          <li><a href="#">Accounting <span class="pull-right badge bg-blue">31</span></a></li>
-          <li><a href="#">Bloger/Vloger <span class="pull-right badge bg-aqua">5</span></a></li>
-          <li><a href="#">Content-Writer <span class="pull-right badge bg-green">12</span></a></li>
-          <li><a href="#">Legal Service <span class="pull-right badge bg-red">842</span></a></li>
-          <li><a href="#">Virtual Assistant <span class="pull-right badge bg-blue">31</span></a></li>
+          <li><a href="#">Accounting <span class="pull-right label bg-blue">31 | Follow</span></a></li>
+          <li><a href="#">Bloger/Vloger <span class="pull-right label bg-aqua">5 | Follow</span></a></li>
+          <li><a href="#">Content-Writer <span class="pull-right label bg-green">12 | Follow</span></a></li>
+          <li><a href="#">Legal Service <span class="pull-right label bg-red">842 | Follow</span></a></li>
+          <li><a href="#">Virtual Assistant <span class="pull-right label bg-blue">31 | Follow</span></a></li>
         </ul>
       </div>
     </div>
@@ -94,11 +94,11 @@
       </div>
       <div class="box-footer no-padding">
         <ul class="nav nav-stacked">
-          <li><a href="#">Data Engineer <span class="pull-right badge bg-blue">31</span></a></li>
-          <li><a href="#">MobileDev <span class="pull-right badge bg-aqua">5</span></a></li>
-          <li><a href="#">Network Administrator <span class="pull-right badge bg-green">12</span></a></li>
-          <li><a href="#">UI/UX Designer <span class="pull-right badge bg-red">842</span></a></li>
-          <li><a href="#">WebDev <span class="pull-right badge bg-blue">31</span></a></li>
+          <li><a href="#">Data Engineer <span class="pull-right label bg-blue">31 | Follow</span></a></li>
+          <li><a href="#">MobileDev <span class="pull-right label bg-aqua">5 | Follow</span></a></li>
+          <li><a href="#">Network Administrator <span class="pull-right label bg-green">12 | Follow</span></a></li>
+          <li><a href="#">UI/UX Designer <span class="pull-right label bg-red">842 | Follow</span></a></li>
+          <li><a href="#">WebDev <span class="pull-right label bg-blue">31 | Follow</span></a></li>
         </ul>
       </div>
     </div>
@@ -147,11 +147,11 @@
       </div>
       <div class="box-footer no-padding">
         <ul class="nav nav-stacked">
-          <li><a href="#">Art & Craft <span class="pull-right badge bg-red">842</span></a></li>
-          <li><a href="#">Graphic Design <span class="pull-right badge bg-blue">31</span></a></li>
-          <li><a href="#">Media Promotion <span class="pull-right badge bg-aqua">5</span></a></li>
-          <li><a href="#">Performers <span class="pull-right badge bg-green">12</span></a></li>
-          <li><a href="#">Photographer / Videographer <span class="pull-right badge bg-green">12</span></a></li>
+          <li><a href="#">Art & Craft <span class="pull-right label bg-red">842 | Follow</span></a></li>
+          <li><a href="#">Graphic Design <span class="pull-right label bg-blue">31 | Follow</span></a></li>
+          <li><a href="#">Media Promotion <span class="pull-right label bg-aqua">5 | Follow</span></a></li>
+          <li><a href="#">Performers <span class="pull-right label bg-green">12 | Follow</span></a></li>
+          <li><a href="#">Photographer / Videographer <span class="pull-right label bg-green">12 | Follow</span></a></li>
         </ul>
       </div>
     </div>

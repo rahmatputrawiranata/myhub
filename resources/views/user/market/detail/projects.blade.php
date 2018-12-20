@@ -1,4 +1,10 @@
-
+<div class="row">
+  <div class="col-md-12">
+    <div class="box-header">
+      <h3 class="box-title">Collaboration Projects</h3>
+    </div>
+  </div>
+</div>
 <div class="row">
   <div class="col-md-4">
     <ul class="nav nav-bar">
