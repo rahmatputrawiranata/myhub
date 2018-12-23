@@ -13,9 +13,9 @@
                         <div class="col-md-6 col-sm-8 text-center">
                             <div class="py-7 pr-7 xs-pr-0 xs-py-5 coming-block text-center">
                                 <div class="valign-middle">
-                                    <h2 class="title"> <span class="text-primary">Remote</span><strong><i class="fa fa-share-alt "></i>HUB</strong></span></h2>
+                                    <h1 class="title"> <span class="text-primary">REMOTE</span><strong><i class="fa fa-cloud "></i>HUB</strong></span></h1>
                                     <span class="label-coming theme-text mb-1">Coming Soon</span>
-                                    <p><span class="text-primary"><i class="fa fa-share-alt "></i> Remote</span><strong class="text-primary">HUB.id</strong>. Digital nomad and remote worker collaborations, scale up, hangout, lifestyle, travelpreneur, work life balance.</p>
+                                    <p><span class="text-primary"><i class="fa fa-coffee "></i> Remote</span><strong class="text-primary">HUB.id</strong>. Digital nomad and remote worker collaborations, scale up, hangout, lifestyle, travelpreneur, work life balance.</p>
                                     <h4 class="text-uppercase mb-0"><i class="icon-envelope-letter icons" aria-hidden="true"></i> Provide your email address!</h4>
                                     <p class="mb-2">We will notify you when site is ready :</p>
                                     <form role="form" class="search-form">

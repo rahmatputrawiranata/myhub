@@ -13,7 +13,7 @@
         <!-- Start Header Navigation -->
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu"> <i class="fa fa-bars"></i> </button>
-            <a class="navbar-brand" href="{{ url('/')}}"><img src="{{ asset('img/logo-6-dark.png')}}" class="logo logo-scrolled" alt=""> </a> 
+            <a class="navbar-brand" href="{{ url('/')}}"><img src="{{ asset('img/logo-5-dark.png')}}" class="logo logo-scrolled" alt=""> </a> 
         </div>
         <!-- End Header Navigation -->
         <!-- Megamenu -->

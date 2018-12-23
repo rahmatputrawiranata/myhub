@@ -22,8 +22,8 @@
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu"> <i class="fa fa-bars"></i> </button>
             <a class="navbar-brand" href="{{ url('/')}}">
-                <img src="{{ asset('img/logo-6-white.png')}}" class="logo logo-display" alt="">
-                <img src="{{ asset('img/logo-6-dark.png')}}" class="logo logo-scrolled" alt=""> </a> 
+                <img src="{{ asset('img/logo-5-white.png')}}" class="logo logo-display" alt="">
+                <img src="{{ asset('img/logo-5-dark.png')}}" class="logo logo-scrolled" alt=""> </a> 
             </div>
             <!-- End Header Navigation -->
             <!-- Megamenu -->
@@ -35,7 +35,7 @@
             <a href="#" class="close-side"><i class="fa fa-times"></i></a>
             <div class="widget">
                 <div ">
-                    <a href="{{ url('/') }}"><img src="{{ asset('img/logo-6-white.png')}}" class="logo" alt="" / width="200px">
+                    <a href="{{ url('/') }}"><img src="{{ asset('img/logo-5-white.png')}}" class="logo" alt="" / width="200px">
                         <p class="text-center text-white"> Connect.Collaborate.Create&nbsp;&nbsp;&nbsp;</p> 
                     </div>
                 </div>

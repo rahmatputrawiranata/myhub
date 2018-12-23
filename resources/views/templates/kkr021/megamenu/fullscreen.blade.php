@@ -3,7 +3,7 @@
         <!-- Start Header Navigation -->
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu"><i class="fa fa-bars"></i></button>
-            <a class="navbar-brand" href="#brand"><img src="{{ asset('img/logo-6-dark.png')}}" class="logo" alt=""></a> 
+            <a class="navbar-brand pb-5" href="#brand"><img src="{{ asset('img/logo-5-dark.png')}}" class="logo" alt=""></a> 
         </div>
         <!-- End Header Navigation -->
         <!-- Collect the nav links, forms, and other content for toggling -->
