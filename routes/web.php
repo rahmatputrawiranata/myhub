@@ -15,6 +15,10 @@ Route::get('/', function () {
     return view('coming');
 });
 
+
+Route::get('home/new', function () {return view('templates.home-reveal');});
+
+
 // Guest Pages 
 
 Route::get('welcome', function () {return view('welcome');});
