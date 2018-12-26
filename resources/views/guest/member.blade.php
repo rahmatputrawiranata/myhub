@@ -1,4 +1,4 @@
-@extends('templates.kkr021.fixed')
+@extends('layouts.kkr021.fixed')
 
 @section('stylesheets')
 {{-- expr --}}

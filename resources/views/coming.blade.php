@@ -1,4 +1,4 @@
-@extends('templates.kkr021.fullscreen')
+@extends('layouts.kkr021.fullscreen')
 
 @section('stylesheets')
 {{-- expr --}}
