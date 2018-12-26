@@ -1,0 +1,26 @@
+{
+  "name": "remotehubid",
+  "authors": [
+    "Tonny H Soerojo <tonny@soerojo.com>"
+  ],
+  "description": "Aplikasi Komunitas",
+  "main": "",
+  "keywords": [
+    "remotehub.id"
+  ],
+  "license": "MIT",
+  "homepage": "http://remotehub.id",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "admin-md": "adminbsb-materialdesign#^1.0.7",
+    "font-awesome": "fontawesome#4.7",
+    "material-icons": "^0.2.3",
+    "materialize": "^1.0.0"
+  }
+}
