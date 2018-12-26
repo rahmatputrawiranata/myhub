@@ -14,7 +14,7 @@
   <section id="intro">
     
     <div class="intro-content">
-      <h2><img src="{{ asset('img/logo-6-dark.png')}}" height="120px" alt=""><br>Making <span>your ideas</span><br>happen!</h2>
+      <h2><img src="{{ asset('img/logo-6-dark.png')}}" height="66px" alt=""><br>Making <span>your ideas</span><br>happen!</h2>
       <div>
         <a href="#about" class="btn-get-started scrollto">Get Started</a>
         <a href="#portfolio" class="btn-projects scrollto">Our Projects</a>

@@ -12,11 +12,11 @@
 */
 
 Route::get('/', function () {
-    return view('guest.welcome');
+    return view('coming');
 });
 
 
-Route::get('new', function () {return view('templates.home-reveal');});
+Route::get('new', function () {return view('guest.welcome');});
 
 
 // Guest Pages 
