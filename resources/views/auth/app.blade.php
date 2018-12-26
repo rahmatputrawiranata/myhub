@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <title>Sign In | Bootstrap Based Admin Template - Material Design</title>
+    <title>Sign In | RemoteHUB Indonesia</title>
     <!-- Favicon-->
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     @section('css')
@@ -27,8 +27,9 @@
 <body class="login-page">
     <div class="login-box">
         <div class="logo">
-            <a href="javascript:void(0);">Admin<b>BSB</b></a>
-            <small>Admin BootStrap Based - Material Design</small>
+            
+            <a href="{{ url('/')}}"><span><img src="{{ asset('img/logo-5-dark.png')}}" height="55px" alt=""><br><img src="{{ asset('img/logo-6-white.png')}}" height="55px" alt=""></span></a>
+            <small>C o n n e c t . C o l l a b o r a t e . C r e a t e</small>
         </div>
         <div class="card">
             <div class="body">

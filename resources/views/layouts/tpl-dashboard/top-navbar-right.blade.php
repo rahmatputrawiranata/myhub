@@ -1,5 +1,6 @@
 <div class="collapse navbar-collapse" id="navbar-collapse">
     <ul class="nav navbar-nav navbar-right">
+         <img src="{{ asset('img/logo-6-white.png')}}" height="55px" alt="">
         <!-- Call Search -->
         <li><a href="javascript:void(0);" class="js-search" data-close="true"><i class="material-icons">search</i></a></li>
         <!-- #END# Call Search -->

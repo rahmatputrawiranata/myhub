@@ -2,11 +2,11 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-        <h1><a href="#body" class="scrollto">Remote<span>Hub</span><small>.id</small></a></h1>
+        {{-- <h1><a href="#body" class="scrollto">Remote<span>Hub</span><small>.id</small></a></h1> --}}
         <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="#body"><img src="img/logo.png" alt="" title="" /></a>-->
+        <a href="#body"><img src="{{ asset('img/logo-5-dark.png')}}" height="55px" alt=""><br></a>
       </div>
-
+      <div class="pull-right"><img src="{{ asset('img/logo-6-mini.png')}}" height="35px" alt=""></div>
       <nav id="nav-menu-container">
         <ul class="nav-menu">
           <li class="menu-active"><a href="#body">Home</a></li>
