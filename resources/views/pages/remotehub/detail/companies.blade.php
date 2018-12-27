@@ -7,7 +7,7 @@
 </div>
 <div class="row">
   <div class="col-lg-3 col-md-4 col-xs-6">
-    <div class="box-body">
+    <div class="card">
       <div class="box box-solid">
         <div class="box-body box-profile">
           <img class="img-responsive img-thumbnail" src="{{ asset('img/icon/computing-icon.png')}}" alt="User profile picture">
@@ -36,7 +36,7 @@
   </div>
   
   <div class="col-lg-3 col-md-4 col-xs-6">
-    <div class="box-body">
+    <div class="card">
       <div class="box box-solid">
         <div class="box-body box-profile">
           <img class="img-responsive img-thumbnail" src="{{ asset('img/icon/computing-icon.png')}}" alt="User profile picture">
@@ -65,7 +65,7 @@
   </div>
   
   <div class="col-lg-3 col-md-4 col-xs-6">
-    <div class="box-body">
+    <div class="card">
       <div class="box box-solid">
         <div class="box-body box-profile">
           <img class="img-responsive img-thumbnail" src="{{ asset('img/icon/computing-icon.png')}}" alt="User profile picture">
@@ -93,7 +93,7 @@
     </div>
   </div>
   <div class="col-lg-3 col-md-4 col-xs-6">
-    <div class="box-body">
+    <div class="card">
       <div class="box box-solid">
         <div class="box-body box-profile">
           <img class="img-responsive img-thumbnail" src="{{ asset('img/icon/computing-icon.png')}}" alt="User profile picture">
@@ -121,7 +121,7 @@
     </div>
   </div>
   <div class="col-lg-3 col-md-4 col-xs-6">
-    <div class="box-body">
+    <div class="card">
       <div class="box box-solid">
         <div class="box-body box-profile">
           <img class="img-responsive img-thumbnail" src="{{ asset('img/icon/computing-icon.png')}}" alt="User profile picture">
@@ -149,7 +149,7 @@
     </div>
   </div>
   <div class="col-lg-3 col-md-4 col-xs-6">
-    <div class="box-body">
+    <div class="card">
       <div class="box box-solid">
         <div class="box-body box-profile">
           <img class="img-responsive img-thumbnail" src="{{ asset('img/icon/computing-icon.png')}}" alt="User profile picture">

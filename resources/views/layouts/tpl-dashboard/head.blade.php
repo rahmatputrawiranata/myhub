@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="{{ asset('bower_components/admin-md/plugins/node-waves/waves.css') }}">
     <link rel="stylesheet" href="{{ asset('bower_components/admin-md/plugins/animate-css/animate.css') }}">
     <link rel="stylesheet" href="{{ asset('bower_components/admin-md/plugins/morrisjs/morris.css') }}">
-    {{-- <link rel="stylesheet" href="{{ asset('bower_components/materialize/dist/css/materialize.css') }}"> --}}
+    <link rel="stylesheet" href="{{ asset('bower_components/materialize/dist/css/materialize.min.css') }}">
     <link rel="stylesheet" href="{{ asset('bower_components/admin-md/css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('bower_components/admin-md/css/themes/all-themes.css') }}">
     

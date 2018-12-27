@@ -1,3 +1,4 @@
+<a href="{{ url('home')}}" class="btn btn-block btn-primary waves-effect m-r-20">HOME</a>
 <!-- Menu -->
 <div class="menu">
     <div class="panel-group" id="left-menu" role="tablist" aria-multiselectable="true">
@@ -32,9 +33,9 @@
             <div id="collapseThree_17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree_17" aria-expanded="false">
                 <div class="panel-body">
                     <div class="list-group">
-                        <button type="button" class="list-group-item">Rabu Weekly Sharing</button>
-                        <button type="button" class="list-group-item">Monthly Meetup</button>
-                        <button type="button" class="list-group-item">Webinar</button>
+                        <a href="{{ url('/events/home')}}" class="list-group-item">Rabu Weekly Sharing</a>
+                        <a href="{{ url('/events/home')}}" class="list-group-item">Monthly Meetup</a>
+                        <a href="{{ url('/events/home')}}" class="list-group-item">Webinar</a>
                     </div>
                 </div>
             </div>
@@ -50,11 +51,11 @@
             <div id="collapseFour_17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour_17" aria-expanded="false">
                 <div class="panel-body">
                     <div class="list-group">
-                        <button type="button" class="list-group-item">Product / Services</button>
-                        <button type="button" class="list-group-item">Projects Collaboration</button>
-                        <button type="button" class="list-group-item">Content / Copyriting</button>
-                        <button type="button" class="list-group-item">Training Solution</button>
-                        <button type="button" class="list-group-item">Translation</button>
+                        <a href="{{ url('/market/home')}}" class="list-group-item">Product / Services</a>
+                        <a href="{{ url('/market/home')}}" class="list-group-item">Projects Collaboration</a>
+                        <a href="{{ url('/market/home')}}" class="list-group-item">Content / Copyriting</a>
+                        <a href="{{ url('/market/home')}}" class="list-group-item">Training Solution</a>
+                        <a href="{{ url('/market/home')}}" class="list-group-item">Translation</a>
                     </div>
                 </div>
             </div>
@@ -70,9 +71,9 @@
             <div id="collapseTwo_17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo_17" aria-expanded="false">
                 <div class="panel-body">
                     <div class="list-group">
-                        <button type="button" class="list-group-item">Looking for Talent</button>
-                        <button type="button" class="list-group-item">Job / Career</button>
-                        <button type="button" class="list-group-item">Skill Sharing</button>
+                        <a href="{{ url('/jobs/home')}}" class="list-group-item">Looking for Talent</a>
+                        <a href="{{ url('/jobs/home')}}" class="list-group-item">Job / Career</a>
+                        <a href="{{ url('/jobs/home')}}" class="list-group-item">Skill Sharing</a>
                     </div>
                 </div>
             </div>
@@ -88,29 +89,25 @@
             <div id="collapseFive_17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive_17" aria-expanded="false">
                 <div class="panel-body">
                     <div class="list-group">
-                        <button type="button" class="list-group-item">Setting</button>
-                        <button type="button" class="list-group-item">My HUB</button>
-                        <button type="button" class="list-group-item">
-                            <a class="dropdown-item" href="{{ route('logout') }}"
-                            onclick="event.preventDefault();
-                            document.getElementById('logout-form').submit();">
-                            {{ __('Logout') }}
-                        </a>
+                        <a href="{{ url('/user/home')}}" class="list-group-item">Setting</a>
+                        <a href="{{ url('/user/home')}}" class="list-group-item">My HUB</a>
                         
-                        <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
-                            @csrf
-                        </form>
-                    </button>
+                    </div>
                 </div>
             </div>
         </div>
+        
     </div>
     
-</div>
-
-
-
-
+    
+    <a class="btn btn-block btn-default waves-effect m-r-20" href="{{ route('logout') }}"
+    onclick="event.preventDefault();
+    document.getElementById('logout-form').submit();">
+    {{ __('Logout') }}
+</a>
+<form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+    @csrf
+</form>
 
 </div>
 <!-- #Menu -->

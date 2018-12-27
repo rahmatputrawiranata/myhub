@@ -2,6 +2,9 @@
   <div class="col-md-12">
     <div class="box-header">
       <h3 class="box-title">Topics you might be interested..</h3>
+      <p>
+        <img src="{{ asset('img/undercon.png')}}" class="responsive-img" alt="">
+      </p>
     </div>
   </div>
 </div>

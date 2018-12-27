@@ -37,3 +37,10 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('/remotehub/home', 'RemotehubController@index')->name('remotehub');
 
+Route::get('/events/home', 'EventController@index')->name('events');
+
+Route::get('/jobs/home', 'JobController@index')->name('jobs');
+
+Route::get('/market/home', 'MarketController@index')->name('market');
+
+Route::get('/user/home', 'UserController@index')->name('user');

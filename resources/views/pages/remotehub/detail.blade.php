@@ -12,11 +12,11 @@
             </a>
             <ul class="dropdown-menu pull-right">
               <li><a href="{{ url('/home')}}" class=" waves-effect waves-block">Home</a></li>
-              <li><a href="{{ url('remotehub/home')}}" class=" waves-effect waves-block">View All</a></li>
-              <li><a href="{{ url('remotehub/home')}}" class=" waves-effect waves-block">Add Network</a></li>
-              <li><a href="{{ url('remotehub/home')}}" class=" waves-effect waves-block">Add Channel</a></li>
-              <li><a href="{{ url('remotehub/home')}}" class=" waves-effect waves-block">Search Business</a></li>
-              <li><a href="{{ url('remotehub/home')}}" class=" waves-effect waves-block">Trending Cause</a></li>
+              <li><a href="{{ url('remotehub/home')}}" class=" waves-effect waves-block">REMOTEHUB</a></li>
+              <li><a href="{{ url('events/home')}}" class=" waves-effect waves-block">EVENTS</a></li>
+              <li><a href="{{ url('market/home')}}" class=" waves-effect waves-block">MARKETPLACE</a></li>
+              <li><a href="{{ url('jobs/home')}}" class=" waves-effect waves-block">JOBS</a></li>
+              <li><a href="{{ url('user/home')}}" class=" waves-effect waves-block">PROFILE</a></li>
             </ul>
           </li>
         </ul>
@@ -26,22 +26,22 @@
         <ul class="nav nav-tabs tab-nav-right" role="tablist">
           <li role="presentation" class="active">
             <a href="#person_add_only_icon_title" data-toggle="tab">
-              <i class="material-icons">person_add</i>
+              <i class="material-icons">person_add</i> NETWORKS
             </a>
           </li>
           <li role="presentation">
-            <a href="#queue_play_next_only_icon_title" data-toggle="tab">
-              <i class="material-icons">queue_play_next</i>
+            <a href="#queue_play_next_only_icon_title" data-toggle="tab"> 
+              <i class="material-icons">queue_play_next</i> CHANNEL
             </a>
           </li>
           <li role="presentation">
-            <a href="#business_only_icon_title" data-toggle="tab">
-              <i class="material-icons">business</i>
+            <a href="#business_only_icon_title" data-toggle="tab"> 
+              <i class="material-icons">business</i> COMPANIES
             </a>
           </li>
           <li role="presentation">
             <a href="#hearing_only_icon_title" data-toggle="tab">
-              <i class="material-icons">hearing</i>
+              <i class="material-icons">hearing</i> TRENDING TOPIC
             </a>
           </li>
         </ul>
@@ -57,28 +57,19 @@
           <div role="tabpanel" class="tab-pane fade" id="queue_play_next_only_icon_title">
             <b>Add your Channel</b>
             <p>
-              Lorem ipsum dolor sit amet, ut duo atqui exerci dicunt, ius impedit mediocritatem an. Pri ut tation electram moderatius.
-              Per te suavitate democritum. Duis nemore probatus ne quo, ad liber essent aliquid
-              pro. Et eos nusquam accumsan, vide mentitum fabellas ne est, eu munere gubergren
-              sadipscing mel.
+             <img src="{{ asset('img/undercon.png')}}" class="responsive-img" alt="">
             </p>
           </div>
           <div role="tabpanel" class="tab-pane fade" id="business_only_icon_title">
             <b>Add your business network</b>
             <p>
-              Lorem ipsum dolor sit amet, ut duo atqui exerci dicunt, ius impedit mediocritatem an. Pri ut tation electram moderatius.
-              Per te suavitate democritum. Duis nemore probatus ne quo, ad liber essent aliquid
-              pro. Et eos nusquam accumsan, vide mentitum fabellas ne est, eu munere gubergren
-              sadipscing mel.
+              @include('pages.remotehub.detail.companies')
             </p>
           </div>
           <div role="tabpanel" class="tab-pane fade" id="hearing_only_icon_title">
             <b>Follow trending topic</b>
             <p>
-              Lorem ipsum dolor sit amet, ut duo atqui exerci dicunt, ius impedit mediocritatem an. Pri ut tation electram moderatius.
-              Per te suavitate democritum. Duis nemore probatus ne quo, ad liber essent aliquid
-              pro. Et eos nusquam accumsan, vide mentitum fabellas ne est, eu munere gubergren
-              sadipscing mel.
+              @include('pages.remotehub.detail.hashtag')
             </p>
           </div>
         </div>

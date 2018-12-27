@@ -1,7 +1,7 @@
 @extends('layouts.tpl-dashboard')
 
 @section('title')
-REMOTEHUB NETWORKS
+SOCIAL MARKETPLACE
 @endsection
 
 @section('extra-css')
@@ -26,8 +26,9 @@ REMOTEHUB NETWORKS
 <div class="container-fluid">
     <div class="row clearfix">
         <div class="col-xs-12">
-            {{-- <img src="{{ asset('img/undercon.png')}}" class="responsive-img" alt=""> --}}
-            @include('pages.remotehub.detail')
+             <h1>@yield('title')</h1>
+            <img src="{{ asset('img/undercon.png')}}" class="responsive-img" alt="">
+            {{-- @include('pages.remotehub.detail') --}}
         </div>
     </div>
 </div>
@@ -38,7 +39,6 @@ REMOTEHUB NETWORKS
 @section('extra-script')
 
 <script src="{{ asset('bower_components/admin-md/js/pages/examples/profile.js')}}"></script>
-
 
 
 
