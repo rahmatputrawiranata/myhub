@@ -1,4 +1,4 @@
-@extends('layouts.adminlte.tpl-home')
+@extends('layouts.tpl-dashboard')
 
 @section('title', 'MarketHUB')
 

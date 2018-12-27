@@ -9,13 +9,19 @@
     @section('css')
     
     <link rel="stylesheet" href="{{ asset('bower_components/admin-md/plugins/bootstrap/css/bootstrap.css') }}">
+    
     <link rel="stylesheet" href="{{ asset('bower_components/admin-md/plugins/node-waves/waves.css') }}">
+    
     <link rel="stylesheet" href="{{ asset('bower_components/admin-md/plugins/animate-css/animate.css') }}">
+    
     <link rel="stylesheet" href="{{ asset('bower_components/admin-md/plugins/morrisjs/morris.css') }}">
-    <link rel="stylesheet" href="{{ asset('bower_components/materialize/dist/css/materialize.min.css') }}">
+    
     <link rel="stylesheet" href="{{ asset('bower_components/admin-md/css/style.css') }}">
+    
     <link rel="stylesheet" href="{{ asset('bower_components/admin-md/css/themes/all-themes.css') }}">
     
+
+    <link rel="stylesheet" href="{{ asset('bower_components/materialize/dist/css/materialize.min.css') }}">
     
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&subset=latin,cyrillic-ext" rel="stylesheet" type="text/css">

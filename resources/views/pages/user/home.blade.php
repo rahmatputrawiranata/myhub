@@ -26,9 +26,9 @@ PORTFOLIO
 <div class="container-fluid">
     <div class="row clearfix">
         <div class="col-xs-12">
-            <h1>@yield('title')</h1>
-            <img src="{{ asset('img/undercon.png')}}" class="responsive-img" alt="">
-            {{-- @include('pages.remotehub.detail') --}}
+            {{-- <h1>@yield('title')</h1> --}}
+            {{-- <img src="{{ asset('img/undercon.png')}}" class="responsive-img" alt=""> --}}
+            @include('pages.user.detail')
         </div>
     </div>
 </div>

@@ -26,9 +26,8 @@ SOCIAL MARKETPLACE
 <div class="container-fluid">
     <div class="row clearfix">
         <div class="col-xs-12">
-             <h1>@yield('title')</h1>
-            <img src="{{ asset('img/undercon.png')}}" class="responsive-img" alt="">
-            {{-- @include('pages.remotehub.detail') --}}
+
+            @include('pages.market.detail')
         </div>
     </div>
 </div>

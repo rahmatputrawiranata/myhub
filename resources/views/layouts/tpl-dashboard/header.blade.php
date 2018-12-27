@@ -16,7 +16,8 @@
         <div class="navbar-header">
             <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
             <a href="javascript:void(0);" class="bars"></a>
-            <a class="navbar-brand" href="{{ asset('home')}}"><img src="{{ asset('img/logo-5-white.png')}}" height="50px" alt=""></a>
+            <a class="navbar-brand" href="index.html"></a>
+            <a href="{{ asset('home')}}"><img src="{{ asset('img/logo-5-white.png')}}" height="60px" alt=""> @yield('title')</a>
         </div>
         @include('layouts.tpl-dashboard.top-navbar-right')
     </div>

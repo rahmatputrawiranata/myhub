@@ -1,4 +1,4 @@
-<a href="{{ url('home')}}" class="btn btn-block btn-primary waves-effect m-r-20">HOME</a>
+
 <!-- Menu -->
 <div class="menu">
     <div class="panel-group" id="left-menu" role="tablist" aria-multiselectable="true">
@@ -82,14 +82,14 @@
             <div class="panel-heading" role="tab" id="headingFive_17">
                 <h4 class="panel-title">
                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#left-menu" href="#collapseFive_17" aria-expanded="false" aria-controls="collapseFive_17">
-                        <i class="material-icons">fingerprint</i> My Portfolio
+                        <i class="material-icons">fingerprint</i> Profile
                     </a>
                 </h4>
             </div>
             <div id="collapseFive_17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive_17" aria-expanded="false">
                 <div class="panel-body">
                     <div class="list-group">
-                        <a href="{{ url('/user/home')}}" class="list-group-item">Setting</a>
+                        <a href="{{ url('/user/home')}}" class="list-group-item">Profile</a>
                         <a href="{{ url('/user/home')}}" class="list-group-item">My HUB</a>
                         
                     </div>
@@ -100,14 +100,13 @@
     </div>
     
     
-    <a class="btn btn-block btn-default waves-effect m-r-20" href="{{ route('logout') }}"
+    <a class="btn btn-info waves-effect m-r-20" href="{{ route('logout') }}"
     onclick="event.preventDefault();
-    document.getElementById('logout-form').submit();">
-    {{ __('Logout') }}
-</a>
-<form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
-    @csrf
-</form>
-
+    document.getElementById('logout-form').submit();"><i class="material-icons">exit_to_app</i>  
+    {{ __('Logout') }}</a>
+    <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+        @csrf
+    </form>
+    
 </div>
 <!-- #Menu -->

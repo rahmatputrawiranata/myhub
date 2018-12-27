@@ -1,20 +1,64 @@
-<div class="row">
-  <div class="col-md-12">
-    <div class="box-header">
-      <h3 class="box-title">Rabu Weekly Sharing</h3>
+<div class="body">
+  <div class="row">
+    <div class="col-sm-6 col-md-3">
+      <div class="thumbnail">
+        <img src="http://placehold.it/500x300">
+        <div class="caption">
+          <h3>Thumbnail label</h3>
+          <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
+            text ever since the 1500s
+          </p>
+          <p>
+            <a href="javascript:void(0);" class="btn btn-primary waves-effect" role="button">BUTTON</a>
+          </p>
+        </div>
+      </div>
     </div>
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-4">
-    <div class="box-body">Column 1</div>
-  </div>
-  
-  <div class="col-md-4">
-    <div class="box-body">Column 2</div>
-  </div>
-  
-  <div class="col-md-4">
-    <div class="box-body">Column 3</div>
+    <div class="col-sm-6 col-md-3">
+      <div class="thumbnail">
+        <img src="http://placehold.it/500x300">
+        <div class="caption">
+          <h3>Thumbnail label</h3>
+          <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
+            text ever since the 1500s
+          </p>
+          <p>
+            <a href="javascript:void(0);" class="btn btn-primary waves-effect" role="button">BUTTON</a>
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6 col-md-3">
+      <div class="thumbnail">
+        <img src="http://placehold.it/500x300">
+        <div class="caption">
+          <h3>Thumbnail label</h3>
+          <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
+            text ever since the 1500s
+          </p>
+          <p>
+            <a href="javascript:void(0);" class="btn btn-primary waves-effect" role="button">BUTTON</a>
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6 col-md-3">
+      <div class="thumbnail">
+        <img src="http://placehold.it/500x300">
+        <div class="caption">
+          <h3>Thumbnail label</h3>
+          <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
+            text ever since the 1500s
+          </p>
+          <p>
+            <a href="javascript:void(0);" class="btn btn-primary waves-effect" role="button">BUTTON</a>
+          </p>
+        </div>
+      </div>
+    </div>
   </div>
 </div>

@@ -1,41 +1,134 @@
-
 <div class="row">
-  <div class="col-md-12">
-    <div class="box-header">
-      <h3 class="box-title">Community Products</h3>
+  <div class="col-md-6">
+    <div class="body">
+      <div class="bs-example" data-example-id="media-alignment">
+        <div class="media">
+          <div class="media-left">
+            <a href="javascript:void(0);">
+              <img class="media-object" src="http://placehold.it/64x64" width="64" height="64">
+            </a>
+          </div>
+          <div class="media-body">
+            <h4 class="media-heading">Top aligned media</h4>
+            <p>
+              Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin
+              commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
+              Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis
+              in faucibus.
+            </p>
+            <p>
+              Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis
+              natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+            </p>
+          </div>
+        </div>
+        <div class="media">
+          <div class="media-left">
+            <a href="javascript:void(0);">
+              <img class="media-object" src="http://placehold.it/64x64" width="64" height="64">
+            </a>
+          </div>
+          <div class="media-body">
+            <h4 class="media-heading">Middle aligned media</h4>
+            <p>
+              Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin
+              commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
+              Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis
+              in faucibus.
+            </p>
+            <p>
+              Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis
+              natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+            </p>
+          </div>
+        </div>
+        <div class="media">
+          <div class="media-left">
+            <a href="javascript:void(0);">
+              <img class="media-object" src="http://placehold.it/64x64" width="64" height="64">
+            </a>
+          </div>
+          <div class="media-body">
+            <h4 class="media-heading">Bottom aligned media</h4>
+            <p>
+              Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin
+              commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
+              Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis
+              in faucibus.
+            </p>
+            <p>
+              Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis
+              natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+            </p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-</div>
-<div class="row">
-  <div class="col-md-4">
-    <ul class="nav nav-bar">
-      <li><a href="#">Advertising <small>(9)</small></a></li>
-      <li><a href="#">Applications <small>(101)</small></a></li>
-      <li><a href="#">Calendar &amp; Events <small>(15)</small></a></li>
-      <li><a href="#">Comments <small>(3)</small></a></li>
-      <li><a href="#">Content Enhancements <small>(36)</small></a></li>
-      <li><a href="#">Core enhancements <small>(93)</small></a></li>
-    </ul>
-  </div>
-  
-  <div class="col-md-4">
-    <ul class="nav nav-bar">
-      <li><a href="#">eCommerce <small>(12)</small></a></li>
-      <li><a href="#">eLearning <small>(2)</small></a></li>
-      <li><a href="#">Forums &amp; Discussions <small>(27)</small></a></li>
-      <li><a href="#">Memberships <small>(12)</small></a></li>
-      <li><a href="#">Mobile <small>(5)</small></a></li>
-      <li><a href="#">Modules <small>(96)</small></a></li>
-    </ul>
-  </div>
-  
-  <div class="col-md-4">
-    <ul class="nav nav-bar">
-      <li><a href="#">Multimedia <small>(30)</small></a></li>
-      <li><a href="#">Photos &amp; Images <small>(22)</small></a></li>
-      <li><a href="#">RSS Syndicate <small>(3)</small></a></li>
-      <li><a href="#">SEO <small>(2)</small></a></li>
-      <li><a href="#">Templates <small>(64)</small></a></li>
-    </ul>
+  <div class="col-md-6">
+    <div class="body">
+      <div class="bs-example" data-example-id="media-alignment">
+        <div class="media">
+          <div class="media-left">
+            <a href="javascript:void(0);">
+              <img class="media-object" src="http://placehold.it/64x64" width="64" height="64">
+            </a>
+          </div>
+          <div class="media-body">
+            <h4 class="media-heading">Top aligned media</h4>
+            <p>
+              Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin
+              commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
+              Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis
+              in faucibus.
+            </p>
+            <p>
+              Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis
+              natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+            </p>
+          </div>
+        </div>
+        <div class="media">
+          <div class="media-left">
+            <a href="javascript:void(0);">
+              <img class="media-object" src="http://placehold.it/64x64" width="64" height="64">
+            </a>
+          </div>
+          <div class="media-body">
+            <h4 class="media-heading">Middle aligned media</h4>
+            <p>
+              Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin
+              commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
+              Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis
+              in faucibus.
+            </p>
+            <p>
+              Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis
+              natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+            </p>
+          </div>
+        </div>
+        <div class="media">
+          <div class="media-left">
+            <a href="javascript:void(0);">
+              <img class="media-object" src="http://placehold.it/64x64" width="64" height="64">
+            </a>
+          </div>
+          <div class="media-body">
+            <h4 class="media-heading">Bottom aligned media</h4>
+            <p>
+              Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin
+              commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
+              Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis
+              in faucibus.
+            </p>
+            <p>
+              Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis
+              natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
