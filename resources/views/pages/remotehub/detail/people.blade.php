@@ -11,7 +11,7 @@
             </div>
             <div id="collapseOne" class="panel-collapse collapse in">
                 <div class="box-body">
-                    @include('user.networks.detail.people.admin-intro')
+                    @include('pages.remotehub.detail.people.admin-intro')
                 </div>
             </div>
         </div>
@@ -25,7 +25,7 @@
             </div>
             <div id="collapseTwo" class="panel-collapse collapse">
                 <div class="box-body">
-                    @include('user.networks.detail.people.computing-intro')
+                    @include('pages.remotehub.detail.people.computing-intro')
                 </div>
             </div>
         </div>
@@ -39,7 +39,7 @@
             </div>
             <div id="collapseThree" class="panel-collapse collapse">
                 <div class="box-body">
-                    @include('user.networks.detail.people.creative-intro')
+                    @include('pages.remotehub.detail.people.creative-intro')
                 </div>
             </div>
         </div>

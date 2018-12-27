@@ -17,14 +17,14 @@
           <h3 class="box-title">Keep learning in moments that matter<br><small>Courses for every step of your career. Instructors with real-world experience.</small></h3>
         </div>
         <div class="box-body">
-          @include('user.events.detail')
+          @include('pages.events.detail')
         </div>
         
       </div>
     </div>
     <!-- /.col -->
     <div class="col-md-3 col-sm-4">     
-      @include('user.profile.detail')
+      @include('pages.profile.detail')
     </div>
     <!-- /.col -->
   </div>

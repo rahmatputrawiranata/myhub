@@ -18,14 +18,14 @@
           </small> </h3>
         </div>
         <div class="box-body">
-          @include('user.market.detail')
+          @include('pages.market.detail')
         </div>
         
       </div>
     </div>
     <!-- /.col -->
     <div class="col-md-3 col-sm-4">     
-      @include('user.profile.detail')
+      @include('pages.profile.detail')
     </div>
     <!-- /.col -->
     

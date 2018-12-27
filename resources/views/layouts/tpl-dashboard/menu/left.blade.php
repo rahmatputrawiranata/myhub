@@ -12,9 +12,9 @@
             <div id="collapseOne_17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne_17" aria-expanded="false" style="height: 0px;">
                 <div class="panel-body">
                     <div class="list-group">
-                        <button type="button" class="list-group-item">Administration Hub</button>
-                        <button type="button" class="list-group-item">Creative Hub</button>
-                        <button type="button" class="list-group-item">Developer Hub</button>
+                        <a href="{{ url('/remotehub/home')}}" class="list-group-item">Administration Hub</a>
+                        <a href="{{ url('/remotehub/home')}}" class="list-group-item">Creative Hub</a>
+                        <a href="{{ url('/remotehub/home')}}" class="list-group-item">Developer Hub</a>
                     </div>
                 </div>
             </div>
@@ -29,7 +29,7 @@
             </div>
             <div id="collapseThree_17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree_17" aria-expanded="false">
                 <div class="panel-body">
-                   <div class="list-group">
+                    <div class="list-group">
                         <button type="button" class="list-group-item">Rabu Weekly Sharing</button>
                         <button type="button" class="list-group-item">Monthly Meetup</button>
                         <button type="button" class="list-group-item">Webinar</button>
@@ -47,7 +47,7 @@
             </div>
             <div id="collapseFour_17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour_17" aria-expanded="false">
                 <div class="panel-body">
-                     <div class="list-group">
+                    <div class="list-group">
                         <button type="button" class="list-group-item">Product / Services</button>
                         <button type="button" class="list-group-item">Projects Collaboration</button>
                         <button type="button" class="list-group-item">Content / Copyriting</button>
@@ -88,17 +88,27 @@
                     <div class="list-group">
                         <button type="button" class="list-group-item">Setting</button>
                         <button type="button" class="list-group-item">My HUB</button>
-                        <button type="button" class="list-group-item">Logout</button>
-                    </div>
+                        <button type="button" class="list-group-item">
+                            <a class="dropdown-item" href="{{ route('logout') }}"
+                            onclick="event.preventDefault();
+                            document.getElementById('logout-form').submit();">
+                            {{ __('Logout') }}
+                        </a>
+                        
+                        <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                            @csrf
+                        </form>
+                    </button>
                 </div>
             </div>
         </div>
-
     </div>
     
-    
-    
-    
-    
+</div>
+
+
+
+
+
 </div>
 <!-- #Menu -->

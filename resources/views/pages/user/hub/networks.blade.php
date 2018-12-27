@@ -18,14 +18,14 @@
         </div>
         <div class="box-body">
           <!-- Networks -->
-          @include('user.networks.detail')
+          @include('pages.networks.detail')
         </div>
         
       </div>
     </div>
     <!-- /.col -->
     <div class="col-md-3 col-sm-4">     
-      @include('user.profile.detail')
+      @include('pages.profile.detail')
     </div>
     <!-- /.col -->
   </div>

@@ -65,34 +65,34 @@
       </ul>
       <div class="tab-content">
         <div class="active tab-pane" id="experience">
-          @include('user.profile.experience')
+          @include('pages.profile.experience')
         </div>
         <!-- /.tab-pane -->
         
         <div class="tab-pane" id="networks">
           <!-- Networks -->
-          @include('user.profile.mynetwork')
+          @include('pages.profile.mynetwork')
           
         </div>
         <!-- /.tab-pane -->
         
         <div class="tab-pane" id="myevents">
           <!-- myevents -->
-          @include('user.profile.myevents')
+          @include('pages.profile.myevents')
           
         </div>
         <!-- /.tab-pane -->
         
         <div class="tab-pane" id="mycourse">
           <!-- mycourse -->
-          @include('user.profile.mycourses')
+          @include('pages.profile.mycourses')
           
         </div>
         <!-- /.tab-pane -->
         
         <div class="tab-pane" id="mymedia">
           <!-- mymedia -->
-          @include('user.profile.mymedia')
+          @include('pages.profile.mymedia')
           
         </div>
         <!-- /.tab-pane -->
@@ -160,7 +160,7 @@
   <div class="col-md-3 col-sm-4">
     
     <!-- Profile Image -->
-    @include('user.profile.detail')
+    @include('pages.profile.detail')
     <!-- /.box -->
   </div>
   <!-- /.col -->

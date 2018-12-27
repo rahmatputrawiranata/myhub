@@ -34,3 +34,6 @@ Route::get('myhub', function () {return view('guest.myhub');});
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/remotehub/home', 'RemotehubController@index')->name('remotehub');
+

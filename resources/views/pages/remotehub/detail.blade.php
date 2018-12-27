@@ -7,27 +7,27 @@
             </ul>
             <div class="tab-content">
               <div class="active tab-pane" id="people">
-                @include('user.networks.detail.people')
+                @include('pages.remotehub.detail.people')
               </div>
               <!-- /.tab-pane -->
 
               <div class="tab-pane" id="remotehub">
                 <!-- Networks -->
-                @include('user.networks.detail.myhub')
+                @include('pages.remotehub.detail.myhub')
                 
               </div>
               <!-- /.tab-pane -->
 
               <div class="tab-pane" id="companies">
                 <!-- companies -->
-                @include('user.networks.detail.companies')
+                @include('pages.remotehub.detail.companies')
                 
               </div>
               <!-- /.tab-pane -->
 
               <div class="tab-pane" id="hashtag">
                 <!-- hashtag -->
-                @include('user.networks.detail.hashtag')
+                @include('pages.remotehub.detail.hashtag')
                 
               </div>
               <!-- /.tab-pane -->
