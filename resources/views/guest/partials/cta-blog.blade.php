@@ -9,7 +9,7 @@
               <div class="post-image clearfix">
                 <i class="lnr lnr-text-align-left"></i>
                 <div class="post-overlay"></div>
-                <img class="img-responsive"  src="{{ asset('templates/kkr021/images/blog/blog1.jpg')}}" alt=""/>
+                <img class="img-responsive"  src="{{ asset('templates/kkr021/img/blog/blog1.jpg')}}" alt=""/>
               </div>
               <div class="post-details">
                 <span class="categery text-uppercase">Travel</span>
@@ -35,7 +35,7 @@
             <div class="post post-over">
               <div class="post-image clearfix">
                 <i class="lnr lnr-picture"></i>
-                <img class="img-responsive" src="{{ asset('templates/kkr021/images/blog/blog1.jpg')}}" alt="" />
+                <img class="img-responsive" src="{{ asset('templates/kkr021/img/blog/blog1.jpg')}}" alt="" />
               </div>
               <div class="post-details">
                 <span class="categery text-uppercase">Travel</span>
@@ -58,7 +58,7 @@
             <div class="post post-over">
               <div class="post-image clearfix">
                 <i class="lnr lnr-camera"></i>
-                <img class="img-responsive" src="{{ asset('templates/kkr021/images/blog/blog2.jpg')}}" alt="" />
+                <img class="img-responsive" src="{{ asset('templates/kkr021/img/blog/blog2.jpg')}}" alt="" />
               </div>
               <div class="post-details">
                 <span class="categery text-uppercase">Travel</span>
@@ -81,7 +81,7 @@
               <div class="post-image clearfix">
                 <i class="lnr lnr-film-play" aria-hidden="true"></i>
                 <div class="post-overlay"></div>
-                <img class="img-responsive" src="{{ asset('templates/kkr021/images/blog/blog1.jpg')}}" alt="" />
+                <img class="img-responsive" src="{{ asset('templates/kkr021/img/blog/blog1.jpg')}}" alt="" />
               </div>
               <div class="post-details">
                 <span class="categery text-uppercase">Travel</span>

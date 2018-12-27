@@ -32,7 +32,7 @@
 <div class="side light-bg">
     <a href="#" class="close-side"><i class="fa fa-times"></i></a>
     <div class="widget">
-        <p class="text-center text-white my-3"> <a href="{{ url('/') }}"><img src="{{ asset('templates/kkr021/images/logo-5-white.png')}}" class="logo" alt="" /><br><h3>Remote<b>Hub</b>  <small>.id</small></h3></a></p>
+        <p class="text-center text-white my-3"> <a href="{{ url('/') }}"><img src="{{ asset('templates/kkr021/img/logo-5-white.png')}}" class="logo" alt="" /><br><h3>Remote<b>Hub</b>  <small>.id</small></h3></a></p>
         <div class="login-logo">
             
         </div>

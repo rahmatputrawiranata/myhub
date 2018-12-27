@@ -46,13 +46,13 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner" role="listbox">
                             <div class="item active">
-                                <img src="bsbmd/images/image-gallery/11.jpg" />
+                                <img src="bsbmd/img/image-gallery/11.jpg" />
                             </div>
                             <div class="item">
-                                <img src="bsbmd/images/image-gallery/12.jpg" />
+                                <img src="bsbmd/img/image-gallery/12.jpg" />
                             </div>
                             <div class="item">
-                                <img src="bsbmd/images/image-gallery/19.jpg" />
+                                <img src="bsbmd/img/image-gallery/19.jpg" />
                             </div>
                         </div>
                         <!-- Controls -->
@@ -98,21 +98,21 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner" role="listbox">
                             <div class="item active">
-                                <img src="bsbmd/images/image-gallery/10.jpg" />
+                                <img src="bsbmd/img/image-gallery/10.jpg" />
                                 <div class="carousel-caption">
                                     <h3>First slide label</h3>
                                     <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                                 </div>
                             </div>
                             <div class="item">
-                                <img src="bsbmd/images/image-gallery/12.jpg" />
+                                <img src="bsbmd/img/image-gallery/12.jpg" />
                                 <div class="carousel-caption">
                                     <h3>Second slide label</h3>
                                     <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                                 </div>
                             </div>
                             <div class="item">
-                                <img src="bsbmd/images/image-gallery/19.jpg" />
+                                <img src="bsbmd/img/image-gallery/19.jpg" />
                                 <div class="carousel-caption">
                                     <h3>Third slide label</h3>
                                     <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
@@ -168,103 +168,103 @@
                 <div class="body">
                     <div id="aniimated-thumbnials" class="list-unstyled row clearfix">
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/1.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-1.jpg">
+                            <a href="bsbmd/img/image-gallery/1.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-1.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/2.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-2.jpg">
+                            <a href="bsbmd/img/image-gallery/2.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-2.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/3.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-3.jpg">
+                            <a href="bsbmd/img/image-gallery/3.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-3.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/4.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-4.jpg">
+                            <a href="bsbmd/img/image-gallery/4.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-4.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/5.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-5.jpg">
+                            <a href="bsbmd/img/image-gallery/5.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-5.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/6.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-6.jpg">
+                            <a href="bsbmd/img/image-gallery/6.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-6.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/7.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-7.jpg">
+                            <a href="bsbmd/img/image-gallery/7.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-7.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/8.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-8.jpg">
+                            <a href="bsbmd/img/image-gallery/8.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-8.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/9.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-9.jpg">
+                            <a href="bsbmd/img/image-gallery/9.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-9.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/10.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-10.jpg">
+                            <a href="bsbmd/img/image-gallery/10.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-10.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/11.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-11.jpg">
+                            <a href="bsbmd/img/image-gallery/11.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-11.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/12.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-12.jpg">
+                            <a href="bsbmd/img/image-gallery/12.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-12.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/13.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-13.jpg">
+                            <a href="bsbmd/img/image-gallery/13.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-13.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/14.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-14.jpg">
+                            <a href="bsbmd/img/image-gallery/14.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-14.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/15.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-15.jpg">
+                            <a href="bsbmd/img/image-gallery/15.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-15.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/16.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-16.jpg">
+                            <a href="bsbmd/img/image-gallery/16.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-16.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/17.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-17.jpg">
+                            <a href="bsbmd/img/image-gallery/17.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-17.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/18.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-18.jpg">
+                            <a href="bsbmd/img/image-gallery/18.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-18.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/19.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-19.jpg">
+                            <a href="bsbmd/img/image-gallery/19.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-19.jpg">
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                            <a href="bsbmd/images/image-gallery/20.jpg" data-sub-html="Demo Description">
-                            <img class="img-responsive thumbnail" src="bsbmd/images/image-gallery/thumb/thumb-20.jpg">
+                            <a href="bsbmd/img/image-gallery/20.jpg" data-sub-html="Demo Description">
+                            <img class="img-responsive thumbnail" src="bsbmd/img/image-gallery/thumb/thumb-20.jpg">
                             </a>
                         </div>
                     </div>

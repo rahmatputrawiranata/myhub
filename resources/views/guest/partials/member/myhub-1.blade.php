@@ -9,7 +9,7 @@
               <span class="categery text-uppercase">Creative</span>
               <div class="post-date">10<span>JAN 2017</span></div>
             </div>
-            <img class="img-responsive" src="{{ asset('templates/kkr021/images/blog/blog-list5.jpg')}}" alt="" /> 
+            <img class="img-responsive" src="{{ asset('templates/kkr021/img/blog/blog-list5.jpg')}}" alt="" /> 
           </div>
           <div class="post-details">
             <div class="post-title">
@@ -30,7 +30,7 @@
               <span class="categery text-uppercase">Developer</span>
               <div class="post-date">15<span>MARCH 2017</span></div>
             </div>
-            <img class="img-responsive" src="{{ asset('templates/kkr021/images/blog/blog-list6.jpg')}}" alt="" /> 
+            <img class="img-responsive" src="{{ asset('templates/kkr021/img/blog/blog-list6.jpg')}}" alt="" /> 
           </div>
           <div class="post-details">
             <div class="post-title">
@@ -51,7 +51,7 @@
               <span class="categery text-uppercase">Lifestyle</span>
               <div class="post-date">27<span>NAV 2017</span></div>
             </div>
-            <img class="img-responsive" src="{{ asset('templates/kkr021/images/blog/blog-list7.jpg')}}" alt="" /> 
+            <img class="img-responsive" src="{{ asset('templates/kkr021/img/blog/blog-list7.jpg')}}" alt="" /> 
           </div>
           <div class="post-details">
             <div class="post-title">
@@ -72,7 +72,7 @@
               <span class="categery text-uppercase">CULTURE</span>
               <div class="post-date">01<span>APR 2017</span></div>
             </div>
-            <img class="img-responsive" src="{{ asset('templates/kkr021/images/blog/blog-list8.jpg')}}" alt="" /> 
+            <img class="img-responsive" src="{{ asset('templates/kkr021/img/blog/blog-list8.jpg')}}" alt="" /> 
           </div>
           <div class="post-details">
             <div class="post-title">

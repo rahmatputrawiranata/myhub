@@ -14,44 +14,44 @@
       <div class="col-md-6 mb-4">
         <div class="clients line">
           <div class="col-sm-4 col-xs-6 col-xx-12">
-            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/images/clients/logo1.png')}}" alt=""></div>
+            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/img/clients/logo1.png')}}" alt=""></div>
           </div>
           <div class="col-sm-4 col-xs-6 col-xx-12">
-            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/images/clients/logo2.png')}}" alt=""></div>
+            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/img/clients/logo2.png')}}" alt=""></div>
           </div>
           <div class="col-sm-4 col-xs-6 col-xx-12">
-            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/images/clients/logo3.png')}}" alt=""></div>
+            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/img/clients/logo3.png')}}" alt=""></div>
           </div>
           <div class="col-sm-4 col-xs-6 col-xx-12">
-            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/images/clients/logo1.png')}}" alt=""></div>
+            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/img/clients/logo1.png')}}" alt=""></div>
           </div>
           <div class="col-sm-4 col-xs-6 col-xx-12">
-            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/images/clients/logo2.png')}}" alt=""></div>
+            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/img/clients/logo2.png')}}" alt=""></div>
           </div>
           <div class="col-sm-4 col-xs-6 col-xx-12">
-            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/images/clients/logo3.png')}}" alt=""></div>
+            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/img/clients/logo3.png')}}" alt=""></div>
           </div>
         </div>
       </div>
       <div class="col-md-6 mb-4">
         <div class="clients line">
           <div class="col-sm-4 col-xs-6 col-xx-12">
-            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/images/clients/logo1.png')}}" alt=""></div>
+            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/img/clients/logo1.png')}}" alt=""></div>
           </div>
           <div class="col-sm-4 col-xs-6 col-xx-12">
-            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/images/clients/logo2.png')}}" alt=""></div>
+            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/img/clients/logo2.png')}}" alt=""></div>
           </div>
           <div class="col-sm-4 col-xs-6 col-xx-12">
-            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/images/clients/logo3.png')}}" alt=""></div>
+            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/img/clients/logo3.png')}}" alt=""></div>
           </div>
           <div class="col-sm-4 col-xs-6 col-xx-12">
-            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/images/clients/logo1.png')}}" alt=""></div>
+            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/img/clients/logo1.png')}}" alt=""></div>
           </div>
           <div class="col-sm-4 col-xs-6 col-xx-12">
-            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/images/clients/logo2.png')}}" alt=""></div>
+            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/img/clients/logo2.png')}}" alt=""></div>
           </div>
           <div class="col-sm-4 col-xs-6 col-xx-12">
-            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/images/clients/logo3.png')}}" alt=""></div>
+            <div class="media"><img class="img-responsive" src="{{ asset('templates/kkr021/img/clients/logo3.png')}}" alt=""></div>
           </div>
         </div>
       </div>

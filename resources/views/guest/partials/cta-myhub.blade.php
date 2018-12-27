@@ -18,7 +18,7 @@
                <div class="row no-gutter">
                   <div class="col-sm-4 col-xs-6 col-xx-12">
                      <div class="team classes">
-                        <div class="member-image clearfix"> <img class="img-responsive" src="{{ asset('templates/kkr021/images/gym/classes-img1.jpg')}}" alt="" /></div>
+                        <div class="member-image clearfix"> <img class="img-responsive" src="{{ asset('templates/kkr021/img/gym/classes-img1.jpg')}}" alt="" /></div>
                         <div class="team-info">
                            <h5 class="member-position theme-text mb-1">Every Mon, 07:00 AM to 08:00 AM</h5>
                            <h2 class="member-name mb-2">Creative</h2>
@@ -28,7 +28,7 @@
                   </div>
                   <div class="col-sm-4 col-xs-6 col-xx-12">
                      <div class="team classes">
-                        <div class="member-image clearfix"> <img class="img-responsive" src="{{ asset('templates/kkr021/images/gym/classes-img2.jpg')}}" alt="" /></div>
+                        <div class="member-image clearfix"> <img class="img-responsive" src="{{ asset('templates/kkr021/img/gym/classes-img2.jpg')}}" alt="" /></div>
                         <div class="team-info">
                            <h5 class="member-position theme-text mb-1">Mon, 09:00 AM to 10:30 AM</h5>
                            <h2 class="member-name mb-2">E.R.P</h2>
@@ -38,7 +38,7 @@
                   </div>
                   <div class="col-sm-4 col-xs-6 col-xx-12">
                      <div class="team classes">
-                        <div class="member-image clearfix"> <img class="img-responsive" src="{{ asset('templates/kkr021/images/gym/classes-img3.jpg')}}" alt="" /></div>
+                        <div class="member-image clearfix"> <img class="img-responsive" src="{{ asset('templates/kkr021/img/gym/classes-img3.jpg')}}" alt="" /></div>
                         <div class="team-info">
                            <h5 class="member-position theme-text mb-1">Mon, 10:00 AM to 12:00 PM</h5>
                            <h2 class="member-name mb-2">Developer</h2>
@@ -48,7 +48,7 @@
                   </div>
                   <div class="col-sm-4 col-xs-6 col-xx-12">
                      <div class="team classes">
-                        <div class="member-image clearfix"> <img class="img-responsive" src="{{ asset('templates/kkr021/images/gym/classes-img4.jpg')}}" alt="" /></div>
+                        <div class="member-image clearfix"> <img class="img-responsive" src="{{ asset('templates/kkr021/img/gym/classes-img4.jpg')}}" alt="" /></div>
                         <div class="team-info">
                            <h5 class="member-position theme-text mb-1">Mon, 12:30 PM to 02:00 PM</h5>
                            <h2 class="member-name mb-2">Networking</h2>
@@ -58,7 +58,7 @@
                   </div>
                   <div class="col-sm-4 col-xs-6 col-xx-12">
                      <div class="team classes">
-                        <div class="member-image clearfix"> <img class="img-responsive" src="{{ asset('templates/kkr021/images/gym/classes-img5.jpg')}}" alt="" /></div>
+                        <div class="member-image clearfix"> <img class="img-responsive" src="{{ asset('templates/kkr021/img/gym/classes-img5.jpg')}}" alt="" /></div>
                         <div class="team-info">
                            <h5 class="member-position theme-text mb-1">Mon,03:00 PM to 04:00 PM</h5>
                            <h2 class="member-name mb-2">Marketing</h2>
@@ -68,7 +68,7 @@
                   </div>
                   <div class="col-sm-4 col-xs-6 col-xx-12" id="events">
                      <div class="team classes">
-                        <div class="member-image clearfix"> <img class="img-responsive" src="{{ asset('templates/kkr021/images/gym/classes-img6.jpg')}}" alt="" /></div>
+                        <div class="member-image clearfix"> <img class="img-responsive" src="{{ asset('templates/kkr021/img/gym/classes-img6.jpg')}}" alt="" /></div>
                         <div class="team-info">
                            <h5 class="member-position theme-text mb-1">Mon-Fri, 09:00 AM to 11:00 AM</h5>
                            <h2 class="member-name mb-2">Security</h2>

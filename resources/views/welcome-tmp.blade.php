@@ -6,7 +6,7 @@
 
 @section('content')
 <!-- Banner -->
-<section  class="full-height bg white-text header-slide single-image overlay" data-overlay-color="dark" data-overlay="8" data-bg-img="{{ asset('templates/kkr021/images/corporate/banner.jpg')}}" data-jarallax-video="https://www.youtube.com/watch?v=gDFdHnkohLg">
+<section  class="full-height bg white-text header-slide single-image overlay" data-overlay-color="dark" data-overlay="8" data-bg-img="{{ asset('templates/kkr021/img/corporate/banner.jpg')}}" data-jarallax-video="https://www.youtube.com/watch?v=gDFdHnkohLg">
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center">

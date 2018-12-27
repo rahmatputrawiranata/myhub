@@ -5,17 +5,19 @@
             <div class="panel-heading" role="tab" id="headingOne_17">
                 <h4 class="panel-title">
                     <a role="button" data-toggle="collapse" data-parent="#left-menu" href="#collapseOne_17" aria-expanded="false" aria-controls="collapseOne_17" class="collapsed">
-                        <i class="material-icons">queue_play_next</i> My RemoteHUB
+                        <i class="material-icons">important_devices</i> My RemoteHUB
                     </a>
                 </h4>
             </div>
             <div id="collapseOne_17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne_17" aria-expanded="false" style="height: 0px;">
                 <div class="panel-body">
                     <div class="list-group">
-                        <a href="{{ url('/remotehub/home')}}" class="list-group-item">Administration Hub</a>
-                        <a href="{{ url('/remotehub/home')}}" class="list-group-item">Creative Hub</a>
-                        <a href="{{ url('/remotehub/home')}}" class="list-group-item">Developer Hub</a>
+                        <a href="{{ url('/remotehub/home#person_add_only_icon_title')}}" class="list-group-item"><i class="material-icons">person_add</i> add network</a>
+                        <a href="{{ url('/remotehub/home#queue_play_next_only_icon_title')}}" class="list-group-item"><i class="material-icons">queue_play_next</i> Add Channel</a>
+                        <a href="{{ url('/remotehub/home#business_only_icon_title')}}" class="list-group-item"><i class="material-icons">business</i> Search Business</a>
+                        <a href="{{ url('/remotehub/home#hearing_only_icon_title')}}" class="list-group-item"><i class="material-icons">hearing</i> Trending Topic</a>
                     </div>
+                    <a href="{{ url('/remotehub/home')}}" class="list-group-item"><i class="material-icons">important_devices</i> view all</a>
                 </div>
             </div>
         </div>

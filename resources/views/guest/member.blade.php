@@ -6,7 +6,7 @@
 
 @section('content')
 <!-- Banner -->
-<section class="inner-intro  small-intro dark-bg bg bg-fixed overlay jarallax" data-jarallax='{"speed": 0.2}' data-overlay-color="dark" data-overlay="2" data-bg-img="{{ asset('templates/kkr021/images/banner.jpg')}}">
+<section class="inner-intro  small-intro dark-bg bg bg-fixed overlay jarallax" data-jarallax='{"speed": 0.2}' data-overlay-color="dark" data-overlay="2" data-bg-img="{{ asset('templates/kkr021/img/banner.jpg')}}">
   <div class="container">
     <div class="row intro-title">
       <div class="col-sm-12 text-left">

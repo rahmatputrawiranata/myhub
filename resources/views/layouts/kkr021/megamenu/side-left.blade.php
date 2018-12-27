@@ -252,7 +252,7 @@
         <a href="#" class="close-side"><i class="fa fa-times"></i></a>
         <div class="widget">
             <p class="text-center text-white my-3">
-                <a href="{{ url('/') }}"><img src="{{ asset('templates/kkr021/templates/kkr021/images/logo-5-white.png')}}" class="logo" alt="" /><br>Remote<b>Hub</b> Indonesia</a></p>
+                <a href="{{ url('/') }}"><img src="{{ asset('templates/kkr021/templates/kkr021/img/logo-5-white.png')}}" class="logo" alt="" /><br>Remote<b>Hub</b> Indonesia</a></p>
                 <div class="login-logo">
                     
                 </div>

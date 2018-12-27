@@ -12,7 +12,7 @@
 <body>
     <!-- Preloader -->
     <div id="preloader">
-        <div class="clear-loading loading-effect"><img src="{{ asset('templates/kkr021/images/loading.gif')}}" width="100" alt=""></div>
+        <div class="clear-loading loading-effect"><img src="{{ asset('templates/kkr021/img/loading.gif')}}" width="100" alt=""></div>
     </div>
     <!-- Start Navigation -->
     @include('layouts.kkr021.megamenu.topbar')

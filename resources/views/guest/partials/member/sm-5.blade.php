@@ -6,7 +6,7 @@
           <div class="team">
             <div class="member-image clearfix">
               <a class="arrow-btn" href="#"><i class="lnr lnr-arrow-right"></i></a>
-              <img class="img-responsive" src="{{ asset('templates/kkr021/images/team/member1.jpg')}}" alt="" />
+              <img class="img-responsive" src="{{ asset('templates/kkr021/img/team/member1.jpg')}}" alt="" />
             </div>
             <div class="team-info">
               <h6 class="member-name">Nick Brew</h6>
@@ -23,7 +23,7 @@
           <div class="team">
             <div class="member-image clearfix">
               <a class="arrow-btn" href="#"><i class="lnr lnr-arrow-right"></i></a>
-              <img class="img-responsive" src="{{ asset('templates/kkr021/images/team/member2.jpg')}}" alt="" />
+              <img class="img-responsive" src="{{ asset('templates/kkr021/img/team/member2.jpg')}}" alt="" />
             </div>
             <div class="team-info">
               <h6 class="member-name">Jenny Doe</h6>
@@ -40,7 +40,7 @@
           <div class="team">
             <div class="member-image clearfix">
               <a class="arrow-btn" href="#"><i class="lnr lnr-arrow-right"></i></a>
-              <img class="img-responsive" src="{{ asset('templates/kkr021/images/team/member3.jpg')}}" alt="" />
+              <img class="img-responsive" src="{{ asset('templates/kkr021/img/team/member3.jpg')}}" alt="" />
             </div>
             <div class="team-info">
               <h6 class="member-name">Crow Alex</h6>
@@ -57,7 +57,7 @@
           <div class="team">
             <div class="member-image clearfix">
               <a class="arrow-btn" href="#"><i class="lnr lnr-arrow-right"></i></a>
-              <img class="img-responsive" src="{{ asset('templates/kkr021/images/team/member4.jpg')}}" alt="" />
+              <img class="img-responsive" src="{{ asset('templates/kkr021/img/team/member4.jpg')}}" alt="" />
             </div>
             <div class="team-info">
               <h6 class="member-name">Ronnie Rice</h6>
@@ -74,7 +74,7 @@
           <div class="team">
             <div class="member-image clearfix">
               <a class="arrow-btn" href="#"><i class="lnr lnr-arrow-right"></i></a>
-              <img class="img-responsive" src="{{ asset('templates/kkr021/images/team/member1.jpg')}}" alt="" />
+              <img class="img-responsive" src="{{ asset('templates/kkr021/img/team/member1.jpg')}}" alt="" />
             </div>
             <div class="team-info">
               <h6 class="member-name">Nick Brew</h6>
@@ -91,7 +91,7 @@
           <div class="team">
             <div class="member-image clearfix">
               <a class="arrow-btn" href="#"><i class="lnr lnr-arrow-right"></i></a>
-              <img class="img-responsive" src="{{ asset('templates/kkr021/images/team/member2.jpg')}}" alt="" />
+              <img class="img-responsive" src="{{ asset('templates/kkr021/img/team/member2.jpg')}}" alt="" />
             </div>
             <div class="team-info">
               <h6 class="member-name">Jenny Doe</h6>
@@ -108,7 +108,7 @@
           <div class="team">
             <div class="member-image clearfix">
               <a class="arrow-btn" href="#"><i class="lnr lnr-arrow-right"></i></a>
-              <img class="img-responsive" src="{{ asset('templates/kkr021/images/team/member3.jpg')}}" alt="" />
+              <img class="img-responsive" src="{{ asset('templates/kkr021/img/team/member3.jpg')}}" alt="" />
             </div>
             <div class="team-info">
               <h6 class="member-name">Crow Alex</h6>
@@ -125,7 +125,7 @@
           <div class="team">
             <div class="member-image clearfix">
               <a class="arrow-btn" href="#"><i class="lnr lnr-arrow-right"></i></a>
-              <img class="img-responsive" src="{{ asset('templates/kkr021/images/team/member4.jpg')}}" alt="" />
+              <img class="img-responsive" src="{{ asset('templates/kkr021/img/team/member4.jpg')}}" alt="" />
             </div>
             <div class="team-info">
               <h6 class="member-name">Ronnie Rice</h6>

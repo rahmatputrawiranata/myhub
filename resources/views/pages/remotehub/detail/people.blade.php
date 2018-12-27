@@ -1,45 +1,44 @@
-<div class="box-body">
-    <div class="box-group" id="accordion">
-        <!-- we are adding the .panel class so bootstrap.js collapse plugin detects it -->
-        <div class="panel box box-primary">
-            <div class="box-header with-border">
-                <h4 class="box-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-                        ADMINISTRATION AND MANAGEMENT TEAM
+<div class="card">
+    <div class="panel-group" id="memberhub" role="tablist" aria-multiselectable="true">
+        <div class="panel panel-col-cyan">
+            <div class="panel-heading" role="tab" id="headingOne_10">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#memberhub" href="#collapseOne_10" aria-expanded="true" aria-controls="collapseOne_10">
+                        BUSINNESS ADMINISTRATION ASSISTANT COMMUNITY
                     </a>
                 </h4>
             </div>
-            <div id="collapseOne" class="panel-collapse collapse in">
-                <div class="box-body">
+            <div id="collapseOne_10" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne_10">
+                <div class="panel-body">
                     @include('pages.remotehub.detail.people.admin-intro')
                 </div>
             </div>
         </div>
-        <div class="panel box box-danger">
-            <div class="box-header with-border">
-                <h4 class="box-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                        COMPUTING AND ICT TEAM
+        <div class="panel panel-col-cyan">
+            <div class="panel-heading" role="tab" id="headingTwo_10">
+                <h4 class="panel-title">
+                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#memberhub" href="#collapseTwo_10" aria-expanded="false" aria-controls="collapseTwo_10">
+                        CREATIVE ART & MARKETING COMMUNITY
                     </a>
                 </h4>
             </div>
-            <div id="collapseTwo" class="panel-collapse collapse">
-                <div class="box-body">
-                    @include('pages.remotehub.detail.people.computing-intro')
+            <div id="collapseTwo_10" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo_10">
+                <div class="panel-body">
+                    @include('pages.remotehub.detail.people.creative-intro')
                 </div>
             </div>
         </div>
-        <div class="panel box box-success">
-            <div class="box-header with-border">
-                <h4 class="box-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-                        CREATIVE, ART AND MEDIA TEAM
+        <div class="panel panel-col-cyan">
+            <div class="panel-heading" role="tab" id="headingThree_10">
+                <h4 class="panel-title">
+                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#memberhub" href="#collapseThree_10" aria-expanded="false" aria-controls="collapseThree_10">
+                        WEBSITE DEV, MOBILE DEV & ICT COMMUNITY
                     </a>
                 </h4>
             </div>
-            <div id="collapseThree" class="panel-collapse collapse">
-                <div class="box-body">
-                    @include('pages.remotehub.detail.people.creative-intro')
+            <div id="collapseThree_10" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree_10">
+                <div class="panel-body">
+                    @include('pages.remotehub.detail.people.computing-intro')
                 </div>
             </div>
         </div>
