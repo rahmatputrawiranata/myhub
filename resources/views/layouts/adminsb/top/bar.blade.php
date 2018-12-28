@@ -17,14 +17,22 @@
                 <li><a href="javascript:void(0);" class="js-search" data-close="true"><i class="material-icons">search</i></a></li>
                 <!-- #END# Call Search -->
                 
+                <!-- Home -->
+                <li><a href="{{ url('home')}}" ><i class="material-icons">home</i></a></li>
+                <!-- #END# Home -->
+
                 <!-- Notifications -->
-                @include('layouts.adminsb.top.menu.notif')
+                {{-- @include('layouts.adminsb.top.menu.notif') --}}
                 <!-- #END# Notifications -->
                 
                 <!-- Tasks -->
-                @include('layouts.adminsb.top.menu.task')
+                {{-- @include('layouts.adminsb.top.menu.task') --}}
                 <!-- #END# Tasks -->
                 
+                <!-- Profile -->
+                @include('layouts.adminsb.top.menu.profile')
+                <!-- #END# Profile -->
+
                 <li class="pull-right"><a href="javascript:void(0);" class="js-right-sidebar" data-close="true"><i class="material-icons">format_color_fill</i></a></li>
             </ul>
         </div>

@@ -1,7 +1,7 @@
-<a href="{{ url('home')}}" class="btn bg-light-blue m-l-10"><i class="material-icons">home</i></a>
+{{-- <a href="{{ url('home')}}" class="btn bg-light-blue m-l-10"><i class="material-icons">home</i></a> --}}
 
 
-<a href="{{ url('remotehub/home')}}" class="btn bg-cyan waves-effect" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="My RemoteHUB">
+<a href="{{ url('remotehub/home')}}" class="btn bg-cyan waves-effect m-l-10" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="My RemoteHUB">
     <i class="material-icons">beach_access</i>
 </a>
 <a href="{{ url('events/home')}}" class="btn bg-cyan waves-effect" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Events">
