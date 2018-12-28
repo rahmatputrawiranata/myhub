@@ -1,4 +1,4 @@
-@extends('layouts.tpl-dashboard')
+@extends('layouts.tpl-adminsb')
 
 @section('title')
 Home

@@ -3,7 +3,7 @@
     <div class="box-header">
       <h3 class="box-title">Topics you might be interested..</h3>
       <p>
-        <img src="{{ asset('img/undercon.png')}}" class="responsive-img" alt="">
+        <img src="{{ asset('img/undercon.png')}}" class="img-responsive" alt="">
       </p>
     </div>
   </div>

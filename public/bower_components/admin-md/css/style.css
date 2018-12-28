@@ -3998,6 +3998,12 @@ section.content {
     .switch label input[type=checkbox]:checked + .lever.switch-col-white:after {
       background-color: #ffffff; }
 
+img.responsive-img,
+video.responsive-video {
+  max-width: 100%;
+  height: auto;
+}
+
 /* DateTime Picker ============================= */
 .dtp div.dtp-date,
 .dtp div.dtp-time {

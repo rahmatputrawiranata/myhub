@@ -57,7 +57,7 @@
           <div role="tabpanel" class="tab-pane fade" id="queue_play_next_only_icon_title">
             <b>Add your Channel</b>
             <p>
-             <img src="{{ asset('img/undercon.png')}}" class="responsive-img" alt="">
+             <img src="{{ asset('img/undercon.png')}}" class="img-responsive" alt="">
             </p>
           </div>
           <div role="tabpanel" class="tab-pane fade" id="business_only_icon_title">

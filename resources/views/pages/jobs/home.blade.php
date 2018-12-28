@@ -1,4 +1,4 @@
-@extends('layouts.tpl-dashboard')
+@extends('layouts.tpl-adminsb')
 
 @section('title')
 JOBS AND SKILL SHARING
@@ -27,7 +27,7 @@ JOBS AND SKILL SHARING
     <div class="row clearfix">
         <div class="col-xs-12">
              {{-- <h1>@yield('title')</h1>
-            <img src="{{ asset('img/undercon.png')}}" class="responsive-img" alt=""> --}}
+            <img src="{{ asset('img/undercon.png')}}" class="img-responsive" alt=""> --}}
             @include('pages.jobs.detail')
         </div>
     </div>

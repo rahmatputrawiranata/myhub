@@ -2,7 +2,7 @@
   <div class="profile-header"></div>
   <div class="profile-body">
     <div class="image-area">
-      <img src="{{ asset('img/user.jpg')}}" alt="RemotreHUB - Profile Image" />
+      <img src="{{ asset('img/user.jpg')}}" alt="RemoteHUB - Profile Image" />
     </div>
     <div class="content-area">
       <strong> Full Name</strong>

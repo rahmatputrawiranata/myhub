@@ -28,7 +28,7 @@
     <div class="login-box">
         <div class="logo">
             
-            <a href="{{ url('/')}}"><span><img src="{{ asset('img/logo-5-dark.png')}}" height="55px" alt=""><br><img src="{{ asset('img/logo-6-white.png')}}" height="55px" alt=""></span></a>
+            <a href="{{ url('/')}}"><span><img src="{{ asset('img/logo-5-white.png')}}" height="55px" alt=""><br><img src="{{ asset('img/logo-6-white.png')}}" height="55px" alt=""></span></a>
             <small>C o n n e c t . C o l l a b o r a t e . C r e a t e</small>
         </div>
         <div class="card">
