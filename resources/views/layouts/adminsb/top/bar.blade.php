@@ -17,10 +17,14 @@
                 <li><a href="javascript:void(0);" class="js-search" data-close="true"><i class="material-icons">search</i></a></li>
                 <!-- #END# Call Search -->
                 
-                <!-- Home -->
-                <li><a href="{{ url('home')}}" ><i class="material-icons">home</i></a></li>
-                <!-- #END# Home -->
+                <li class="pull-right"><a href=" href="{{ route('logout') }}"  onclick="event.preventDefault(); document.getElementById('logout-form').submit();"><i class="material-icons">exit_to_app</i>   </a></li>
 
+                
+                <!-- Home -->
+                <li class="pull-right"><a href="{{ url('home')}}" ><i class="material-icons">home</i></a></li>
+                <!-- #END# Home -->
+            
+                
                 <!-- Notifications -->
                 {{-- @include('layouts.adminsb.top.menu.notif') --}}
                 <!-- #END# Notifications -->
@@ -32,9 +36,12 @@
                 <!-- Profile -->
                 @include('layouts.adminsb.top.menu.profile')
                 <!-- #END# Profile -->
-
+                
                 <li class="pull-right"><a href="javascript:void(0);" class="js-right-sidebar" data-close="true"><i class="material-icons">format_color_fill</i></a></li>
             </ul>
+            <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                @csrf
+            </form>
         </div>
     </div>
 </nav>

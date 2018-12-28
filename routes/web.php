@@ -21,7 +21,7 @@ Route::get('new', function () {return view('guest.welcome');});
 
 // Guest Pages 
 
-Route::get('welcome', function () {return view('welcome');});
+Route::get('welcome', function () {return view('guest.welcome');});
 
 Route::get('project', function () {return view('guest.project');});
 
