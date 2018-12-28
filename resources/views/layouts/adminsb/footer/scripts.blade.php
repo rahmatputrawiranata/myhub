@@ -17,3 +17,6 @@
 
     <!-- Demo Js -->
     <script src="{{ asset('bower_components/admin-md/js/demo.js')}}"></script>
+
+     <!-- tooltip Js -->
+    <script src="{{ asset('bower_components/admin-md/js/pages/ui/tooltips-popovers.js')}}"></script>

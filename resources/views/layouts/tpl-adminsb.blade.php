@@ -27,10 +27,11 @@
 
 
     <!-- Overlay For Sidebars -->
-    <div class="overlay"></div>
+    <div class="overlay">
+    </div>
     <!-- #END# Overlay For Sidebars -->
-
-
+    
+    
     <!-- Search Bar -->
     <div class="search-bar">
         <div class="search-icon">
@@ -41,6 +42,7 @@
             <i class="material-icons">close</i>
         </div>
     </div>
+    
     <!-- #END# Search Bar -->
 
     <!-- Top Bar -->
