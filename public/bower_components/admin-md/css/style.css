@@ -2368,7 +2368,14 @@ body {
   -o-transition: all 0.5s;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
-  font-family: 'Roboto', Arial, Tahoma, sans-serif; }
+  font-family: 'Roboto', Arial, Tahoma, sans-serif;
+display: flex;
+    min-height: 100vh;
+    flex-direction: column; }
+
+main {
+    flex: 1 0 auto;
+  }
 
 h1,
 h2,

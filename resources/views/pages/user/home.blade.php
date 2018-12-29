@@ -1,25 +1,31 @@
 @extends('layouts.tpl-adminsb')
 
 @section('title')
-PORTFOLIO
+Profile
 @endsection
 
 @section('extra-css')
 
-<!-- Bootstrap Core Css -->
-<link href="{{ asset('bower_components/admin-md/plugins/bootstrap/css/bootstrap.css')}}" rel="stylesheet">
+<!-- Dropzone Css -->
+    <link href="{{ asset('bower_components/admin-md/plugins/dropzone/dropzone.css')}}" rel="stylesheet">
 
 <!-- Waves Effect Css -->
-<link href="{{ asset('bower_components/admin-md/plugins/node-waves/waves.css')}}" rel="stylesheet" />
+    <link href="{{ asset('bower_components/admin-md/plugins/node-waves/waves.css')}}" rel="stylesheet" />
 
-<!-- Animation Css -->
-<link href="{{ asset('bower_components/admin-md/plugins/animate-css/animate.css')}}" rel="stylesheet" />
+    <!-- Animation Css -->
+    <link href="{{ asset('bower_components/admin-md/plugins/animate-css/animate.css')}}" rel="stylesheet" />
 
-<!-- Custom Css -->
-<link href="{{ asset('bower_components/admin-md/css/style.css')}}" rel="stylesheet">
+<!-- Bootstrap Material Datetime Picker Css -->
+<link href="{{ asset('bower_components/admin-md/plugins/bootstrap-material-datetimepicker/css/bootstrap-material-datetimepicker.css')}}" rel="stylesheet" />
 
-<!-- AdminBSB Themes. You can choose a theme from css/themes instead of get all themes -->
-<link href="{{ asset('bower_components/admin-md/css/themes/all-themes.css')}}" rel="stylesheet" />
+<!-- Bootstrap DatePicker Css -->
+<link href="{{ asset('bower_components/admin-md/plugins/bootstrap-datepicker/css/bootstrap-datepicker.css')}}" rel="stylesheet" />
+
+<!-- Wait Me Css -->
+<link href="{{ asset('bower_components/admin-md/plugins/waitme/waitMe.css')}}" rel="stylesheet" />
+
+<!-- Bootstrap Select Css -->
+<link href="{{ asset('bower_components/admin-md/plugins/bootstrap-select/css/bootstrap-select.css')}}" rel="stylesheet" />
 @endsection
 
 @section('content')
@@ -38,7 +44,30 @@ PORTFOLIO
 
 @section('extra-script')
 
-<script src="{{ asset('bower_components/admin-md/js/pages/examples/profile.js')}}"></script>
+!-- Autosize Plugin Js -->
+<script src="{{ asset('bower_components/admin-md/plugins/bootstrap-select/js/bootstrap-select.js')}}"></script>
+
+!-- Autosize Plugin Js -->
+<script src="{{ asset('bower_components/admin-md/plugins/autosize/autosize.js')}}"></script>
+
+<!-- Moment Plugin Js -->
+<script src="{{ asset('bower_components/admin-md/plugins/momentjs/moment.js')}}"></script>
+
+<!-- Bootstrap Material Datetime Picker Plugin Js -->
+<script src="{{ asset('bower_components/admin-md/plugins/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js')}}"></script>
+
+<!-- Bootstrap Datepicker Plugin Js -->
+<script src="{{ asset('bower_components/admin-md/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js')}}"></script>
+
+<!-- Dropzone Plugin Js -->
+    <script src="{{ asset('bower_components/plugins/dropzone/dropzone.js')}}"></script>
+
+<!-- Custom Js -->
+<script src="{{ asset('bower_components/admin-md/js/admin.js')}}"></script>
+<script src="{{ asset('bower_components/admin-md/js/pages/forms/basic-form-elements.js')}}"></script>
+
+<!-- Demo Js -->
+<script src="{{ asset('bower_components/admin-md/js/demo.js')}}"></script>
 
 
 

@@ -2,7 +2,7 @@
   <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
     <div class="card">
       <div class="header">
-        <h2>
+        <h2 class="text-uppercase">
           @yield('title')
         </h2>
         <ul class="header-dropdown m-r--5">

@@ -24,8 +24,8 @@
         </div>
     </div>
     <!-- #END# Page Loader -->
-
-
+    
+    
     <!-- Overlay For Sidebars -->
     <div class="overlay">
     </div>
@@ -44,40 +44,38 @@
     </div>
     
     <!-- #END# Search Bar -->
-
+    
     <!-- Top Bar -->
     @include('layouts.adminsb.top.bar')
     <!-- #Top Bar -->
-
-
+    
+    
     <section>
-
+        
         <!-- Left Sidebar -->
         @include('layouts.adminsb.sidebar.left')
         <!-- #END# Left Sidebar -->
-
-
-        <!-- Right Sidebar -->
+        
+         <!-- Right Sidebar -->
         @include('layouts.adminsb.sidebar.right')
         <!-- #END# Right Sidebar -->
-
+        
+        
     </section>
     
     <section class="content">
-
+        
         <div class="container-fluid">
             <div class="block-header">
                 @yield('content')
             </div>
+            <!-- Footer -->
+        @include('layouts.adminsb.footer.default')
+        <!-- #Footer -->
         </div>
-        <!-- Footer -->
-    @include('layouts.adminsb.footer.default')
-    <!-- #Footer -->
-
+        
     </section>
-
-<section>
-</section>
+    
     <!-- Jquery Core Js -->
     @include('layouts.adminsb.footer.scripts')
     

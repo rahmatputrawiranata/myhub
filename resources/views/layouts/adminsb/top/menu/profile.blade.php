@@ -4,8 +4,7 @@
     </a>
     <ul class="dropdown-menu">
         <li class="header">PROFILE</li>
-        <li class="body">
-            <ul class="menu">
+        <ul class="menu">
                 <li>
                     <a href="javascript:void(0);">
                         <div class="icon-circle bg-light-green">
@@ -98,8 +97,7 @@
                     </a>
                 </li>
             </ul>
-        </li>
-        <li class="footer">
+        <li class="body">
             <a href="{{ asset('user/home')}}">MY PROFILE</a>
         </li>
     </ul>
