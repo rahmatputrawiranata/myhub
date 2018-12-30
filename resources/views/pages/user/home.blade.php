@@ -44,10 +44,10 @@ Profile
 
 @section('extra-script')
 
-!-- Autosize Plugin Js -->
+<!-- Autosize Plugin Js -->
 <script src="{{ asset('bower_components/admin-md/plugins/bootstrap-select/js/bootstrap-select.js')}}"></script>
 
-!-- Autosize Plugin Js -->
+<!-- Autosize Plugin Js -->
 <script src="{{ asset('bower_components/admin-md/plugins/autosize/autosize.js')}}"></script>
 
 <!-- Moment Plugin Js -->

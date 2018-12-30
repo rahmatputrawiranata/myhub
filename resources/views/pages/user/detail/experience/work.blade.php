@@ -191,8 +191,8 @@
                 <label for="basic_checkbox_1">I currently work in this role</label>
             </div>
             <div class="demo-checkbox">
-                <input type="checkbox" id="basic_checkbox_1" />
-                <label for="basic_checkbox_1">Industry</label>
+                <input type="checkbox" id="basic_checkbox_2" />
+                <label for="basic_checkbox_2">Industry</label>
             </div>
         </div>
     </div>
