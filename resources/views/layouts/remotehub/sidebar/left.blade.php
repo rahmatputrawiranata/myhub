@@ -6,4 +6,5 @@
     @include('layouts.remotehub.sidebar.menu.left')
     <!-- #Menu -->
 
+    
 </aside>

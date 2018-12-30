@@ -1,6 +1,6 @@
 <li class="dropdown">
     <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button">
-        <i class="material-icons">face</i>
+        <i class="material-icons">person_outline</i>
     </a>
     <ul class="dropdown-menu">
         <li class="header">PROFILE</li>

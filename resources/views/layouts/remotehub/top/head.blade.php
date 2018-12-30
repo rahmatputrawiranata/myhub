@@ -17,10 +17,11 @@
 
 
 <!-- Materialize  -->
-{{-- <link href="{{ asset('bower_components/materialize/dist/css/materialize.css')}}" type="text/css" rel="stylesheet" media="screen,projection"/> --}}
+{{-- <link href="{{ asset('bower_components/materialize/css/materialize.min.css')}}" type="text/css" rel="stylesheet" media="screen,projection"/> --}}
 
 <!-- Custom Css -->
 <link href="{{ asset('bower_components/admin-md/css/style.css')}}" type="text/css" rel="stylesheet" media="screen,projection"/>
+<link href="{{ asset('bower_components/admin-md/css/all-color.css')}}" type="text/css" rel="stylesheet" media="screen,projection"/>
 
  <!-- AdminBSB Themes. You can choose a theme from css/themes instead of get all themes -->
     <link href="{{ asset('bower_components/admin-md/css/themes/all-themes.css')}}" rel="stylesheet" />

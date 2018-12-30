@@ -1,4 +1,4 @@
-@extends('layouts.tpl-adminsb')
+@extends('layouts.tpl-remotehub')
 
 @section('title', 'NetworkHUB')
 

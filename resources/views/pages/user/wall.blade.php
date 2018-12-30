@@ -36,10 +36,7 @@ Hub Info
                         @yield('title')
                     </h2>
                     <ul class="header-dropdown m-r--5">
-                        <li class="dropdown">
-                            <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                                <i class="material-icons">more_vert</i>
-                            </a>
+                        <li class="dropdown"><a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="material-icons">more_vert</i></a>
                             <ul class="dropdown-menu pull-right">
                                 <li><a href="{{ url('/home')}}" class=" waves-effect waves-block">Home</a></li>
                                 <li><a href="{{ url('remotehub/home')}}" class=" waves-effect waves-block">REMOTEHUB</a></li>
@@ -112,28 +109,33 @@ Hub Info
     </div>
 </div>
 <div class="fixed-action-btn direction-left">
-    <a class="btn-floating btn-large red">
-        <i class="material-icons">mode_edit</i>
+    <a class="btn-floating btn-large orange">
+        <i class="material-icons">add</i>
     </a>
     <ul>
         <li>
-            <a class="btn-floating red">
-                <i class="material-icons">insert_chart</i>
+            <a href="{{ url('jobs/home')}}" class="btn-floating btn light-blue">
+                <i class="material-icons">airline_seat_recline_extra</i>
             </a>
         </li>
         <li>
-            <a class="btn-floating yellow darken-1">
-                <i class="material-icons">format_quote</i>
+            <a href="{{ url('market/home')}}" class="btn-floating btn light-blue">
+                <i class="material-icons">touch_app</i>
             </a>
         </li>
         <li>
-            <a class="btn-floating green">
-                <i class="material-icons">publish</i>
+            <a href="{{ url('events/home')}}" class="btn-floating btn light-blue">
+                <i class="material-icons">important_devices</i>
             </a>
         </li>
         <li>
-            <a class="btn-floating blue">
-                <i class="material-icons">attach_file</i>
+            <a href="{{ url('remotehub/home')}}" class="btn-floating btn light-blue">
+                <i class="material-icons">beach_access</i>
+            </a>
+        </li>
+        <li>
+            <a class="btn-floating btn-large blue">
+                <i class="material-icons">border_color</i>
             </a>
         </li>
     </ul>

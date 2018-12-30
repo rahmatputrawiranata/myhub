@@ -49,8 +49,10 @@
         @yield('content')
         
       </div>
+      
       @include('layouts.remotehub.footer.default')
     </div>
+    
   </section>
   
   
