@@ -1,6 +1,5 @@
-<div class="card  ">
-  <div class="header">
-    <h3 class="box-title">My Videos</h3>
+<div class="header">
+    <h2>MY VIDEOS</h2>
     
   </div>
   <div class="body">
@@ -107,4 +106,3 @@
       </div>
     </div>
   </div>
-</div>

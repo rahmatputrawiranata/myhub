@@ -1,83 +1,86 @@
-(function($) {
-  $(function() {
-    var window_width = $(window).width();
-
-    // convert rgb to hex value string
-    function rgb2hex(rgb) {
-      if (/^#[0-9A-F]{6}$/i.test(rgb)) {
-        return rgb;
-      }
-
-      rgb = rgb.match(/^rgb\((\d+),\s*(\d+),\s*(\d+)\)$/);
-
-      if (rgb === null) {
-        return 'N/A';
-      }
-
-      function hex(x) {
-        return ('0' + parseInt(x).toString(16)).slice(-2);
-      }
-
-      return '#' + hex(rgb[1]) + hex(rgb[2]) + hex(rgb[3]);
-    }
-
-    $('.dynamic-color .col').each(function() {
-      $(this)
-        .children()
-        .each(function() {
-          var color = $(this).css('background-color'),
-            classes = $(this).attr('class');
-          $(this).html('<span>' + rgb2hex(color) + ' ' + classes + '</span>');
-          if (classes.indexOf('darken') >= 0 || $(this).hasClass('black')) {
-            $(this).css('color', 'rgba(255,255,255,.9');
-          }
-        });
-    });
-
-    // Floating-Fixed table of contents
-    setTimeout(function() {
-      var tocWrapperHeight = 260; // Max height of ads.
-      var tocHeight = $('.toc-wrapper .table-of-contents').length
-        ? $('.toc-wrapper .table-of-contents').height()
-        : 0;
-      var socialHeight = 95; // Height of unloaded social media in footer.
-      var footerOffset = $('body > footer').first().length
-        ? $('body > footer')
-            .first()
-            .offset().top
-        : 0;
-      var bottomOffset = footerOffset - socialHeight - tocHeight - tocWrapperHeight;
-
-      if ($('nav').length) {
-        console.log('Nav pushpin', $('nav').height());
-        $('.toc-wrapper').pushpin({
-          top: $('nav').height(),
-          bottom: bottomOffset
-        });
-      } else if ($('#index-banner').length) {
-        $('.toc-wrapper').pushpin({
-          top: $('#index-banner').height(),
-          bottom: bottomOffset
-        });
-      } else {
-        $('.toc-wrapper').pushpin({
-          top: 0,
-          bottom: bottomOffset
-        });
-      }
-    }, 100);
-
-    // Fab
-    $('.fixed-action-btn').floatingActionButton();
-    $('.fixed-action-btn.horizontal').floatingActionButton({
-      direction: 'left'
-    });
-    $('.fixed-action-btn.click-to-toggle').floatingActionButton({
-      direction: 'left',
-      hoverEnabled: false
-    });
-    $('.fixed-action-btn.toolbar').floatingActionButton({
-      toolbarEnabled: true
-    });
-  }); // end of document ready
-})(jQuery); // end of jQuery name space
+<div class="card">
+  <div class="header">
+    <h3 class="title">My Network</h3>
+    
+    <div class=" pull-right">
+      <span class="label label-danger">8 New Members</span>
+      <button type="button" class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i>
+      </button>
+      <button type="button" class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i>
+      </button>
+    </div>
+  </div>
+  <!-- /.box-header -->
+  <div class="row">
+    <div class="body col-md-12">
+      <div class="body col-md-4">
+        <div class="image-area"><img src="{{ asset('img/user1-128x128.jpg')}}"alt="User Image"></div>
+        <div class="content-area">
+          <a class="btn btn-default" href="#">Alexamder Pierce</a>
+          <span class="label label-danger pull-right">Today</span>
+        </div>   
+      </div>
+      <div class="body col-md-4">
+        <div class="image-area"><img src="{{ asset('img/user8-128x128.jpg')}}"alt="User Image"></div>
+        <div class="content-area">
+          <a class="btn btn-default" href="#">Norman</a>
+          <span class="label label-danger pull-right">Yesterday</span>
+        </div>
+      </div>
+      <div class="body col-md-4">
+        <div class="image-area"><img src="{{ asset('img/user7-128x128.jpg')}}"alt="User Image"></div>
+        <div class="content-area">
+          <a class="btn btn-default" href="#">Jane</a>
+          <span class="label label-danger pull-right">12 Jan</span>
+          
+        </div>    
+      </div>
+      <div class="body col-md-4">
+        <div class="image-area"><img src="{{ asset('img/user6-128x128.jpg')}}"alt="User Image"></div>
+        <div class="content-area">
+          <a class="btn btn-default" href="#">John</a>
+          <span class="label label-danger pull-right">12 Jan</span>
+          
+        </div>    
+      </div>
+      <div class="body col-md-4">
+        <div class="image-area"><img src="{{ asset('img/user2-160x160.jpg')}}"alt="User Image"></div>
+        <div class="content-area">
+          <a class="btn btn-default" href="#">Alexamder</a>
+          <span class="label label-danger pull-right">13 Jan</span>
+          
+        </div>    
+      </div>
+      <div class="body col-md-4">
+        <div class="image-area"><img src="{{ asset('img/user5-128x128.jpg')}}"alt="User Image"></div>
+        <div class="content-area">
+          <a class="btn btn-default" href="#">Sarah</a>
+          <span class="label label-danger pull-right">14 Jan</span>
+          
+        </div>    
+      </div>
+      <div class="body col-md-4">
+        <div class="image-area"><img src="{{ asset('img/user4-128x128.jpg')}}"alt="User Image"></div>
+        <div class="content-area">
+          <a class="btn btn-default" href="#">Nora</a>
+          <span class="label label-danger pull-right">15 Jan</span>
+          
+        </div>    
+      </div>
+      <div class="body col-md-4">
+        <div class="image-area"><img src="{{ asset('img/user3-128x128.jpg')}}"alt="User Image"></div>
+        <div class="content-area">
+          <a class="btn btn-default" href="#">Nadia</a>
+          <span class="label label-danger pull-right">15 Jan</span>
+          
+        </div>    
+      </div>
+    </div>
+    <!-- /.users-list -->
+  </div>
+  <!-- /.box-body -->
+  <div class="box-footer text-center">
+    <a href="javascript:void(0)" class="uppercase">View All Users</a>
+  </div>
+  <!-- /.box-footer -->
+</div>

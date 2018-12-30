@@ -1,5 +1,7 @@
+<div class="header">
+    <h2 class="card-inside-title">ADD WORK EXPERIENCE..</h2>
+</div>
 <div class="body">
-    <h2 class="card-inside-title">Add Work experience..</h2>
     <div class="row clearfix">
         <div class="col-sm-12">
             <div class="form-group">

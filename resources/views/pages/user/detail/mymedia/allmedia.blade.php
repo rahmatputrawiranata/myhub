@@ -1,6 +1,5 @@
-<div class="card">
-  <div class="header">
-    <h3 >Recently Added Media</h3>
+<div class="header">
+    <h2 >RECENTLY ADDED MEDIA</h2>
   </div>
   <!-- /.box-header -->
   <div class="body">
@@ -63,4 +62,3 @@
     <a href="javascript:void(0)" class="btn btn-block uppercase">View All Products</a>
   </div>
   <!-- /.box-footer -->
-</div>
