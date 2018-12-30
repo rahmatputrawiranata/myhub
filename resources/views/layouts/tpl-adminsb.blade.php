@@ -69,7 +69,6 @@
             <div class="block-header">
                 @yield('content')
             </div>
-
             
             <!-- Footer -->
             @include('layouts.adminsb.footer.default')
