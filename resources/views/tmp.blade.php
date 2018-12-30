@@ -1,51 +1,83 @@
-<div class="nav-tabs-custom">
-            <ul class="nav nav-tabs">
-              <li class="active"><a href="#tab0" data-toggle="tab">tab0</a></li>
-              <li><a href="#tab1" data-toggle="tab">tab1</a></li>
-              <li><a href="#tab2" data-toggle="tab">tab2</a></li>
-              <li><a href="#tab3" data-toggle="tab">tab3</a></li>
-              <li><a href="#tab4" data-toggle="tab">tab4</a></li>
-              <li><a href="#tab5" data-toggle="tab">tab5</a></li>
-            </ul>
-            <div class="tab-content">
-              <div class="active tab-pane" id="tab0">
-                tab0
-              </div>
-              <!-- /.tab-pane -->
+(function($) {
+  $(function() {
+    var window_width = $(window).width();
 
-              <div class="tab-pane" id="tab1">
-                <!-- Networks -->
-                tab1
-                
-              </div>
-              <!-- /.tab-pane -->
+    // convert rgb to hex value string
+    function rgb2hex(rgb) {
+      if (/^#[0-9A-F]{6}$/i.test(rgb)) {
+        return rgb;
+      }
 
-              <div class="tab-pane" id="tab2">
-                <!-- tab2 -->
-                tab2
-                
-              </div>
-              <!-- /.tab-pane -->
+      rgb = rgb.match(/^rgb\((\d+),\s*(\d+),\s*(\d+)\)$/);
 
-              <div class="tab-pane" id="tab3">
-                <!-- tab3 -->
-                tab3
-                
-              </div>
-              <!-- /.tab-pane -->
+      if (rgb === null) {
+        return 'N/A';
+      }
 
-              <div class="tab-pane" id="tab4">
-                <!-- tab4 -->
-                tab4
-                
-              </div>
-              <!-- /.tab-pane -->
+      function hex(x) {
+        return ('0' + parseInt(x).toString(16)).slice(-2);
+      }
 
-              <div class="tab-pane" id="tab5">
-                tab5
-              </div>
-              <!-- /.tab-pane -->
-            </div>
-            <!-- /.tab-content -->
-          </div>
-          <!-- /.nav-tabs-custom -->
+      return '#' + hex(rgb[1]) + hex(rgb[2]) + hex(rgb[3]);
+    }
+
+    $('.dynamic-color .col').each(function() {
+      $(this)
+        .children()
+        .each(function() {
+          var color = $(this).css('background-color'),
+            classes = $(this).attr('class');
+          $(this).html('<span>' + rgb2hex(color) + ' ' + classes + '</span>');
+          if (classes.indexOf('darken') >= 0 || $(this).hasClass('black')) {
+            $(this).css('color', 'rgba(255,255,255,.9');
+          }
+        });
+    });
+
+    // Floating-Fixed table of contents
+    setTimeout(function() {
+      var tocWrapperHeight = 260; // Max height of ads.
+      var tocHeight = $('.toc-wrapper .table-of-contents').length
+        ? $('.toc-wrapper .table-of-contents').height()
+        : 0;
+      var socialHeight = 95; // Height of unloaded social media in footer.
+      var footerOffset = $('body > footer').first().length
+        ? $('body > footer')
+            .first()
+            .offset().top
+        : 0;
+      var bottomOffset = footerOffset - socialHeight - tocHeight - tocWrapperHeight;
+
+      if ($('nav').length) {
+        console.log('Nav pushpin', $('nav').height());
+        $('.toc-wrapper').pushpin({
+          top: $('nav').height(),
+          bottom: bottomOffset
+        });
+      } else if ($('#index-banner').length) {
+        $('.toc-wrapper').pushpin({
+          top: $('#index-banner').height(),
+          bottom: bottomOffset
+        });
+      } else {
+        $('.toc-wrapper').pushpin({
+          top: 0,
+          bottom: bottomOffset
+        });
+      }
+    }, 100);
+
+    // Fab
+    $('.fixed-action-btn').floatingActionButton();
+    $('.fixed-action-btn.horizontal').floatingActionButton({
+      direction: 'left'
+    });
+    $('.fixed-action-btn.click-to-toggle').floatingActionButton({
+      direction: 'left',
+      hoverEnabled: false
+    });
+    $('.fixed-action-btn.toolbar').floatingActionButton({
+      toolbarEnabled: true
+    });
+  }); // end of document ready
+})(jQuery); // end of jQuery name space

@@ -56,7 +56,7 @@
         @include('layouts.adminsb.sidebar.left')
         <!-- #END# Left Sidebar -->
         
-         <!-- Right Sidebar -->
+        <!-- Right Sidebar -->
         @include('layouts.adminsb.sidebar.right')
         <!-- #END# Right Sidebar -->
         
@@ -69,17 +69,22 @@
             <div class="block-header">
                 @yield('content')
             </div>
+
+            
             <!-- Footer -->
-        @include('layouts.adminsb.footer.default')
-        <!-- #Footer -->
+            @include('layouts.adminsb.footer.default')
+            <!-- #Footer -->
         </div>
+        @yield('extra-script')
+    </section>
+    
+    <section>
         
     </section>
     
     <!-- Jquery Core Js -->
     @include('layouts.adminsb.footer.scripts')
     
-    @yield('extra-script')
     
 </body>
 

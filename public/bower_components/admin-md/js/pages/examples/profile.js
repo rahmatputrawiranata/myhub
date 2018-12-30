@@ -1,3 +1,3 @@
-﻿$(function () {
-    
-});
+﻿(function () {
+   
+}); // end of document ready

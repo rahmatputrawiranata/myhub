@@ -1,7 +1,7 @@
 @extends('layouts.tpl-adminsb')
 
 @section('title')
-Home
+Timeline
 @endsection
 
 @section('extra-css')
@@ -17,6 +17,10 @@ Home
 
 <!-- Custom Css -->
 <link href="{{ asset('bower_components/admin-md/css/style.css')}}" rel="stylesheet">
+<link href="{{ asset('bower_components/admin-md/css/fixed-button.css')}}" rel="stylesheet">
+
+<!-- Custom Css -->
+{{-- <link href="{{ asset('bower_components/materialize/dist/css/materialize.min.css')}}" rel="stylesheet"> --}}
 
 <!-- AdminBSB Themes. You can choose a theme from css/themes instead of get all themes -->
 <link href="{{ asset('bower_components/admin-md/css/themes/all-themes.css')}}" rel="stylesheet" />
@@ -243,15 +247,50 @@ Home
         </div>
     </div>
 </div>
-
+<div class="fixed-action-btn direction-left">
+    <a class="btn-floating btn-large red">
+        <i class="material-icons">mode_edit</i>
+    </a>
+    <ul>
+        <li>
+            <a class="btn-floating red">
+                <i class="material-icons">insert_chart</i>
+            </a>
+        </li>
+        <li>
+            <a class="btn-floating yellow darken-1">
+                <i class="material-icons">format_quote</i>
+            </a>
+        </li>
+        <li>
+            <a class="btn-floating green">
+                <i class="material-icons">publish</i>
+            </a>
+        </li>
+        <li>
+            <a class="btn-floating blue">
+                <i class="material-icons">attach_file</i>
+            </a>
+        </li>
+    </ul>
+</div>
 @endsection
 
 
 @section('extra-script')
+{{-- <script src="{{ asset('bower_components/admin-md/js/fixed-button.js')}}"></script> --}}
 
-<script src="{{ asset('bower_components/admin-md/js/pages/examples/profile.js')}}"></script>
+<script src="{{ asset('bower_components/materialize/js/buttons.js')}}"></script>
+<script src="{{ asset('bower_components/materialize/js/cash.js')}}"></script>
+<script src="{{ asset('bower_components/materialize/js/anime.min.js')}}"></script>
+<script src="{{ asset('bower_components/materialize/docs/js/init.js')}}"></script>
+<script src="{{ asset('bower_components/materialize/docs/js/jquery.timeago.min.js')}}"></script>
+<script src="{{ asset('bower_components/materialize/docs/js/lunr.min.js')}}"></script>
+<script src="{{ asset('bower_components/materialize/docs/js/prism.js')}}"></script>
+<script src="{{ asset('bower_components/materialize/docs/js/search.js')}}"></script>
 
-
-
-
+<script>
+    
+    
+</script>
 @endsection

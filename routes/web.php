@@ -29,6 +29,8 @@ Route::get('member', function () {return view('guest.member');});
 
 Route::get('myhub', function () {return view('guest.myhub');});
 
+Route::get('tmp', function () {return view('tmp');});
+
 
 
 Auth::routes();

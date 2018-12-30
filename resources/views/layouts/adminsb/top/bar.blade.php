@@ -39,9 +39,9 @@
                 
                 <li class="pull-right"><a href="javascript:void(0);" class="js-right-sidebar" data-close="true"><i class="material-icons">format_color_fill</i></a></li>
             </ul>
-            <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+            {{-- <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                 @csrf
-            </form>
+            </form> --}}
         </div>
     </div>
 </nav>
