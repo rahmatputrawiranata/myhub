@@ -1,6 +1,6 @@
-<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="{{ asset('bower_components/jquery/dist/jquery.js')}}"></script>
 
-  {{-- <script src="{{ asset('bower_components/materialize/dist/js/materialize.js')}}"></script> --}}
+  <script src="{{ asset('bower_components/materialize/dist/js/materialize.js')}}"></script>
 
   <script src="{{ asset('bower_components/materialize/docs/js/init.js')}}"></script>
 
