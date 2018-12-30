@@ -58,7 +58,7 @@
   
   <!--  Scripts-->
   @include('layouts.remotehub.footer.scripts')
-  
+  @yield('extra-scripts')
   
 </body>
 </html>

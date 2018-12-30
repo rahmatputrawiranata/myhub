@@ -22,9 +22,10 @@
         </div>
     </div>
     
+    
     <div class="row clearfix">
         <div class="col-sm-6">
-            <h2 class="card-inside-title">From*</h2>
+            <h2 class="card-inside-title">To*</h2>
             <select class="form-control show-tick m-t-5">
                 <option value="">-- MONTH --</option>
                 <option value="1">January</option>
@@ -366,19 +367,19 @@
     <div class="row clearfix">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <h2>Media</h2>
-                <p>Add or link to external documents, photos, sites, videos, and presentations.</p>
-                <form action="/" id="frmFileUpload" class="dropzone" method="post" enctype="multipart/form-data">
-                    <div class="dz-message">
-                        <div class="drag-icon-cph">
-                            <i class="material-icons">touch_app</i>
-                        </div>
-                        <h3>Drop files here or click to upload.</h3>
-                        <em>(This is just a demo dropzone. Selected files are <strong>not</strong> actually uploaded.)</em>
+            <p>Add or link to external documents, photos, sites, videos, and presentations.</p>
+            <form action="/" id="frmFileUpload" class="dropzone" method="post" enctype="multipart/form-data">
+                <div class="dz-message">
+                    <div class="drag-icon-cph">
+                        <i class="material-icons">touch_app</i>
                     </div>
-                    <div class="fallback">
-                        <input name="file" type="file" multiple />
-                    </div>
-                </form>
+                    <h3>Drop files here or click to upload.</h3>
+                    <em>(This is just a demo dropzone. Selected files are <strong>not</strong> actually uploaded.)</em>
+                </div>
+                <div class="fallback">
+                    <input name="file" type="file" multiple />
+                </div>
+            </form>
         </div>
     </div>
     
