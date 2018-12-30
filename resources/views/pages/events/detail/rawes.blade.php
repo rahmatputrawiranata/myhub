@@ -1,6 +1,6 @@
 <div class="body">
   <div class="row">
-    <div class="col-sm-6 col-md-3">
+    <div class="col-xs-6 col-md-3">
       <div class="thumbnail">
         <img src="http://placehold.it/500x300">
         <div class="caption">
@@ -15,7 +15,7 @@
         </div>
       </div>
     </div>
-    <div class="col-sm-6 col-md-3">
+    <div class="col-xs-6 col-md-3">
       <div class="thumbnail">
         <img src="http://placehold.it/500x300">
         <div class="caption">
@@ -30,7 +30,7 @@
         </div>
       </div>
     </div>
-    <div class="col-sm-6 col-md-3">
+    <div class="col-xs-6 col-md-3">
       <div class="thumbnail">
         <img src="http://placehold.it/500x300">
         <div class="caption">
@@ -45,7 +45,7 @@
         </div>
       </div>
     </div>
-    <div class="col-sm-6 col-md-3">
+    <div class="col-xs-6 col-md-3">
       <div class="thumbnail">
         <img src="http://placehold.it/500x300">
         <div class="caption">
