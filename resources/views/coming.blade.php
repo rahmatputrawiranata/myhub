@@ -13,8 +13,8 @@
                         <div class="col-md-6 col-sm-8 text-center">
                             <div class="py-7 pr-7 xs-pr-0 xs-py-5 coming-block text-center">
                                 <div class="valign-middle">
-                                    <h1 class="title"> <span class="text-primary"><img src="{{ asset('img/logo-6-dark.png')}}" height="75px" alt=""></span></h1>
-                                    <span class="label-coming theme-text mb-1">Coming Soon</span>
+                                    <img src="{{ asset('img/logo-6-dark.png')}}" height="75px" alt="">
+                                    <h5 class="">K a m i &nbsp;&nbsp;  K e r j a &nbsp;&nbsp;  R e m o t e</h5>
                                     <p><span class="text-primary"><i class="fa fa-coffee "></i> Remote</span><strong class="text-primary">HUB.id</strong>. Digital nomad and remote worker collaborations, scale up, hangout, lifestyle, travelpreneur, work life balance.</p>
                                     <h4 class="text-uppercase mb-0"><i class="icon-envelope-letter icons" aria-hidden="true"></i> Provide your email address!</h4>
                                     <p class="mb-2">We will notify you when site is ready :</p>
