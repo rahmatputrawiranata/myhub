@@ -1,7 +1,7 @@
 <nav class="navbar">
     <div class="container-fluid">
         <div class="navbar-header">
-            <div class="pull-left m-l-40 m-b-10"><a href="{{ url('home')}}"><img src="{{ asset('img/logo-6-mini.png')}}" height="40" alt=""></a></div>
+            <div class="m-t--15"><a href="{{ url('home')}}" class="m-l-40 " ><img src="{{ asset('img/logo-6-mini.png')}}"height="40" alt=""></a></div>
             <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
             <a href="javascript:void(0);" class="bars"></a>
             {{-- <a class="navbar-brand text-uppercase" href="{{ url('home')}}">@yield('title')</a> --}}
@@ -10,7 +10,7 @@
         
         
         <div class="collapse navbar-collapse" id="navbar-collapse">
-            <ul class="nav navbar-nav navbar-right">
+            <ul class="nav navbar-nav navbar-right m-t--15">
                 <li class="pull-right"><a href=" href="{{ route('logout') }}"  onclick="event.preventDefault(); document.getElementById('logout-form').submit();"><i class="material-icons">exit_to_app</i>   </a></li>
                 
                 
