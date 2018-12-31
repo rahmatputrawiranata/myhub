@@ -76,7 +76,7 @@
                   <div class="icon"><i class="fas fa-blog"></i></div>
                   <h4 class="title"><a href="">Content Writing</a></h4>
                   <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident etiro rabeta lingo.</p>
-                  <a class="cta-btn btn-sm btn-primary pull-right" href="login">contact us</a>
+                  <a class="cta-btn btn-sm btn-info pull-right" href="login">contact us</a>
                 </div>
               </div>
               
@@ -85,7 +85,7 @@
                   <div class="icon"><i class="fas fa-copyright"></i></div>
                   <h4 class="title"><a href="">Translator</a></h4>
                   <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum rideta zanox satirente madera</p>
-                  <a class="cta-btn btn-sm btn-primary pull-right" href="login">contact us</a>
+                  <a class="cta-btn btn-sm btn-info pull-right" href="login">contact us</a>
                 </div>
               </div>
               
@@ -94,7 +94,7 @@
                   <div class="icon"><i class="fas fa-fill-drip"></i></div>
                   <h4 class="title"><a href="">UI / UX Design</a></h4>
                   <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata nodera clas.</p>
-                  <a class="cta-btn btn-sm btn-primary pull-right" href="login">contact us</a>
+                  <a class="cta-btn btn-sm btn-info pull-right" href="login">contact us</a>
                 </div>
               </div>
               <div class="col-lg-6">
@@ -102,7 +102,7 @@
                   <div class="icon"><i class="fas fa-hat-wizard"></i></div>
                   <h4 class="title"><a href="">Graphic Design</a></h4>
                   <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum rideta zanox satirente madera</p>
-                  <a class="cta-btn btn-sm btn-primary pull-right" href="login">contact us</a>
+                  <a class="cta-btn btn-sm btn-info pull-right" href="login">contact us</a>
                 </div>
               </div>
               
@@ -111,7 +111,7 @@
                   <div class="icon"><i class="fas fa-chart-line"></i></div>
                   <h4 class="title"><a href="">Digital Marketing</a></h4>
                   <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum rideta zanox satirente madera</p>
-                  <a class="cta-btn btn-sm btn-primary pull-right" href="login">contact us</a>
+                  <a class="cta-btn btn-sm btn-info pull-right" href="login">contact us</a>
                 </div>
               </div>
               
@@ -120,7 +120,7 @@
                   <div class="icon"><i class="fas fa-chalkboard-teacher"></i></div>
                   <h4 class="title"><a href="">Virtual Assistant</a></h4>
                   <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum rideta zanox satirente madera</p>
-                  <a class="cta-btn btn-sm btn-primary pull-right" href="login">contact us</a>
+                  <a class="cta-btn btn-sm btn-info pull-right" href="login">contact us</a>
                 </div>
               </div>
               
@@ -129,7 +129,7 @@
                   <div class="icon"><i class="fas fa-code"></i></div>
                   <h4 class="title"><a href="">Web Development</a></h4>
                   <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur trinige zareta lobur trade.</p>
-                  <a class="cta-btn btn-sm btn-primary pull-right" href="login">contact us</a>
+                  <a class="cta-btn btn-sm btn-info pull-right" href="login">contact us</a>
                 </div>
               </div>
               
@@ -138,7 +138,7 @@
                   <div class="icon"><i class="fas fa-code-branch"></i></div>
                   <h4 class="title"><a href="">Mobile Apps Development</a></h4>
                   <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur trinige zareta lobur trade.</p>
-                  <a class="cta-btn btn-sm btn-primary pull-right" href="login">contact us</a>
+                  <a class="cta-btn btn-sm btn-info pull-right" href="login">contact us</a>
                 </div>
               </div>
               

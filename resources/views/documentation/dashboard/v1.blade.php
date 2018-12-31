@@ -144,7 +144,7 @@
               </p>
               
               <div class="pull-right">
-                <button type="button" class="btn btn-primary btn-sm btn-flat">Open</button>
+                <button type="button" class="btn btn-info btn-sm btn-flat">Open</button>
               </div>
             </div>
             <!-- /.attachment -->
@@ -351,10 +351,10 @@
           <div class="box-header">
             <!-- tools box -->
             <div class="pull-right box-tools">
-              <button type="button" class="btn btn-primary btn-sm daterange pull-right" data-toggle="tooltip"
+              <button type="button" class="btn btn-info btn-sm daterange pull-right" data-toggle="tooltip"
               title="Date range">
               <i class="fa fa-calendar"></i></button>
-              <button type="button" class="btn btn-primary btn-sm pull-right" data-widget="collapse"
+              <button type="button" class="btn btn-info btn-sm pull-right" data-widget="collapse"
               data-toggle="tooltip" title="Collapse" style="margin-right: 5px;">
               <i class="fa fa-minus"></i></button>
             </div>

@@ -50,7 +50,7 @@
                     </li>
                 </ul>
                 
-                <a href="#" class="btn btn-flat btn-primary btn-block"><b>Follow</b></a>
+                <a href="#" class="btn btn-flat btn-info btn-block"><b>Follow</b></a>
             </div>
             <!-- /.box-body -->
         </div>

@@ -40,7 +40,7 @@
               quora plaxo ideeli hulu weebly balihoo...
             </div>
             <div class="timeline-footer">
-              <a class="btn btn-flat btn-primary btn-xs">Read more</a>
+              <a class="btn btn-flat btn-info btn-xs">Read more</a>
               <a class="btn btn-flat btn-danger btn-xs">Delete</a>
             </div>
           </div>
@@ -165,7 +165,7 @@
             &lt;/div>
             
             &lt;div class="timeline-footer">
-            &lt;a class="btn btn-flat btn-primary btn-xs">...&lt;/a>
+            &lt;a class="btn btn-flat btn-info btn-xs">...&lt;/a>
             &lt;/div>
             &lt;/div>
             &lt;/li>

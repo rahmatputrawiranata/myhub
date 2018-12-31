@@ -1,5 +1,6 @@
 <section class="Forms">
   <div class="advanced-form">
+    <script src="{{ asset('bower_components/jquery/dist/jquery.js')}}"></script>
     <!-- Bootstrap Colorpicker Js -->
     <script src="{{ asset('bower_components/admin-md/plugins/bootstrap-colorpicker/js/bootstrap-colorpicker.js')}}"></script>
     

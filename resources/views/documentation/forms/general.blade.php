@@ -44,7 +44,7 @@
               <!-- /.box-body -->
 
               <div class="box-footer">
-                <button type="submit" class="btn btn-flat btn-primary">Submit</button>
+                <button type="submit" class="btn btn-flat btn-info">Submit</button>
               </div>
             </form>
           </div>

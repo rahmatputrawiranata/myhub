@@ -26,5 +26,5 @@
             <span>14.252</span>
         </li>
     </ul>
-    <button class="btn btn-primary btn-lg waves-effect btn-block">FOLLOW</button>
+    <button class="btn btn-info btn-lg waves-effect btn-block">FOLLOW</button>
 </div>

@@ -65,7 +65,7 @@
             <input id="new-event" type="text" class="form-control" placeholder="Event Title">
             
             <div class="input-group-btn">
-              <button id="add-new-event" type="button" class="btn btn-flat btn-primary btn-flat">Add</button>
+              <button id="add-new-event" type="button" class="btn btn-flat btn-info btn-flat">Add</button>
             </div>
             <!-- /btn-group -->
           </div>

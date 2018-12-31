@@ -10,7 +10,7 @@
             text ever since the 1500s
           </p>
           <p>
-            <a href="javascript:void(0);" class="btn btn-primary waves-effect" role="button">BUTTON</a>
+            <a href="javascript:void(0);" class="btn btn-info waves-effect" role="button">BUTTON</a>
           </p>
         </div>
       </div>
@@ -25,7 +25,7 @@
             text ever since the 1500s
           </p>
           <p>
-            <a href="javascript:void(0);" class="btn btn-primary waves-effect" role="button">BUTTON</a>
+            <a href="javascript:void(0);" class="btn btn-info waves-effect" role="button">BUTTON</a>
           </p>
         </div>
       </div>
@@ -40,7 +40,7 @@
             text ever since the 1500s
           </p>
           <p>
-            <a href="javascript:void(0);" class="btn btn-primary waves-effect" role="button">BUTTON</a>
+            <a href="javascript:void(0);" class="btn btn-info waves-effect" role="button">BUTTON</a>
           </p>
         </div>
       </div>
@@ -55,7 +55,7 @@
             text ever since the 1500s
           </p>
           <p>
-            <a href="javascript:void(0);" class="btn btn-primary waves-effect" role="button">BUTTON</a>
+            <a href="javascript:void(0);" class="btn btn-info waves-effect" role="button">BUTTON</a>
           </p>
         </div>
       </div>
@@ -70,7 +70,7 @@
             text ever since the 1500s
           </p>
           <p>
-            <a href="javascript:void(0);" class="btn btn-primary waves-effect" role="button">BUTTON</a>
+            <a href="javascript:void(0);" class="btn btn-info waves-effect" role="button">BUTTON</a>
           </p>
         </div>
       </div>
@@ -85,7 +85,7 @@
             text ever since the 1500s
           </p>
           <p>
-            <a href="javascript:void(0);" class="btn btn-primary waves-effect" role="button">BUTTON</a>
+            <a href="javascript:void(0);" class="btn btn-info waves-effect" role="button">BUTTON</a>
           </p>
         </div>
       </div>
@@ -100,7 +100,7 @@
             text ever since the 1500s
           </p>
           <p>
-            <a href="javascript:void(0);" class="btn btn-primary waves-effect" role="button">BUTTON</a>
+            <a href="javascript:void(0);" class="btn btn-info waves-effect" role="button">BUTTON</a>
           </p>
         </div>
       </div>
@@ -115,7 +115,7 @@
             text ever since the 1500s
           </p>
           <p>
-            <a href="javascript:void(0);" class="btn btn-primary waves-effect" role="button">BUTTON</a>
+            <a href="javascript:void(0);" class="btn btn-info waves-effect" role="button">BUTTON</a>
           </p>
         </div>
       </div>
@@ -130,7 +130,7 @@
             text ever since the 1500s
           </p>
           <p>
-            <a href="javascript:void(0);" class="btn btn-primary waves-effect" role="button">BUTTON</a>
+            <a href="javascript:void(0);" class="btn btn-info waves-effect" role="button">BUTTON</a>
           </p>
         </div>
       </div>
@@ -145,7 +145,7 @@
             text ever since the 1500s
           </p>
           <p>
-            <a href="javascript:void(0);" class="btn btn-primary waves-effect" role="button">BUTTON</a>
+            <a href="javascript:void(0);" class="btn btn-info waves-effect" role="button">BUTTON</a>
           </p>
         </div>
       </div>
@@ -160,7 +160,7 @@
             text ever since the 1500s
           </p>
           <p>
-            <a href="javascript:void(0);" class="btn btn-primary waves-effect" role="button">BUTTON</a>
+            <a href="javascript:void(0);" class="btn btn-info waves-effect" role="button">BUTTON</a>
           </p>
         </div>
       </div>
@@ -175,7 +175,7 @@
             text ever since the 1500s
           </p>
           <p>
-            <a href="javascript:void(0);" class="btn btn-primary waves-effect" role="button">BUTTON</a>
+            <a href="javascript:void(0);" class="btn btn-info waves-effect" role="button">BUTTON</a>
           </p>
         </div>
       </div>

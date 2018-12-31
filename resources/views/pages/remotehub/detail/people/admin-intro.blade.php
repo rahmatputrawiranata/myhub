@@ -4,7 +4,7 @@
       <div class="profile-header"></div>
       <div class="profile-body">
         <div class="image-area">
-          <img src="{{ asset('img/user.jpg')}}" alt="RemotreHUB - Profile Image" />
+          <img src="{{ asset('img/icon/user.png')}}" height="100px" alt="RemotreHUB - Profile Image" />
         </div>
         <div class="content-area">
           <strong> Full Name</strong>
@@ -13,7 +13,7 @@
         </div>
       </div>
       <div class="profile-footer">
-        <button class="btn btn-xs btn-primary btn-lg waves-effect btn-block">FOLLOW</button>
+        <button class="btn btn-xs btn-info btn-lg waves-effect btn-block">FOLLOW</button>
       </div>
     </div>
     <!-- /.Member -->
@@ -24,7 +24,7 @@
       <div class="profile-header"></div>
       <div class="profile-body">
         <div class="image-area">
-          <img src="{{ asset('img/user.jpg')}}" alt="RemotreHUB - Profile Image" />
+          <img src="{{ asset('img/icon/user.png')}}" height="100px"  alt="RemotreHUB - Profile Image" />
         </div>
         <div class="content-area">
           <strong> Full Name</strong>
@@ -33,7 +33,7 @@
         </div>
       </div>
       <div class="profile-footer">
-        <button class="btn btn-xs btn-primary btn-lg waves-effect btn-block">FOLLOW</button>
+        <button class="btn btn-xs btn-info btn-lg waves-effect btn-block">FOLLOW</button>
       </div>
     </div>
     <!-- /.Member -->
@@ -44,7 +44,7 @@
       <div class="profile-header"></div>
       <div class="profile-body">
         <div class="image-area">
-          <img src="{{ asset('img/user.jpg')}}" alt="RemotreHUB - Profile Image" />
+          <img src="{{ asset('img/icon/user.png')}}" height="100px"  alt="RemotreHUB - Profile Image" />
         </div>
         <div class="content-area">
           <strong> Full Name</strong>
@@ -53,7 +53,7 @@
         </div>
       </div>
       <div class="profile-footer">
-        <button class="btn btn-xs btn-primary btn-lg waves-effect btn-block">FOLLOW</button>
+        <button class="btn btn-xs btn-info btn-lg waves-effect btn-block">FOLLOW</button>
       </div>
     </div>
     <!-- /.Member -->
@@ -64,7 +64,7 @@
       <div class="profile-header"></div>
       <div class="profile-body">
         <div class="image-area">
-          <img src="{{ asset('img/user.jpg')}}" alt="RemotreHUB - Profile Image" />
+          <img src="{{ asset('img/icon/user.png')}}" height="100px"  alt="RemotreHUB - Profile Image" />
         </div>
         <div class="content-area">
           <strong> Full Name</strong>
@@ -73,7 +73,7 @@
         </div>
       </div>
       <div class="profile-footer">
-        <button class="btn btn-xs btn-primary btn-lg waves-effect btn-block">FOLLOW</button>
+        <button class="btn btn-xs btn-info btn-lg waves-effect btn-block">FOLLOW</button>
       </div>
     </div>
     <!-- /.Member -->

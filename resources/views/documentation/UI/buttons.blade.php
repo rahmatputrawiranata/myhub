@@ -51,22 +51,22 @@
                 </tr>
                 <tr>
                   <td>
-                    <button type="button" class="btn btn-flat btn-block btn-primary">Primary</button>
+                    <button type="button" class="btn btn-flat btn-block btn-info">Primary</button>
                   </td>
                   <td>
-                    <button type="button" class="btn btn-flat btn-block btn-primary btn-lg">Primary</button>
+                    <button type="button" class="btn btn-flat btn-block btn-info btn-lg">Primary</button>
                   </td>
                   <td>
-                    <button type="button" class="btn btn-flat btn-block btn-primary btn-sm">Primary</button>
+                    <button type="button" class="btn btn-flat btn-block btn-info btn-sm">Primary</button>
                   </td>
                   <td>
-                    <button type="button" class="btn btn-flat btn-block btn-primary btn-xs">Primary</button>
+                    <button type="button" class="btn btn-flat btn-block btn-info btn-xs">Primary</button>
                   </td>
                   <td>
-                    <button type="button" class="btn btn-flat btn-block btn-primary btn-flat">Primary</button>
+                    <button type="button" class="btn btn-flat btn-block btn-info btn-flat">Primary</button>
                   </td>
                   <td>
-                    <button type="button" class="btn btn-flat btn-block btn-primary disabled">Primary</button>
+                    <button type="button" class="btn btn-flat btn-block btn-info disabled">Primary</button>
                   </td>
                 </tr>
                 <tr>

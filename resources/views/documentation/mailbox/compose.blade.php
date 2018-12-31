@@ -13,7 +13,7 @@
 <section class="content">
   <div class="row">
     <div class="col-md-3">
-      <a href="mailbox" class="btn btn-flat btn-primary btn-block margin-bottom">Back to Inbox</a>
+      <a href="mailbox" class="btn btn-flat btn-info btn-block margin-bottom">Back to Inbox</a>
       
       <div class="box box-solid">
         <div class="box-header with-border">
@@ -112,7 +112,7 @@
             <div class="box-footer">
               <div class="pull-right">
                 <button type="button" class="btn btn-flat btn-default"><i class="fa fa-pencil"></i> Draft</button>
-                <button type="submit" class="btn btn-flat btn-primary"><i class="fa fa-envelope-o"></i> Send</button>
+                <button type="submit" class="btn btn-flat btn-info"><i class="fa fa-envelope-o"></i> Send</button>
               </div>
               <button type="reset" class="btn btn-flat btn-default"><i class="fa fa-times"></i> Discard</button>
             </div>

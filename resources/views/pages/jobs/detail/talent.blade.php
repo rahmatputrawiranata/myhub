@@ -13,7 +13,7 @@
                 </div>
             </div>
             <div class="profile-footer">
-                <button class="btn btn-xs btn-primary btn-lg waves-effect btn-block">FOLLOW</button>
+                <button class="btn btn-xs btn-info btn-lg waves-effect btn-block">FOLLOW</button>
             </div>
         </div>
         <!-- /.Member -->
@@ -33,7 +33,7 @@
                 </div>
             </div>
             <div class="profile-footer">
-                <button class="btn btn-xs btn-primary btn-lg waves-effect btn-block">FOLLOW</button>
+                <button class="btn btn-xs btn-info btn-lg waves-effect btn-block">FOLLOW</button>
             </div>
         </div>
         <!-- /.Member -->
@@ -53,7 +53,7 @@
                 </div>
             </div>
             <div class="profile-footer">
-                <button class="btn btn-xs btn-primary btn-lg waves-effect btn-block">FOLLOW</button>
+                <button class="btn btn-xs btn-info btn-lg waves-effect btn-block">FOLLOW</button>
             </div>
         </div>
         <!-- /.Member -->
@@ -73,7 +73,7 @@
                 </div>
             </div>
             <div class="profile-footer">
-                <button class="btn btn-xs btn-primary btn-lg waves-effect btn-block">FOLLOW</button>
+                <button class="btn btn-xs btn-info btn-lg waves-effect btn-block">FOLLOW</button>
             </div>
         </div>
         <!-- /.Member -->
@@ -93,7 +93,7 @@
                 </div>
             </div>
             <div class="profile-footer">
-                <button class="btn btn-xs btn-primary btn-lg waves-effect btn-block">FOLLOW</button>
+                <button class="btn btn-xs btn-info btn-lg waves-effect btn-block">FOLLOW</button>
             </div>
         </div>
         <!-- /.Member -->
@@ -113,7 +113,7 @@
                 </div>
             </div>
             <div class="profile-footer">
-                <button class="btn btn-xs btn-primary btn-lg waves-effect btn-block">FOLLOW</button>
+                <button class="btn btn-xs btn-info btn-lg waves-effect btn-block">FOLLOW</button>
             </div>
         </div>
         <!-- /.Member -->
@@ -133,7 +133,7 @@
                 </div>
             </div>
             <div class="profile-footer">
-                <button class="btn btn-xs btn-primary btn-lg waves-effect btn-block">FOLLOW</button>
+                <button class="btn btn-xs btn-info btn-lg waves-effect btn-block">FOLLOW</button>
             </div>
         </div>
         <!-- /.Member -->
@@ -153,7 +153,7 @@
                 </div>
             </div>
             <div class="profile-footer">
-                <button class="btn btn-xs btn-primary btn-lg waves-effect btn-block">FOLLOW</button>
+                <button class="btn btn-xs btn-info btn-lg waves-effect btn-block">FOLLOW</button>
             </div>
         </div>
         <!-- /.Member -->
@@ -173,7 +173,7 @@
                 </div>
             </div>
             <div class="profile-footer">
-                <button class="btn btn-xs btn-primary btn-lg waves-effect btn-block">FOLLOW</button>
+                <button class="btn btn-xs btn-info btn-lg waves-effect btn-block">FOLLOW</button>
             </div>
         </div>
         <!-- /.Member -->
@@ -193,7 +193,7 @@
                 </div>
             </div>
             <div class="profile-footer">
-                <button class="btn btn-xs btn-primary btn-lg waves-effect btn-block">FOLLOW</button>
+                <button class="btn btn-xs btn-info btn-lg waves-effect btn-block">FOLLOW</button>
             </div>
         </div>
         <!-- /.Member -->
@@ -213,7 +213,7 @@
                 </div>
             </div>
             <div class="profile-footer">
-                <button class="btn btn-xs btn-primary btn-lg waves-effect btn-block">FOLLOW</button>
+                <button class="btn btn-xs btn-info btn-lg waves-effect btn-block">FOLLOW</button>
             </div>
         </div>
         <!-- /.Member -->
@@ -233,7 +233,7 @@
                 </div>
             </div>
             <div class="profile-footer">
-                <button class="btn btn-xs btn-primary btn-lg waves-effect btn-block">FOLLOW</button>
+                <button class="btn btn-xs btn-info btn-lg waves-effect btn-block">FOLLOW</button>
             </div>
         </div>
         <!-- /.Member -->

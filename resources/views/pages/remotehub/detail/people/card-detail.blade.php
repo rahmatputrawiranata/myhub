@@ -15,7 +15,7 @@
                 <span>14.252</span>
             </li>
         </ul>
-        <button class="btn btn-primary btn-lg waves-effect btn-block">FOLLOW</button>
+        <button class="btn btn-info btn-lg waves-effect btn-block">FOLLOW</button>
     </div>
 <div class="card card-about-me">
     <div class="header">
@@ -66,7 +66,7 @@
     </div>
 </div>
   <div class="profile-footer">
-    <button type="button" class="btn btn-block btn-primary waves-effect m-r-20" data-toggle="modal" data-target="#largeModal">Follow</button>
+    <button type="button" class="btn btn-block btn-info waves-effect m-r-20" data-toggle="modal" data-target="#largeModal">Follow</button>
   </div>
 </div>
 <!-- /.Member -->

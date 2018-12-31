@@ -51,14 +51,14 @@
       </div>
       
       @include('layouts.remotehub.footer.default')
+      <!--  Scripts-->
+      @include('layouts.remotehub.footer.scripts')
+      @yield('extra-scripts')
     </div>
     
   </section>
   
   
-  <!--  Scripts-->
-  @include('layouts.remotehub.footer.scripts')
-  @yield('extra-scripts')
   
 </body>
 </html>

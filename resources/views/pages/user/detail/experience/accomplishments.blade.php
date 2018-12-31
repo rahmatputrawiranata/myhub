@@ -1,12 +1,12 @@
 <div class="header">
     <h2>
         ACCOMPLISHMENT
-        <small>Wrap any text and an optional dismiss button in <code>.alert</code> and one of the four contextual classes (e.g., <code>.alert-success</code>) for basic alert messages.</small>
+        
     </h2>
-    <ul class="header-dropdown m-r--5">
+    <ul class="header-dropdown m-r-5">
         <li class="dropdown">
-            <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                <i class="material-icons">playlist_add</i>
+            <a href="javascript:void(0);" class="dropdown-toggle btn btn-xs bg-orange waves-effect md-30" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                <i class="material-icons text-white">add</i>
             </a>
             <ul class="dropdown-menu pull-right">
                 <li><a href="javascript:void(0);" class=" waves-effect waves-block">Certification</a></li>

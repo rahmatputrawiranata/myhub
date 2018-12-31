@@ -35,7 +35,7 @@
                 </li>
               </ul>
 
-              <a href="#" class="btn btn-flat btn-primary btn-block"><b>Follow</b></a>
+              <a href="#" class="btn btn-flat btn-info btn-block"><b>Follow</b></a>
             </div>
             <!-- /.box-body -->
           </div>
@@ -232,7 +232,7 @@
                         quora plaxo ideeli hulu weebly balihoo...
                       </div>
                       <div class="timeline-footer">
-                        <a class="btn btn-flat btn-primary btn-xs">Read more</a>
+                        <a class="btn btn-flat btn-info btn-xs">Read more</a>
                         <a class="btn btn-flat btn-danger btn-xs">Delete</a>
                       </div>
                     </div>
