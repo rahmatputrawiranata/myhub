@@ -5,6 +5,7 @@ Profile
 @endsection
 
 @section('extra-css')
+@include('layouts.remotehub.footer.extra-scripts.ui')
 <!-- Bootstrap Material Datetime Picker Css -->
 <link href="{{ asset('bower_components/admin-md/plugins/bootstrap-material-datetimepicker/css/bootstrap-material-datetimepicker.css')}}" rel="stylesheet" />
 

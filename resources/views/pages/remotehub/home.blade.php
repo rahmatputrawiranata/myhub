@@ -1,7 +1,7 @@
 @extends('layouts.tpl-remotehub')
 
 @section('title')
-REMOTEHUB NETWORKS
+RemoteHUB Networks
 @endsection
 
 @section('extra-css')

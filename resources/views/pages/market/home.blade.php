@@ -1,7 +1,7 @@
 @extends('layouts.tpl-remotehub')
 
 @section('title')
-SOCIAL MARKETPLACE
+Social Marketplace
 @endsection
 
 @section('extra-css')

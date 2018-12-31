@@ -1,7 +1,7 @@
 @extends('layouts.tpl-remotehub')
 
 @section('title')
-EVENTS AND TRAINING
+Events and Training
 @endsection
 
 @section('extra-css')

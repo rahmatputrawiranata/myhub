@@ -1,7 +1,7 @@
 @extends('layouts.tpl-remotehub')
 
 @section('title')
-JOBS AND SKILL SHARING
+Jobs and Skill Sharing
 @endsection
 
 @section('extra-css')
