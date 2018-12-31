@@ -1,19 +1,37 @@
-@extends('adminlte::page')
+@extends('layouts.tpl-remotehub')
 
-@section('title', 'RemoteHUB.id')
+@section('title')
+Kami Kerja Remote
+@endsection
 
-@section('content_header')
-<h1>Heading Title</h1>
-@stop
+@section('extra-css')
+@include('layouts.remotehub.top.extra-css.forms')
+<link rel="stylesheet" href="{{ asset('bower_components/materialize/dist/css/materialize.css')}}">
+@endsection
 
 @section('content')
-<section class="content">
-  
-  <div class="row">
-    <div class="col-md-12">
-    <h3 class="profile-username text-center">Tonny Soerojo S.H.</h3>
-    <p class="text-muted text-center">THSoerojo SH. & Rekan</p>
+<div class="container-fluid">
+    <div class="row clearfix">
+        <div class="col-xs-12">
+           <div class="card">
+             <div class="body">
+                @include('pages.user.wall')
+             </div>
+           </div>
+        </div>
     </div>
-  </div>
-</section>
-@stop
+</div>
+>
+@endsection
+
+
+@section('extra-script')
+
+@include('layouts.remotehub.footer.extra-scripts.forms')
+
+<script src="{{ asset('bower_components/materialize/dist/js/materialize.js')}}"></script>
+<script>
+    
+    
+</script>
+@endsection

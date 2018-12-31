@@ -17,7 +17,7 @@ Route::get('/', function () {
 
 
 Route::get('new', function () {return view('guest.welcome');});
-
+Route::get('blank', function () {return view('pages.user.blank');});
 
 // Guest Pages 
 

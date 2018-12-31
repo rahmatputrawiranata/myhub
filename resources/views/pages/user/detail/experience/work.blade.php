@@ -1,3 +1,4 @@
+@include('layouts.remotehub.top.extra-css.forms')
 <div class="header">
     <h2 class="card-inside-title">ADD WORK EXPERIENCE..</h2>
 </div>
@@ -384,3 +385,4 @@
     </div>
     
 </div>
+@include('layouts.remotehub.footer.extra-scripts.forms')
