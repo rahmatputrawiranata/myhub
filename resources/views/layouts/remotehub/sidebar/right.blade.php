@@ -30,7 +30,7 @@
                     <div class="blue"></div>
                     <span>Blue</span>
                 </li>
-                <li data-theme="light-blue" class="active">
+                <li data-theme="light-blue">
                     <div class="light-blue"></div>
                     <span>Light Blue</span>
                 </li>
@@ -78,7 +78,7 @@
                     <div class="grey"></div>
                     <span>Grey</span>
                 </li>
-                <li data-theme="blue-grey">
+                <li data-theme="blue-grey" class="active">
                     <div class="blue-grey"></div>
                     <span>Blue Grey</span>
                 </li>

@@ -17,7 +17,7 @@
 
 
 <!-- Materialize  -->
-<link href="{{ asset('bower_components/materialize/css/materialize.min.css')}}" type="text/css" rel="stylesheet" media="screen,projection"/>
+<link href="{{ asset('bower_components/admin-md/css/style-2.css')}}" type="text/css" rel="stylesheet" media="screen,projection"/>
 
 <!-- Custom Css -->
 <link href="{{ asset('bower_components/admin-md/css/style.css')}}" type="text/css" rel="stylesheet" media="screen,projection"/>
