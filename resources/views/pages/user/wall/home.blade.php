@@ -1,4 +1,30 @@
 <div class="panel panel-default panel-post">
+    <div class="panel-body">
+        <div class="row clearfix">
+            
+            <div class="col-md-12">
+                <div class="input-group">
+                    <div class="form-line">
+                        <div class="form-group">
+                            <div class="form-line">
+                                <textarea rows="4" class="form-control no-resize" placeholder="Start type what you think..."></textarea>
+                            </div>
+                        </div>
+                    </div>
+                    <span class="input-group-addon">
+                        <img src="{{ asset('img/icon/camera-add.jpg')}}" class=" m-r-10" height="45" alt="">
+                    </span>
+                    <span class="input-group-addon">
+                       <img src="{{ asset('img/icon/video.png')}}" height="40" alt="">
+                    </span>
+                </div>
+                <a href="#">Write article</a> in blog
+            </div>
+            
+        </div>
+    </div>
+</div>
+<div class="panel panel-default panel-post">
     <div class="panel-heading">
         <div class="media">
             <div class="media-left">

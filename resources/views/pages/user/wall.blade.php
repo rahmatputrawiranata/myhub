@@ -90,38 +90,7 @@ Kami Kerja Remote
         </div>
     </div>
 </div>
-<div class="fixed-action-btn direction-left">
-    <a class="btn-floating btn-large orange">
-        <i class="material-icons">add</i>
-    </a>
-    <ul>
-        <li>
-            <a href="{{ url('jobs/home')}}" class="btn-floating btn light-blue">
-                <i class="material-icons">airline_seat_recline_extra</i>
-            </a>
-        </li>
-        <li>
-            <a href="{{ url('market/home')}}" class="btn-floating btn light-blue">
-                <i class="material-icons">touch_app</i>
-            </a>
-        </li>
-        <li>
-            <a href="{{ url('events/home')}}" class="btn-floating btn light-blue">
-                <i class="material-icons">important_devices</i>
-            </a>
-        </li>
-        <li>
-            <a href="{{ url('remotehub/home')}}" class="btn-floating btn light-blue">
-                <i class="material-icons">beach_access</i>
-            </a>
-        </li>
-        <li>
-            <a class="btn-floating btn-large blue">
-                <i class="material-icons">border_color</i>
-            </a>
-        </li>
-    </ul>
-</div>
+
 @endsection
 
 

@@ -22,7 +22,7 @@
                 
                 
                 <!-- Home -->
-                <li class="pull-right"><a href="{{ url('home')}}" ><i class="material-icons">home</i></a></li>
+                {{-- <li class="pull-right"><a href="{{ url('home')}}" ><i class="material-icons">home</i></a></li> --}}
                 <!-- #END# Home -->
             
                 
@@ -35,7 +35,7 @@
                 <!-- #END# Tasks -->
                 
                 <!-- Profile -->
-                @include('layouts.remotehub.top.menu.profile')
+                {{-- @include('layouts.remotehub.top.menu.profile') --}}
                 <!-- #END# Profile -->
                 
                 <div class="pull-right m-t-10"><a href="{{ url('home')}}"><img src="{{ asset('img/logo-6-white.png')}}" height="40" alt=""></a></div>
