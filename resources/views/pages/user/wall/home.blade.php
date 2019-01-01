@@ -1,22 +1,16 @@
 <div class="panel panel-default panel-post">
     <div class="panel-body">
         <div class="body">
-            <div class="col-xs-6 col-sm-8 col-md-10">
-                <div class="input-group">
-                    <div class="form-line">
-                         <textarea rows="1" class="form-control no-resize auto-growth"  style="overflow: hidden; overflow-wrap: break-word; height: 32px;"></textarea><i class="material-icons md-1">create</i> 
-                    </div>
-                    <p>Start type what you think... or <i><a href="#">Creata an article</a></i> for #Hastag</span></p>
+            <div class="input-group">
+                <div class="form-line">
+                    <textarea rows="1" class="form-control no-resize auto-growth"  style="overflow: hidden; overflow-wrap: break-word; height: 32px;"></textarea><i class="material-icons md-1">create</i> 
                 </div>
-            </div>
-            <div class="col-xs-3 col-sm-2 col-md-1">
-                <a href="#"><i class="material-icons m-r-5 md-36 pull-right">ondemand_video</i></a>
-            </div>
-            <div class="col-xs-3 col-sm-2 col-md-1">
-                <a href="#"><i class="material-icons m-r-5 md-30 pull-right">add_a_photo</i></a>
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-12">
-                
+                <p>
+                    Start type what you think... or <i><a href="#">Creata an article</a></i> for #Hastag</span>
+                    <span class="pull-right"><a href="#"><i class="material-icons m-r-5 md-30 pull-right">add_a_photo</i></a></span>
+                    <span class="pull-right"><a href="#"><i class="material-icons m-r-5 md-30 pull-right">ondemand_video</i></a></span>
+                    
+                </p>
             </div>
         </div>
     </div>

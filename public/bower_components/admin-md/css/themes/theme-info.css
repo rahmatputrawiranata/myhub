@@ -1,0 +1,45 @@
+﻿.theme-info .navbar {
+  background-color: #03A9F4; }
+
+.theme-info .navbar-brand {
+  color: #fff; }
+  .theme-info .navbar-brand:hover {
+    color: #fff; }
+  .theme-info .navbar-brand:active {
+    color: #fff; }
+  .theme-info .navbar-brand:focus {
+    color: #fff; }
+
+.theme-info .nav > li > a {
+  color: #fff; }
+  .theme-info .nav > li > a:hover {
+    background-color: transparent; }
+  .theme-info .nav > li > a:focus {
+    background-color: transparent; }
+
+.theme-info .nav .open > a {
+  background-color: transparent; }
+  .theme-info .nav .open > a:hover {
+    background-color: transparent; }
+  .theme-info .nav .open > a:focus {
+    background-color: transparent; }
+
+.theme-info .bars {
+  color: #fff; }
+
+.theme-info .sidebar .menu .list li.active {
+  background-color: transparent; }
+  .theme-info .sidebar .menu .list li.active > :first-child i, .theme-info .sidebar .menu .list li.active > :first-child span {
+    color: #03A9F4; }
+
+.theme-info .sidebar .menu .list .toggled {
+  background-color: transparent; }
+
+.theme-info .sidebar .menu .list .ml-menu {
+  background-color: transparent; }
+
+.theme-info .sidebar .legal {
+  background-color: #fff; }
+  .theme-info .sidebar .legal .copyright a {
+    color: #03A9F4 !important; }
+

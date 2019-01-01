@@ -6,22 +6,14 @@ Kami Kerja Remote
 
 @section('extra-css')
 @include('layouts.remotehub.top.extra-css.forms')
-<link rel="stylesheet" href="{{ asset('bower_components/materialize/dist/css/materialize.css')}}">
+
+
 @endsection
 
 @section('content')
-<div class="container-fluid">
-    <div class="row clearfix">
-        <div class="col-xs-12">
-           <div class="card">
-             <div class="body">
-                @include('pages.user.wall')
-             </div>
-           </div>
-        </div>
-    </div>
-</div>
->
+
+@include('tmp')
+
 @endsection
 
 
@@ -29,7 +21,6 @@ Kami Kerja Remote
 
 @include('layouts.remotehub.footer.extra-scripts.forms')
 
-<script src="{{ asset('bower_components/materialize/dist/js/materialize.js')}}"></script>
 <script>
     
     

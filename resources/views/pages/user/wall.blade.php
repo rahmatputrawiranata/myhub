@@ -104,8 +104,8 @@ Kami Kerja Remote
                         
                     </div>
                     <ul class="list-group">
-                        <li class="list-group-item">Who's viewed your profile <span class="label pull-right bg-blue-grey">14</span></li>
-                        <li class="list-group-item">Network HUB <span class="label pull-right bg-blue-grey">1.299</span></li>
+                        <li class="list-group-item">Who's viewed your profile <span class="label pull-right label-primary">14</span></li>
+                        <li class="list-group-item">Network HUB <span class="label pull-right label-primary">1.299</span></li>
                         <li class="list-group-item"><a href="{{ asset('remotehub/home')}}">View all recommendations</a></li>
                     </ul>
                 </div>
@@ -121,8 +121,8 @@ Kami Kerja Remote
                         </div>
                     </div>
                     <ul class="list-group">
-                        <li class="list-group-item">Page notifications <span class="label pull-right bg-blue-grey">14</span></li>
-                        <li class="list-group-item">Recent visitors <span class="label pull-right bg-blue-grey">99</span></li>
+                        <li class="list-group-item">Page notifications <span class="label pull-right label-primary">14</span></li>
+                        <li class="list-group-item">Recent visitors <span class="label pull-right label-primary">99</span></li>
                         <li class="list-group-item"><a href="{{ asset('#')}}">Share an Update</a></li>
                     </ul>
                 </div>
@@ -131,7 +131,7 @@ Kami Kerja Remote
             <div  class="col-sm-12 col-xs-6">
                 <div class="card">
                     <div class="panel-group full-body" id="accordion_19" role="tablist" aria-multiselectable="true">
-                        <div class="panel panel-col-grey">
+                        <div class="panel panel-success">
                             <div class="panel-heading" role="tab" id="headingOne_19">
                                 <h4 class="panel-title">
                                     <a role="button" data-toggle="collapse" href="#collapseOne_19" aria-expanded="true" aria-controls="collapseOne_19">
@@ -142,13 +142,13 @@ Kami Kerja Remote
                             <div id="collapseOne_19" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne_19">
                                 <ul class="list-group">
                                         <li class="list-group-item">RAWES <span class="label pull-right bg-orange">Tommorow</span></li>
-                                        <li class="list-group-item">MEETUP <span class="label pull-right bg-blue-grey">11-Jan</span></li>
-                                        <li class="list-group-item">WEBINAR <span class="label pull-right bg-blue-grey">11-Jan</span></li>
+                                        <li class="list-group-item">MEETUP <span class="label pull-right label-primary">11-Jan</span></li>
+                                        <li class="list-group-item">WEBINAR <span class="label pull-right label-primary">11-Jan</span></li>
                                         <li class="list-group-item"><a href="{{ asset('events/home')}}">Discover Events</a></li>
                                     </ul>
                             </div>
                         </div>
-                        <div class="panel panel-col-grey">
+                        <div class="panel panel-success">
                             <div class="panel-heading" role="tab" id="headingTwo_19">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" href="#collapseTwo_19" aria-expanded="false" aria-controls="collapseTwo_19">
@@ -158,13 +158,13 @@ Kami Kerja Remote
                             </div>
                             <div id="collapseTwo_19" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo_19">
                                 <ul class="list-group">
-                                        <li class="list-group-item">#Topic 1 <span class="label pull-right bg-blue-grey">14</span></li>
-                                        <li class="list-group-item">#Topic 2 <span class="label pull-right bg-blue-grey">1.299</span></li>
+                                        <li class="list-group-item">#Topic 1 <span class="label pull-right label-primary">14</span></li>
+                                        <li class="list-group-item">#Topic 2 <span class="label pull-right label-primary">1.299</span></li>
                                         <li class="list-group-item"><a href="{{ asset('#')}}">View all recommendations</a></li>
                                     </ul>
                             </div>
                         </div>
-                        <div class="panel panel-col-grey">
+                        <div class="panel panel-success">
                             <div class="panel-heading" role="tab" id="headingThree_19">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" href="#collapseThree_19" aria-expanded="false" aria-controls="collapseThree_19">
@@ -174,14 +174,14 @@ Kami Kerja Remote
                             </div>
                             <div id="collapseThree_19" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree_19">
                                 <ul class="list-group">
-                                        <li class="list-group-item">Bussiness Assistant <span class="label pull-right bg-blue-grey">14</span></li>
-                                        <li class="list-group-item">Creative Hub <span class="label pull-right bg-blue-grey">7</span></li>
-                                        <li class="list-group-item">Developer Hub <span class="label pull-right bg-blue-grey">17</span></li>
+                                        <li class="list-group-item">Bussiness Assistant <span class="label pull-right label-primary">14</span></li>
+                                        <li class="list-group-item">Creative Hub <span class="label pull-right label-primary">7</span></li>
+                                        <li class="list-group-item">Developer Hub <span class="label pull-right label-primary">17</span></li>
                                         <li class="list-group-item"><a href="{{ asset('remotehub/home')}}">Discover More</a></li>
                                     </ul>
                             </div>
                         </div>
-                        <div class="panel panel-col-grey">
+                        <div class="panel panel-success">
                             <div class="panel-heading" role="tab" id="headingFour_19">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" href="#collapseFour_19" aria-expanded="false" aria-controls="collapseFour_19">
@@ -191,9 +191,9 @@ Kami Kerja Remote
                             </div>
                             <div id="collapseFour_19" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour_19">
                                 <ul class="list-group">
-                                        <li class="list-group-item">Jobs <span class="label pull-right bg-blue-grey">3</span></li>
-                                        <li class="list-group-item">Skill Sharing <span class="label pull-right bg-blue-grey">16</span></li>
-                                        <li class="list-group-item">Projects <span class="label pull-right bg-blue-grey">9</span></li>
+                                        <li class="list-group-item">Jobs <span class="label pull-right label-primary">3</span></li>
+                                        <li class="list-group-item">Skill Sharing <span class="label pull-right label-primary">16</span></li>
+                                        <li class="list-group-item">Projects <span class="label pull-right label-primary">9</span></li>
                                         <li class="list-group-item"><a href="{{ asset('jobs/home')}}">View all Opportunity</a></li>
                                     </ul>
                             </div>
