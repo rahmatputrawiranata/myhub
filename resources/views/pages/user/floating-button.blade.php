@@ -1,5 +1,5 @@
 <div class="fixed-action-btn direction-top">
-    <a class="btn-floating btn-large btn-warning">
+    <a class="btn-floating btn-large pulse btn-warning">
         <i class="material-icons md-36">apps</i>
     </a>
     <ul>

@@ -1,12 +1,12 @@
 <nav class="navbar">
     <div class="container-fluid">
         <div class="navbar-header">
-                <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
-                <a href="javascript:void(0);" class="bars"></a>
-                <a class="navbar-brand pull-left " href="{{ url('/home')}}"><img src="{{ asset('img/logo-5-dark.png')}}" height="45px" class="m-l-25 m-t--15" alt=""></a>
-            </div>
+            <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
+            <a href="javascript:void(0);" class="bars"></a>
+            <a class="navbar-brand pull-left " href="{{ url('/home')}}"><img src="{{ asset('img/logo-6-mini-dark.png')}}" height="45px" class="m-l-25 m-t--15" alt=""></a>
+        </div>
         
-     
+        
         
         <div class="collapse navbar-collapse" id="navbar-collapse">
             <ul class="nav navbar-nav navbar-right m-r-10">
@@ -23,7 +23,7 @@
                 <!-- Home -->
                 {{-- <li class="pull-right"><a href="{{ url('home')}}" ><i class="material-icons">home</i></a></li> --}}
                 <!-- #END# Home -->
-            
+                
                 
                 <!-- Notifications -->
                 {{-- @include('layouts.remotehub.top.menu.notif') --}}
@@ -37,7 +37,7 @@
                 {{-- @include('layouts.remotehub.top.menu.profile') --}}
                 <!-- #END# Profile -->
                 
-                <div class="pull-right m-t-10"><a href="{{ url('home')}}"><img src="{{ asset('img/logo-6-dark.png')}}" class="m-b--30" height="30" alt=""></a></div>
+                {{-- <div class="pull-right m-t-10"><a href="{{ url('home')}}"><img src="{{ asset('img/logo-6-dark.png')}}" class="m-b--30" height="30" alt=""></a></div> --}}
             </ul>
             {{-- <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                 @csrf
