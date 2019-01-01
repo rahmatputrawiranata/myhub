@@ -131,7 +131,7 @@ Kami Kerja Remote
             <div  class="col-sm-12 col-xs-6">
                 <div class="card">
                     <div class="panel-group full-body" id="accordion_19" role="tablist" aria-multiselectable="true">
-                        <div class="panel panel-success">
+                        <div class="panel panel-info">
                             <div class="panel-heading" role="tab" id="headingOne_19">
                                 <h4 class="panel-title">
                                     <a role="button" data-toggle="collapse" href="#collapseOne_19" aria-expanded="true" aria-controls="collapseOne_19">
@@ -148,7 +148,7 @@ Kami Kerja Remote
                                     </ul>
                             </div>
                         </div>
-                        <div class="panel panel-success">
+                        <div class="panel panel-info">
                             <div class="panel-heading" role="tab" id="headingTwo_19">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" href="#collapseTwo_19" aria-expanded="false" aria-controls="collapseTwo_19">
@@ -164,7 +164,7 @@ Kami Kerja Remote
                                     </ul>
                             </div>
                         </div>
-                        <div class="panel panel-success">
+                        <div class="panel panel-info">
                             <div class="panel-heading" role="tab" id="headingThree_19">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" href="#collapseThree_19" aria-expanded="false" aria-controls="collapseThree_19">
@@ -181,7 +181,7 @@ Kami Kerja Remote
                                     </ul>
                             </div>
                         </div>
-                        <div class="panel panel-success">
+                        <div class="panel panel-info">
                             <div class="panel-heading" role="tab" id="headingFour_19">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" href="#collapseFour_19" aria-expanded="false" aria-controls="collapseFour_19">

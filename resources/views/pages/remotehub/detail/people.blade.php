@@ -1,6 +1,6 @@
 <div class="card">
     <div class="panel-group" id="memberhub" role="tablist" aria-multiselectable="true">
-        <div class="panel panel-col-cyan">
+        <div class="panel panel-info">
             <div class="panel-heading" role="tab" id="headingOne_10">
                 <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#memberhub" href="#collapseOne_10" aria-expanded="true" aria-controls="collapseOne_10">
@@ -14,7 +14,7 @@
                 </div>
             </div>
         </div>
-        <div class="panel panel-col-cyan">
+        <div class="panel panel-info">
             <div class="panel-heading" role="tab" id="headingTwo_10">
                 <h4 class="panel-title">
                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#memberhub" href="#collapseTwo_10" aria-expanded="false" aria-controls="collapseTwo_10">
@@ -28,7 +28,7 @@
                 </div>
             </div>
         </div>
-        <div class="panel panel-col-cyan">
+        <div class="panel panel-info">
             <div class="panel-heading" role="tab" id="headingThree_10">
                 <h4 class="panel-title">
                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#memberhub" href="#collapseThree_10" aria-expanded="false" aria-controls="collapseThree_10">

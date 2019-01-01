@@ -1,7 +1,7 @@
 <div class="row clearfix">
   <div class="col-xs-12 ol-sm-12 col-md-12 col-lg-12">
     <div class="panel-group" id="experience" role="tablist" aria-multiselectable="true">
-      <div class="panel panel-col-pink">
+      <div class="panel panel-info">
         <div class="panel-heading" role="tab" id="headingOne_17">
           <h4 class="panel-title">
             <a data-toggle="collapse" data-parent="#experience" href="#experienceOne_17" aria-expanded="false" aria-controls="collapseOne_17">
@@ -17,7 +17,7 @@
           </div>
         </div>
       </div>
-      <div class="panel panel-col-cyan">
+      <div class="panel panel-info">
         <div class="panel-heading" role="tab" id="headingTwo_17">
           <h4 class="panel-title">
             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#experience" href="#experienceTwo_17" aria-expanded="false" aria-controls="collapseTwo_17">
@@ -34,7 +34,7 @@
           </div>
         </div>
       </div>
-      <div class="panel panel-col-teal">
+      <div class="panel panel-info">
         <div class="panel-heading" role="tab" id="headingThree_17">
           <h4 class="panel-title">
             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#experience" href="#experienceThree_17" aria-expanded="false" aria-controls="collapseThree_17">
@@ -50,7 +50,7 @@
           </div>
         </div>
       </div>
-      <div class="panel panel-col-orange">
+      <div class="panel panel-info">
         <div class="panel-heading" role="tab" id="headingFour_17">
           <h4 class="panel-title">
             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#experience" href="#experienceFour_17" aria-expanded="false" aria-controls="collapseFour_17">
