@@ -4,7 +4,7 @@
   @include('layouts.remotehub.top.head')
   @yield('extra-css')
 </head>
-<body  class="theme-blue-grey">
+<body  class="theme-white">
   @include('pages.user.floating-button')
   <!-- Page Loader -->
   @include('layouts.remotehub.top.page-loader')

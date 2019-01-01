@@ -1,5 +1,6 @@
 <section class="Forms">
   <div class="advanced-form">
+     <script src="{{ asset('bower_components/admin-md/plugins/jquery/jquery.js')}}"></script>
     <script src="{{ asset('bower_components/jquery/dist/jquery.js')}}"></script>
     <!-- Bootstrap Colorpicker Js -->
     <script src="{{ asset('bower_components/admin-md/plugins/bootstrap-colorpicker/js/bootstrap-colorpicker.js')}}"></script>
@@ -74,5 +75,6 @@
     <!-- Custom Js -->
     <script src="{{ asset('bower_components/admin-md/js/admin.js')}}"></script>
     <script src="{{ asset('bower_components/admin-md/js/pages/forms/form-wizard.js')}}"></script>
+    <script src="{{ asset('bower_components/admin-md/js/pages/forms/basic-form-elements.js')}}"></script>
   </div>
 </section>

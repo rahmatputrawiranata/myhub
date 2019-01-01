@@ -1,23 +1,22 @@
 <nav class="navbar">
     <div class="container-fluid">
         <div class="navbar-header">
-            <div class="m-t--15"><a href="{{ url('home')}}" class="m-l-40 " ><img src="{{ asset('img/logo-6-mini.png')}}"height="40" alt=""></a></div>
-            <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
-            <a href="javascript:void(0);" class="bars"></a>
-            {{-- <a class="navbar-brand text-uppercase" href="{{ url('home')}}">@yield('title')</a> --}}
-            {{-- @include('layouts.remotehub.top.menu.main') --}}
-        </div>
+                <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
+                <a href="javascript:void(0);" class="bars"></a>
+                <a class="navbar-brand pull-left " href="{{ url('/home')}}"><img src="{{ asset('img/logo-6-dark.png')}}" height="45px" class="m-l-25 m-t--15" alt=""></a>
+            </div>
         
+     
         
         <div class="collapse navbar-collapse" id="navbar-collapse">
-            <ul class="nav navbar-nav navbar-right m-t--15">
+            <ul class="nav navbar-nav navbar-right m-r-10">
                 <li class="pull-right"><a href=" href="{{ route('logout') }}"  onclick="event.preventDefault(); document.getElementById('logout-form').submit();"><i class="material-icons">exit_to_app</i>   </a></li>
                 
                 
                 <!-- Call Search -->
                 <li><a href="javascript:void(0);" class="js-search" data-close="true"><i class="material-icons">search</i></a></li>
                 <!-- #END# Call Search -->
-                <li class="pull-right m-b-20"><a href="javascript:void(0);" class="js-right-sidebar" data-close="true"><i class="material-icons md-36">format_color_fill</i></a></li>
+                <li><a href="javascript:void(0);" class="js-right-sidebar" data-close="true"><i class="material-icons">format_color_fill</i></a></li>
                 
                 
                 
