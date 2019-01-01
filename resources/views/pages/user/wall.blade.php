@@ -6,6 +6,8 @@ Kami Kerja Remote
 
 @section('extra-css')
 @include('layouts.remotehub.top.extra-css.forms')
+
+
 {{-- <link rel="stylesheet" href="{{ asset('bower_components/materialize/dist/css/materialize.css')}}"> --}}
 @endsection
 
@@ -213,6 +215,7 @@ Kami Kerja Remote
 
 
 @section('extra-script')
+
 @include('layouts.remotehub.footer.extra-scripts.forms')
 
 <script>

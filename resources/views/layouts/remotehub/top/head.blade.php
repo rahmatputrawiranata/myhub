@@ -6,7 +6,7 @@
 <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&subset=latin,cyrillic-ext" rel="stylesheet" type="text/css">
 {{-- <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" type="text/css"> --}}
 <link href="{{ asset('bower_components/material-icons/iconfont/material-icons.css')}}" rel="stylesheet">
-
+<link rel="stylesheet" href="{{ asset('bower_components/admin-md/css/materialize.css')}}">
 <!-- Materialize  -->
 {{-- <link href="{{ asset('bower_components/admin-md/plugins/material-design-iconic-font/css/material-design-iconic-font.css')}}" rel="stylesheet"> --}}
 {{-- <link href="{{ asset('bower_components/admin-md/css/style-2.css')}}" type="text/css" rel="stylesheet" media="screen,projection"/> --}}

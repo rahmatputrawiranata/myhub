@@ -1,4 +1,4 @@
-@extends('layouts.tpl-parallax')
+@extends('layouts.tpl-remotehub')
 
 @section('title')
 Kami Kerja Remote

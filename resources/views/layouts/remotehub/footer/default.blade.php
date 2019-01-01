@@ -1,4 +1,4 @@
-<div class="page-footer">
+<div class="page-footer theme-white">
     <div class="container">
         <div class="version pull-right">
             <b>Version: </b> 1.2.0

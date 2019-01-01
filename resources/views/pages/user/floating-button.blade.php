@@ -1,4 +1,4 @@
-<div class="fixed-action-btn direction-left">
+<div class="fixed-action-btn direction-top">
     <a class="btn-floating btn-large orange">
         <i class="material-icons md-36">apps</i>
     </a>
