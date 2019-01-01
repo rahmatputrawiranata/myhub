@@ -6,7 +6,7 @@
         <!-- Uncomment below if you prefer to use an image logo -->
         <a href="#body"><img src="{{ asset('img/logo-5-dark.png')}}" height="55px" alt=""><br></a>
       </div>
-      <div class="pull-right"><img src="{{ asset('img/logo-6-mini.png')}}" height="35px" alt=""></div>
+      <div class="pull-right"><img src="{{ asset('img/logo-6-mini-dark.png')}}" height="35px" alt=""></div>
       <nav id="nav-menu-container">
         <ul class="nav-menu">
           <li class="menu-active"><a href="#body">Home</a></li>
