@@ -51,7 +51,7 @@
           <div role="tabpanel" class="tab-pane fade in active" id="talent_solution">
             {{-- <p> <b>Add your network...</b></p> --}}
             <p>
-              @include('pages.jobs.detail.talent')
+              @include('pages.jobs.detail.talent-form')
             </p>
           </div>
           <div role="tabpanel" class="tab-pane fade" id="career_solution">
