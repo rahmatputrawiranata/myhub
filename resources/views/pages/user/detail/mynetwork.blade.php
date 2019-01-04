@@ -1,5 +1,5 @@
 <div class="row">
-  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+  <div class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
     <div class="card profile-card">
       <div class="profile-header"></div>
       <div class="profile-body">
@@ -17,7 +17,7 @@
     <!-- /.Member -->
   </div>
   <!-- /.col -->
-  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+  <div class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
     <div class="card profile-card">
       <div class="profile-header"></div>
       <div class="profile-body">
@@ -35,7 +35,7 @@
     <!-- /.Member -->
   </div>
   <!-- /.col -->
-  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+  <div class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
     <div class="card profile-card">
       <div class="profile-header"></div>
       <div class="profile-body">
@@ -53,7 +53,7 @@
     <!-- /.Member -->
   </div>
   <!-- /.col -->
-  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+  <div class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
     <div class="card profile-card">
       <div class="profile-header"></div>
       <div class="profile-body">
@@ -71,7 +71,7 @@
     <!-- /.Member -->
   </div>
   <!-- /.col -->
-    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
     <div class="card profile-card">
       <div class="profile-header"></div>
       <div class="profile-body">
@@ -89,7 +89,7 @@
     <!-- /.Member -->
   </div>
   <!-- /.col -->
-  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+  <div class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
     <div class="card profile-card">
       <div class="profile-header"></div>
       <div class="profile-body">
@@ -107,7 +107,7 @@
     <!-- /.Member -->
   </div>
   <!-- /.col -->
-  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+  <div class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
     <div class="card profile-card">
       <div class="profile-header"></div>
       <div class="profile-body">
@@ -125,7 +125,7 @@
     <!-- /.Member -->
   </div>
   <!-- /.col -->
-  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+  <div class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
     <div class="card profile-card">
       <div class="profile-header"></div>
       <div class="profile-body">
