@@ -27,7 +27,7 @@
     <div class="row clearfix">
         <div class="col-sm-6">
             <h2 class="card-inside-title">To*</h2>
-            <select class="form-control show-tick m-t-5">
+            <select class="show-tick m-t-5">
                 <option value="">-- MONTH --</option>
                 <option value="1">January</option>
                 <option value="2">February</option>
@@ -42,7 +42,7 @@
                 <option value="11">November</option>
                 <option value="12">December</option>
             </select>
-            <select class="form-control show-tick m-t-5">
+            <select class="show-tick m-t-5">
                 <option value="">-- YEAR --</option>
                 <option value="2018">2018</option>
                 <option value="2017">2017</option>
@@ -108,7 +108,7 @@
         </div>
         <div class="col-sm-6">
             <h2 class="card-inside-title">To*</h2>
-            <select class="form-control show-tick m-t-5">
+            <select class="show-tick m-t-5">
                 <option value="">-- MONTH --</option>
                 <option value="1">January</option>
                 <option value="2">February</option>
@@ -123,7 +123,7 @@
                 <option value="11">November</option>
                 <option value="12">December</option>
             </select>
-            <select class="form-control show-tick m-t-5">
+            <select class="show-tick m-t-5">
                 <option value="">-- YEAR --</option>
                 <option value="2018">2018</option>
                 <option value="2017">2017</option>
@@ -202,7 +202,7 @@
     </div>
     <div class="row clearfix">
         <div class="col-sm-12">
-            <select name="industry" id="position-industry" class="form-control ">  
+            <select name="industry" id="position-industry" class="">  
                 <option value="">Choose an industry…</option>
                 
                 <option value="47">Accounting</option>
@@ -360,7 +360,7 @@
             <h2>Description</h2>
             <div class="form-group">
                 <div class="form-line">
-                    <textarea rows="4" class="form-control no-resize" placeholder="Please type what you want..."></textarea>
+                    <textarea rows="4" class="no-resize" placeholder="Please type what you want..."></textarea>
                 </div>
             </div>
         </div>

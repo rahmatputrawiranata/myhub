@@ -16,7 +16,7 @@
         <link href="{{ asset('bower_components/admin-md/plugins/bootstrap-tagsinput/bootstrap-tagsinput.css')}}" rel="stylesheet">
         
         <!-- Bootstrap Select Css -->
-        <link href="{{ asset('bower_components/admin-md/plugins/bootstrap-select/css/bootstrap-select.css')}}" rel="stylesheet" />
+        {{-- <link href="{{ asset('bower_components/admin-md/plugins/bootstrap-select/css/bootstrap-select.css')}}" rel="stylesheet" /> --}}
         
         <!-- noUISlider Css -->
         <link href="{{ asset('bower_components/admin-md/plugins/nouislider/nouislider.min.css')}}" rel="stylesheet" />

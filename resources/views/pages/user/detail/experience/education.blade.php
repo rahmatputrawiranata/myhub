@@ -37,7 +37,7 @@
     <div class="row clearfix">
         <div class="col-sm-6">
             <h2 class="card-inside-title">From*</h2>
-            <select class="form-control show-tick m-t-5">
+            <select class="m-t-5">
                 <option value="">-- YEAR --</option>
                 <option value="2018">2018</option>
                 <option value="2017">2017</option>
@@ -103,7 +103,7 @@
         </div>
         <div class="col-sm-6">
             <h2 class="card-inside-title">To*</h2>
-            <select class="form-control show-tick m-t-5">
+            <select class="show-tick m-t-5">
                 <option value="">-- YEAR --</option>
                 <option value="2018">2018</option>
                 <option value="2017">2017</option>
